@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/english
+  path: content
   label: Authors
   create: all
-  match: "*"
+  match: english/*
 - type: directory
   path: content
   label: Pages
