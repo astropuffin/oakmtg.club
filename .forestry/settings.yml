@@ -15,11 +15,6 @@ sections:
   label: Authors
   create: all
   match: "*"
-- type: directory
-  path: content/english/author
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
