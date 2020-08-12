@@ -6,6 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: content
+  label: Blog
+  create: all
+  match: "*/blog/*"
+- type: directory
+  path: content
   label: Authors
   create: all
   match: "*/author/*"
