@@ -1,0 +1,4 @@
+baseURL = "http://doublevisionopd.org/"
+languageCode = "en-us"
+title = "DoubleVisionOPD.org"
+theme = "educenter-hugo"
