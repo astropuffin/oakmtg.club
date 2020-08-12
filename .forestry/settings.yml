@@ -9,7 +9,7 @@ sections:
   label: Blog
   create: all
   match: "*/blog/*"
-  exclude: _index.md
+  exclude: "*/blog/_index.md"
 - type: directory
   path: content
   label: Authors
