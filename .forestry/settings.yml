@@ -8,7 +8,7 @@ sections:
   path: content
   label: Authors
   create: all
-  match: english/*
+  match: english/author/*
 - type: directory
   path: content
   label: Pages
