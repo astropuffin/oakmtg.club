@@ -11,12 +11,12 @@ sections:
   match: "*"
   exclude: _index.md
 - type: directory
-  path: content
+  path: content/english/author
   label: Authors
   create: all
-  match: "*/author/*"
+  match: "*"
 - type: directory
-  path: content
+  path: content/english/author
   label: Pages
   create: all
   match: "*"
