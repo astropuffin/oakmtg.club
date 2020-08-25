@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://oakmtg.club"
+baseURL = "https://oakmtg.club"
 title = "Oakmtg Appreciation Club | Appeciating Oakland City Meetings"
 theme = "educenter-hugo"
 # post pagination
