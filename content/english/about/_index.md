@@ -6,12 +6,12 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "A group of Oakland Citizens who are trying to figure out what the hell is going on with OPD."
+description : "A group of Oakland citizens who are trying to figure out what the hell is going on."
 ---
 
-## #OAKMTG Crew
+## Oakmtg Appreciation Club
 
-We live tweet oakland meetings using the "#oakmtg" hashtag. Come join us!
+We live tweet Oakland meetings using the "#oakmtg" hashtag. Come join us!
 We started out with and are actively engaged in "last mile" civic participation. We call in to Oakland
 City Council and Oakland Policy Commission meetings during the public comment sections. This can and does
 cause councilers and comissioners to change the what is being voted on.
