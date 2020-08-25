@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://doublevisionopd.org"
-title = "DoubleVisionOPD | Keeping Two Eyes on OPD"
+baseURL = "http://oakmtg.club"
+title = "Oakmtg Appreciation Club | Appeciating Oakland City Meetings"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
@@ -50,44 +50,49 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "course"
-URL = "course"
+name = "Voter Guide"
+URL = "https://oakland.vote"
 weight = 2
 
-[[menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
+#[[menu.main]]
+#name = "course"
+#URL = "course"
+#weight = 2
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  URL = "teacher"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "notice"
-  URL = "notice"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "event"
-  URL = "event"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  URL = "scholarship"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "research"
-  URL = "research"
-  
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 4
+#[[menu.main]]
+#weight = 3
+#name = "Pages"
+#hasChildren = true
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "teacher"
+#  URL = "teacher"
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "notice"
+#  URL = "notice"
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "event"
+#  URL = "event"
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "scholarship"
+#  URL = "scholarship"
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "research"
+#  URL = "research"
+#  
+#[[menu.main]]
+#name = "blog"
+#URL = "blog"
+#weight = 4
   
 [[menu.main]]
 name = "Contact"
@@ -97,38 +102,38 @@ weight = 5
 
 # footer menu
 
-[[menu.footer]]
-name = "teacher"
-URL = "teacher"
-
-[[menu.footer]]
-name = "notice"
-URL = "notice"
-
-[[menu.footer]]
-name = "event"
-URL = "event"
-
-[[menu.footer]]
-name = "scholarship"
-URL = "scholarship"
-
-[[menu.footer]]
-name = "research"
-URL = "research"
+#[[menu.footer]]
+#name = "teacher"
+#URL = "teacher"
+#
+#[[menu.footer]]
+#name = "notice"
+#URL = "notice"
+#
+#[[menu.footer]]
+#name = "event"
+#URL = "event"
+#
+#[[menu.footer]]
+#name = "scholarship"
+#URL = "scholarship"
+#
+#[[menu.footer]]
+#name = "research"
+#URL = "research"
 
 
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Keeping Two Eyes on OPD"
+description = "Appeciating Oakland City Meetings"
 author = "astropuffin"
 # contact info
 #address = "9567 Turner Trace Apt. BC C3G8A4"
 #mobile = "+211234565523"
 mobile = "N/A"
-email = "info@doublevisionopd.org"
+email = "info@oakmtg.club"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -141,12 +146,12 @@ top_header = true
 enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
-# Subscription
-[params.subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+## Subscription
+#[params.subscription]
+#enable = true
+## mailchimp subsciption
+#mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+#mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
 [params.map]
