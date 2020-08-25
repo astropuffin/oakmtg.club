@@ -132,7 +132,7 @@ author = "astropuffin"
 # contact info
 #address = "9567 Turner Trace Apt. BC C3G8A4"
 #mobile = "+211234565523"
-mobile = "N/A"
+#mobile = "N/A"
 email = "info@oakmtg.club"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
