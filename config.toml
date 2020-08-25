@@ -181,7 +181,7 @@ link = "https://twitter.com/search?q=%23oakmtg"
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/astropuffin/doublevisionopdorg"
+link = "https://github.com/astropuffin/oakmtg.club"
 
 #[[params.social]]
 #title = "linkedin"
