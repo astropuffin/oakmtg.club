@@ -18,7 +18,8 @@ Your friends and neighbors across Oakland who came together after the murder of 
 
 Then we became infuriated and fascinated by the lack of transparency and lies we saw so blatantly in front of us. We became hooked on understanding what was happening and why our city is so disorganized. We want to distill our ongoing work to understand our government into something that our friends and neighbors can understand. We especially want to uplift the voices of those in the Black community, which is the community most impacted by police violence and systemic racism. We may not even vote the same way amongst ourselves, and we think that’s okay, as long as we are all informed.
 
-### **Figure out your district:**   
+### **Figure out your district:** 
+
 [http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
 
 ### At Large
