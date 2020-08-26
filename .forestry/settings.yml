@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/english/guide/_index.md
   label: Voter Guide
-  match: "**/*"
 - type: directory
   path: content/english/author
   label: Authors
