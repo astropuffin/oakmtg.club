@@ -1,15 +1,14 @@
 ---
-title: "Voter Guide"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/OaklandPanorama2.jpg"
-# guide image
-#image: "images/about/about-page.jpg"
-# meta description
-description : "Here's what's going on."
----
+title: Voter Guide
+bg_image: images/backgrounds/OaklandPanorama2.jpg
+description: Here's what's going on.
 
-## Oakmtg Voter Guide
+---
+## The Procrastinator’s Guide to Oakland Voting
+
+#### November 3, 2020
+
+#### By #oakmtg friends
 
 ### At Large
 
