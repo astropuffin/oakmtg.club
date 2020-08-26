@@ -1,12 +1,10 @@
 ---
 title: Voter Guide
 bg_image: images/backgrounds/OaklandPanorama2.jpg
-description: What you need to vote in Oakland on November 3rd.
+description: What you need to vote in Oakland on November 3, 2020.
 
 ---
 ## The Procrastinator’s Guide to Oakland Voting
-
-#### November 3, 2020
 
 #### By #oakmtg friends
 
