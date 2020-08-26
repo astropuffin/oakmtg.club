@@ -51,7 +51,8 @@ weight = 1
 
 [[menu.main]]
 name = "Voter Guide"
-URL = "https://oakland.vote"
+URL = "guide"
+#URL = "https://oakland.vote"
 weight = 2
 
 #[[menu.main]]
@@ -94,10 +95,10 @@ weight = 2
 #URL = "blog"
 #weight = 4
   
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 5
+#[[menu.main]]
+#name = "Contact"
+#URL = "contact"
+#weight = 5
 
 
 # footer menu

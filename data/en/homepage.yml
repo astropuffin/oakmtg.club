@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/oakland_skyline.jpg"
   slider_item:
     # slider item loop
     - title : "Holding OPD Accountable"
@@ -9,10 +9,10 @@ slider:
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Join us"
-        link : "contact"
+      #button:
+      #  enable : true
+      #  label : "Join us"
+      #  link : "contact"
 
     # slider item loop
     - title : "Throwing Shade on City Council Members"
@@ -20,10 +20,10 @@ slider:
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Join us"
-        link : "contact"
+      #button:
+      #  enable : true
+      #  label : "Join us"
+      #  link : "contact"
 
     # slider item loop
     - title : "Following in the Footsteps of Gene Hazzard and Assata Olugbala"
@@ -31,10 +31,10 @@ slider:
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Join us"
-        link : "contact"
+      #button:
+      #  enable : true
+      #  label : "Join us"
+      #  link : "contact"
 
 
 ############################### Banner feature ###############################
@@ -92,7 +92,7 @@ cta:
   button:
     enable : true
     label : "join us"
-    link : "contact"
+    link : "https://twitter.com/search?q=%23oakmtg"
 
 
 ######################## Success story #############################
@@ -117,24 +117,24 @@ cta:
 
   
 ########################### funfacts ############################
-funfacts:
-  enable : true
-  funfact_item:
-    # funfact item loop
-    - name : "Crew Members"
-      count : "6"
-
-    # funfact item loop
-    - name : "Shades Thrown"
-      count : "50"
-
-    # funfact item loop
-    - name : "Insightfull Comments"
-      count : "127"
-
-    # funfact item loop
-    - name : "Hours Wasted"
-      count : "10000"
+#funfacts:
+#  enable : true
+#  funfact_item:
+#    # funfact item loop
+#    - name : "Crew Members"
+#      count : "6"
+#
+#    # funfact item loop
+#    - name : "Shades Thrown"
+#      count : "50"
+#
+#    # funfact item loop
+#    - name : "Insightfull Comments"
+#      count : "127"
+#
+#    # funfact item loop
+#    - name : "Hours Wasted"
+#      count : "10000"
 
 # funfact is for about page
 
