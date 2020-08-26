@@ -28,7 +28,7 @@ Then we became infuriated and fascinated by the lack of transparency and lies we
 
 [http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
 
-\[DISTRICT CARDS\]
+    [DISTRICT CARDS]
 
 ### At Large
 
