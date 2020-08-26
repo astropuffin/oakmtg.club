@@ -4,23 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content/english/event
-  label: Upcoming Events
-  create: all
-  match: "*"
-  exclude: _index.md
-- type: directory
-  path: content/english/blog
-  label: Blog
-  create: all
-  match: "*"
-  exclude: _index.md
-- type: directory
-  path: content/english/author
-  label: Authors
-  create: all
-  match: "*"
+- type: document
+  path: content/english/guide/_index.md
+  label: Voter Guide
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
