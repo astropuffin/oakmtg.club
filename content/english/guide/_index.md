@@ -28,6 +28,8 @@ Then we became infuriated and fascinated by the lack of transparency and lies we
 
 [http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
 
+\[DISTRICT CARDS\]
+
 ### At Large
 
 sdafsdfsdfsad
@@ -39,3 +41,7 @@ sadfsadfsdf
 ### District 2
 
 more stuff
+
+### **Other voter guides from community organizations:**
+
+Want your guide added to our website? EMAIL US with your organization and the link to the voter guide and we’ll chat with you about it.
