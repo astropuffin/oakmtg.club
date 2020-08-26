@@ -2,9 +2,9 @@
 title: "About Us"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/OaklandPanorama2.jpg"
 # about image
-image: "images/about/about-page.jpg"
+image: "images/about/oakland_skyline_lake_merritt.jpg"
 # meta description
 description : "A group of Oakland citizens who are trying to figure out what the hell is going on."
 ---
