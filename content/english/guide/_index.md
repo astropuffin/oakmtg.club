@@ -6,7 +6,7 @@ description: What you need to vote in Oakland on November 3, 2020.
 ---
 ## The Informed Voter's Guide to Oakland Voting
 
-#### By #oakmtg friends
+#### By #oakmtg (Appreciation) Club
 
 HOW DO I VOTE IN 2020? >
 
