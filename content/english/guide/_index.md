@@ -16,7 +16,7 @@ GO STRAIGHT TO THE BALLOTS >
 
 ### **What this is:**
 
-An in-depth look at the candidates running for office and measures on the ballot on November 3, 2020. Our goal is to present as many facts as we can about the folks running and the policies they are trying to push so you can easily digest it, make your own choices, and vote. There are no fully comprehensive, accessible voting guides in Oakland, so we wanted to make one for you.
+There are no fully comprehensive, accessible voting guides in Oakland, so we wanted to make one for you. We give you the facts and the research, you make your own choices, and vote on (or before!) November 3, 2020.
 
 ### **Who we are:**
 
