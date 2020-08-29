@@ -55,8 +55,8 @@ URL = "guide"
 weight = 2
 
 [[menu.main]]
-name = "Public Officials"
-URL = "officials"
+name = "Candidates"
+URL = "candidates"
 weight = 3
 
 #[[menu.main]]

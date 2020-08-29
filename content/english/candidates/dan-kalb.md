@@ -31,7 +31,7 @@ contact:
     link : "https://www.facebook.com/DanKalbCityCouncil/"
 
 # type
-type: "officials"
+type: "candidates"
 ---
 
 ### About Me
