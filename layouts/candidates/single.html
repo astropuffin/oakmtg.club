@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- officials details -->
+<!-- candidates details -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -43,7 +43,7 @@
       -->
       <!-- course item -->
       <!--
-      {{ range where site.RegularPages "Params.officials" .Title }}
+      {{ range where site.RegularPages "Params.candidates" .Title }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course"}}
       </div>
@@ -52,6 +52,6 @@
     </div>
   </div>
 </section>
-<!-- /officials details -->
+<!-- /candidates details -->
 
 {{ end }}

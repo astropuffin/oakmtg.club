@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-<!-- officials -->
+<!-- candidates -->
 <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <!-- teacher category list -->
+        <!-- candidate category list -->
         <ul class="list-inline text-center filter-controls mb-5">
           <li class="list-inline-item m-3 text-uppercase active" data-filter="all">{{ i18n "all" }}</li>
           {{ $categories := slice }}
@@ -18,17 +18,17 @@
         </ul>
       </div>
     </div>
-    <!-- teacher list -->
+    <!-- candidate list -->
     <div class="row filtr-container">
-      <!-- teacher -->
+      <!-- candidate -->
       {{ range .Data.Pages }}
       <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
-        {{ .Render "teacher" }}
+        {{ .Render "candidate" }}
       </div>
       {{ end }}
     </div>
   </div>
 </section>
-<!-- /officials -->
+<!-- /candidates -->
 
 {{ end }}
