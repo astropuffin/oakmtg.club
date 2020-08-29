@@ -2,7 +2,7 @@
 title: "Dan Kalb"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/OaklandPanorama2.jpg"
+bg_image: "uploads/backgrounds/background-oakland-panorama.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # portrait
