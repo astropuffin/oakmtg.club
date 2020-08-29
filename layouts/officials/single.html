@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- official details -->
+<!-- officials details -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -9,7 +9,7 @@
       </div>
       <div class="col-md-6 mb-5">
         <h3>{{ .Title }}</h3>
-        <h6 class="text-color">{{ .Params.Course }}</h6>
+        <h6 class="text-color">{{ .Params.Appointments }}</h6>
         <p class="mb-5">{{ .Params.Bio | markdownify }}</p>
         <div class="row">
           <div class="col-md-6 mb-5 mb-md-0">
@@ -21,9 +21,9 @@
             </ul>
           </div>
           <div class="col-md-6">
-            <h4 class="mb-4">{{ i18n "interest" | upper }}</h4>
+            <h4 class="mb-4">{{ i18n "tags" | upper }}</h4>
             <ul class="list-unstyled">
-              {{ range .Params.Interest }}
+              {{ range .Params.Tags }}
               <li class="mb-3">{{ . | title }}</li>
               {{ end }}
             </ul>
@@ -36,18 +36,22 @@
     </div>
 
     <div class="row">
+      <!--
       <div class="col-12">
         <h4 class="mb-4">{{ i18n "courses" | upper}}</h4>
       </div>
+      -->
       <!-- course item -->
-      {{ range where site.RegularPages "Params.official" .Title }}
+      <!--
+      {{ range where site.RegularPages "Params.officials" .Title }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course"}}
       </div>
       {{ end }}
+      -->
     </div>
   </div>
 </section>
-<!-- /official details -->
+<!-- /officials details -->
 
 {{ end }}
