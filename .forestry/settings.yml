@@ -4,9 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: content/english/about/_index.md
+  label: About
+  match: "**/*"
 - type: directory
-  path: content/english/officials
-  label: Officials
+  path: content/english/candidates
+  label: Candidates
   create: all
   match: "*"
   exclude: _index.md
