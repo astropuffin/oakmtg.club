@@ -55,9 +55,14 @@ URL = "guide"
 weight = 2
 
 [[menu.main]]
+name = "How to Vote"
+URL = "how-to-vote"
+weight = 3
+
+[[menu.main]]
 name = "Candidates"
 URL = "candidates"
-weight = 3
+weight = 4
 
 #[[menu.main]]
 #name = "course"
