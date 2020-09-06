@@ -1,5 +1,5 @@
 ---
-label: Official
+label: Candidate
 hide_body: false
 fields:
 - type: text
@@ -39,5 +39,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- content/english/officials/carroll-fife.md
