@@ -5,9 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/english/how-to-vote/_index.md
+  label: How to Vote
+  match: "**/*"
+- type: document
   path: content/english/about/_index.md
   label: About
-  match: "**/*"
 - type: directory
   path: content/english/candidates
   label: Candidates
