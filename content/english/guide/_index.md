@@ -28,20 +28,6 @@ As we learned together, we saw the need in our city civic processes for more tra
 
 [http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
 
-    [DISTRICT CARDS]
-
-### At Large
-
-sdafsdfsdfsad
-
-### District 1
-
-sadfsadfsdf
-
-### District 2
-
-more stuff
-
 ### **Other voter guides from community organizations:**
 
 Want your guide added to our website? EMAIL US with your organization and the link to the voter guide and we’ll chat with you about it.
