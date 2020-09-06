@@ -8,7 +8,7 @@ description: What you need to vote in Oakland on November 3, 2020.
 
 #### By #oakmtg (Appreciation) Club
 
-HOW DO I VOTE IN 2020? >
+[HOW DO I VOTE IN 2020?](/how-to-vote) >
 
 [LOOK UP YOUR DISTRICT >](http://gisapps1.mapoakland.com/councildistricts/)
 
