@@ -5,9 +5,17 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/english/guide/_index.md
+  label: Voter Guide - Main
+- type: directory
+  path: content/english/guide
+  label: Voter Guide - Districts
+  create: all
+  match: "*"
+  exclude: _index.md
+- type: document
   path: content/english/how-to-vote/_index.md
   label: How to Vote
-  match: "**/*"
 - type: document
   path: content/english/about/_index.md
   label: About
@@ -19,9 +27,6 @@ sections:
   exclude: _index.md
   templates:
   - official
-- type: document
-  path: content/english/guide/_index.md
-  label: Voter Guide
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
