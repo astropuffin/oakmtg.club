@@ -37,4 +37,5 @@ fields:
   name: type
   label: type
 pages:
+- content/english/candidates/carroll-fife.md
 - content/english/candidates/noel-gallo.md
