@@ -1,16 +1,10 @@
 ---
-title: "District 7"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/OaklandPanorama2.jpg"
-# meta description
-description : "Disctrict 1"
-# Research image
-image: "uploads/districts/district-7.png"
-# type
-type: "guide"
----
+title: District 7
+bg_image: images/backgrounds/OaklandPanorama2.jpg
+description: Disctrict 7
+image: uploads/districts/district-7.png
 
+---
 ### City Council - District 1
 - [Dan Kalb](/candidates/dan-kalb)
 
