@@ -3,6 +3,7 @@ appointments = "Oakland City Council"
 bg_image = "uploads/backgrounds/background-oakland-panorama.jpg"
 bio = "TL;DR: A frustrating but effective progressive who’s not always there when you call but always on time."
 description = "Candidate for City Council - District 3"
+draft = true
 image = "/uploads/carroll-fife.jpeg"
 tags = ["District 3", "Oakland City Council"]
 title = "Carroll Fife"
