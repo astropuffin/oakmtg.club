@@ -1,16 +1,10 @@
 ---
-title: "District 3"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/OaklandPanorama2.jpg"
-# meta description
-description : "Disctrict 1"
-# Research image
-image: "uploads/districts/district-3.png"
-# type
-type: "guide"
----
+title: District 3
+bg_image: images/backgrounds/OaklandPanorama2.jpg
+description: Disctrict 3
+image: uploads/districts/district-3.png
 
+---
 ### City Council - District 1
 - [Dan Kalb](/candidates/dan-kalb)
 
