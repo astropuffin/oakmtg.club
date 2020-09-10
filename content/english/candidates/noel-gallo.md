@@ -9,7 +9,7 @@ title = "Noel Gallo"
 [[contact]]
 icon = ""
 link = "https://twitter.com/NoelGallo5"
-name = "@NoelGallo5"
+name = "Twitter"
 
 +++
 #### Introduction
