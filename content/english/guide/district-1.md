@@ -1,16 +1,11 @@
 ---
-title: "District 1"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/OaklandPanorama2.jpg"
-# meta description
-description : "Disctrict 1"
-# Research image
-image: "uploads/districts/district-1.png"
-# type
-type: "guide"
----
+title: District 1
+bg_image: images/backgrounds/OaklandPanorama2.jpg
+description: Disctrict 1 - North Oakland, Bushrod, Rockridge, Temescal, hills through
+  Montclair
+image: uploads/districts/district-1.png
 
+---
 ### City Council - District 1
 - [Dan Kalb](/candidates/dan-kalb)
 
