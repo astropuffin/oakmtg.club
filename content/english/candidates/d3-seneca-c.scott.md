@@ -3,7 +3,6 @@ appointments = "Oakland City Council"
 bg_image = "uploads/backgrounds/background-oakland-panorama.jpg"
 bio = "TL;DR: A labor organizer with slick headshots but virtually no concrete platform\n"
 description = "Candidate for City Council - District 3"
-draft = true
 image = ""
 tags = ["District 3", "Oakland City Council"]
 title = "Seneca C. Scott"
