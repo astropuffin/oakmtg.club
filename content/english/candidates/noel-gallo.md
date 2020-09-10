@@ -3,6 +3,7 @@ appointments = "Oakland City Council"
 bg_image = ""
 bio = "TL;DR: A career politician who’s changed his tone when it comes to supporting police funding but maybe not his heart\n"
 description = "Candidate for City Council - District 5"
+draft = true
 image = ""
 tags = ["District 5", "Oakland City Council"]
 title = "Noel Gallo"
