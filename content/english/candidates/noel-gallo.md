@@ -7,13 +7,15 @@ image = ""
 tags = ["District 5", "Oakland City Council"]
 title = "Noel Gallo"
 [[contact]]
-icon = ""
+icon = "ti-world"
+link = "https://www.noelgalloforoakland.com/"
+name = "Campaign website"
+[[contact]]
+icon = "ti-twitter-alt"
 link = "https://twitter.com/NoelGallo5"
 name = "Twitter"
 
 +++
 #### Introduction
 
-asdfsadfsdaasdf
-
-sdfasd
+Noel Gallo is the incumbent in the District 5 City Council race. He was first elected to City Council in 2013 and is serving his second four year term. Before his election to the City Council, he served on the Oakland Board of Education for 20 years.
