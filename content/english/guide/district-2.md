@@ -3,6 +3,7 @@ title: District 2
 bg_image: images/OaklandPanorama2.jpg
 description: Disctrict 2 - Eastlake, Grand Lake, San Antonio, Chinatown
 image: images/district-2.png
+type: guide
 
 ---
 ### City Council - District 1

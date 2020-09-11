@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/OaklandPanorama2.jpg"
 # meta description
-description : "Disctrict 1"
+description : "District 4"
 # Research image
 image: "images/district-4.png"
 # type
