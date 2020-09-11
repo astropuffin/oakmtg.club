@@ -1,23 +1,27 @@
-+++
-appointments = "Oakland City Council"
-bg_image = "images/background-oakland-panorama.jpg"
-bio = "TL;DR: A labor organizer with slick headshots but virtually no concrete platform\n"
-description = "Candidate for City Council - District 3"
-image = "images/seneca_c_scott_from_twitter.jpg"
-tags = ["District 3", "Oakland City Council"]
-title = "Seneca C. Scott"
-type = "candidates"
-[[contact]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/SenecaforOakd3"
-name = "Twitter"
-[[contact]]
-icon = "ti-world"
-link = "https://www.senecaforoaklandd3.com/"
-name = "Campaign website"
-
-+++
+---
+title: Seneca C. Scott
+image: images/seneca_c_scott_from_twitter.jpg
+bg_image: images/background-oakland-panorama.jpg
+description: Candidate for City Council - District 3
+appointments: Oakland City Council
+bio: >
+  TL;DR: A labor organizer with slick headshots but virtually no concrete
+  platform
+tags:
+  - District 3
+  - Oakland City Council
+contact:
+  - icon: ti-twitter-alt
+    link: https://twitter.com/SenecaforOakd3
+    name: Twitter
+  - icon: ti-world
+    link: https://www.senecaforoaklandd3.com/
+    name: Campaign website
+type: candidates
+---
 ### TL;DR: A labor organizer with slick headshots but virtually no concrete platform
+
+TEST COPY
 
 #### Introduction
 
