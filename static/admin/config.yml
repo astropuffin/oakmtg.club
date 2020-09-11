@@ -34,4 +34,22 @@ collections:
     filter:
       field: type
       value: candidates
+  - name: guide_districts
+    label: "Districts"
+    folder: "content/english/guide"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
+      - {label: Description, name: description, hint: "Example: 'Temescal, hills through Montclair'", widget: string}
+      - label: Image
+        name: image
+        widget: image
+        media_library:
+          config:
+            multiple: false
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: guide
 

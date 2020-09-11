@@ -1,8 +1,9 @@
 ---
 title: District 5
 bg_image: images/OaklandPanorama2.jpg
-description: Disctrict 1
+description: District 5
 image: images/district-5.png
+type: guide
 
 ---
 ### City Council - District 1
