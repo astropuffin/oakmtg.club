@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: main
+publish_mode: editorial_workflow
+media_folder: "static/images"
+public_folder: "/images"
+collections:
+  - name: candidates
+    label: "Candidates"
+    folder: "content/english/candidates"
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Description, name: description, widget: string}
+      - {label: Appointments, name: appointments, widget: string}
+      - {label: Bio, name: bio, widget: string}
+      - {label: Tags, name: tags, widget: list }
+      - label: Image
+        name: image
+        widget: image
+        media_library:
+          config:
+            multiple: false
