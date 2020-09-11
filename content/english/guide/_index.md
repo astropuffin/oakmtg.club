@@ -4,7 +4,7 @@ bg_image: images/backgrounds/OaklandPanorama2.jpg
 description: What you need to vote in Oakland on November 3, 2020.
 
 ---
-## The Informed Voter's Guide to Oakland Voting
+## The Last-Minute Voter's Guide to Oakland Elections
 
 #### By #oakmtg (Appreciation) Club
 
@@ -20,14 +20,8 @@ There are no fully comprehensive, accessible voting guides in Oakland, so we wan
 
 ### **Who we are:**
 
-We are your friends and neighbors across Oakland who came together after the murder of George Floyd to try to make changes in policing at the city level. We met after listening in to hours upon hours of Oakland government meetings and live-tweeting under #oakmtg. We rooted each other on as we tried to champion the #defundOPD movement alongside hundreds of community voices.
-
-As we learned together, we saw the need in our city civic processes for more transparency and accountability. We became hooked on understanding what was happening and why our city is so disorganized. We want to distill our ongoing work to understand our government into something that our friends and neighbors can understand. We especially want to uplift the voices of those in the Black community, the community most impacted by police violence and systemic racism. We may not even vote the same way amongst ourselves, and we think that’s okay, as long as we are all informed and supporting each other in creating a better Oakland.
+We are your friends and neighbors across Oakland. For more information about us, check out our [About page](/about).
 
 ### **Figure out your district:**
 
-[http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
-
-### **Other voter guides from community organizations:**
-
-Want your guide added to our website? EMAIL US with your organization and the link to the voter guide and we’ll chat with you about it.
+If you don't know your district, you can figure it out here: [http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
