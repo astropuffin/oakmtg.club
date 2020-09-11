@@ -8,6 +8,7 @@ collections:
   - name: candidates
     label: "Candidates"
     folder: "content/english/candidates"
+    create: true
     fields:
       - {label: Title, name: title, widget: string}
       - label: Image
