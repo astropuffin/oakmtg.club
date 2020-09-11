@@ -21,8 +21,6 @@ type: candidates
 ---
 ### TL;DR: A labor organizer with slick headshots but virtually no concrete platform
 
-TEST COPY
-
 #### Introduction
 
 Seneca Scott is not seen as a leading candidate in the race for the D3 Council seat, though he is deeply invested in the West Oakland community. He has not participated in any candidate forums that we could find - if you know of any, please tell us about them!
