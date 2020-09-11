@@ -2,11 +2,11 @@
 title: "Steph Dominguez Walton"
 draft: false
 # page title background image
-bg_image: "uploads/backgrounds/background-oakland-panorama.jpg"
+bg_image: "images/background-oakland-panorama.jpg"
 # meta description
 description : "Candidate for City Council - District 1"
 # portrait
-image: "uploads/candidates/steph-dominguez-walton.jpg"
+image: "images/steph-dominguez-walton.jpg"
 # appointments
 appointments: "Oakland City Council"
 # biography

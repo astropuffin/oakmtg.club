@@ -1,7 +1,7 @@
 ---
 title: About Us
-bg_image: images/backgrounds/OaklandPanorama2.jpg
-image: images/about/oakland_skyline_lake_merritt.jpg
+bg_image: images/OaklandPanorama2.jpg
+image: images/oakland_skyline_lake_merritt.jpg
 description: A group of Oakland citizens who are trying to figure out what the hell
   is going on.
 

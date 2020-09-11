@@ -1,6 +1,6 @@
 +++
 appointments = "Oakland City Council"
-bg_image = "uploads/backgrounds/background-oakland-panorama.jpg"
+bg_image = "images/background-oakland-panorama.jpg"
 bio = ""
 description = "Candidate for City Council - District 3"
 draft = true
