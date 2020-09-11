@@ -11,7 +11,7 @@ collections:
     create: true
     fields:
       - {label: Title, name: title, widget: string}
-      - label: "Image (Should be a square image with equal hight and width)"
+      - label: Image
         name: image
         hint: "Should be a square image with equal hight and width."
         widget: image
