@@ -10,13 +10,27 @@ collections:
     folder: "content/english/candidates"
     fields:
       - {label: Title, name: title, widget: string}
-      - {label: Description, name: description, widget: string}
-      - {label: Appointments, name: appointments, widget: string}
-      - {label: Bio, name: bio, widget: string}
-      - {label: Tags, name: tags, widget: list }
       - label: Image
         name: image
         widget: image
         media_library:
           config:
             multiple: false
+      - {label: "Background Image DO NOT MODIFY", name: bg_image, widget: string, default: "uploads/backgrounds/background-oakland-panorama.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: Position, name: appointments, widget: string}
+      - {label: Bio, name: bio, widget: string}
+      - {label: Tags (Comma separated list), name: tags, widget: list }
+      - label: Contact
+        name: contact
+        widget: list
+        fields:
+          - {label: Name, name: name, widget: string, default: "Official Twitter"}
+          - {label: Icon, name: icon, widget: string, default: "ti-twitter-alt"}
+          - {label: Link, name: link, widget: string, default: "https://twitter.com/#"}
+      - {label: "Content Type", name: "type", widget: "string", default: "candidates"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: candidates
+
