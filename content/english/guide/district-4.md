@@ -2,11 +2,11 @@
 title: "District 4"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/OaklandPanorama2.jpg"
+bg_image: "images/OaklandPanorama2.jpg"
 # meta description
 description : "Disctrict 1"
 # Research image
-image: "uploads/districts/district-4.png"
+image: "images/district-4.png"
 # type
 type: "guide"
 ---

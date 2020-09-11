@@ -1,6 +1,6 @@
 ---
 title: Voter Guide
-bg_image: images/backgrounds/OaklandPanorama2.jpg
+bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland on November 3, 2020.
 
 ---

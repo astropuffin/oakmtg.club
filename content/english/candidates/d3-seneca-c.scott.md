@@ -1,11 +1,12 @@
 +++
 appointments = "Oakland City Council"
-bg_image = "uploads/backgrounds/background-oakland-panorama.jpg"
+bg_image = "images/background-oakland-panorama.jpg"
 bio = "TL;DR: A labor organizer with slick headshots but virtually no concrete platform\n"
 description = "Candidate for City Council - District 3"
-image = "/uploads/seneca_c_scott_from_twitter.jpg"
+image = "images/seneca_c_scott_from_twitter.jpg"
 tags = ["District 3", "Oakland City Council"]
 title = "Seneca C. Scott"
+type = "candidates"
 [[contact]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/SenecaforOakd3"

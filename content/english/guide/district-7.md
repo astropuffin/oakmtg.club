@@ -1,8 +1,8 @@
 ---
 title: District 7
-bg_image: images/backgrounds/OaklandPanorama2.jpg
+bg_image: images/OaklandPanorama2.jpg
 description: Disctrict 7
-image: uploads/districts/district-7.png
+image: images/district-7.png
 
 ---
 ### City Council - District 1

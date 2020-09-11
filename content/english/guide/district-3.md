@@ -1,8 +1,8 @@
 ---
 title: District 3
-bg_image: images/backgrounds/OaklandPanorama2.jpg
+bg_image: images/OaklandPanorama2.jpg
 description: Disctrict 3
-image: uploads/districts/district-3.png
+image: images/district-3.png
 
 ---
 ### City Council - District 1

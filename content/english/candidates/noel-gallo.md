@@ -1,6 +1,6 @@
 +++
 appointments = "Oakland City Council"
-bg_image = ""
+bg_image = "images/background-oakland-panorama.jpg"
 bio = "TL;DR: A career politician who’s changed his tone when it comes to supporting police funding but maybe not his heart\n"
 description = "Candidate for City Council - District 5"
 draft = true
