@@ -1,6 +1,6 @@
 ---
 title: Rebecca Kaplan
-image: /images/rebecca_kaplan_in_july_2010.jpg
+image: /images/rebecca-kaplan.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - At Large
 appointments: City Council - At Large
