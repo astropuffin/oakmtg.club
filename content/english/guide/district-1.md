@@ -13,7 +13,7 @@ type: guide
   The incumbent; a frustrating but effective progressive who’s not always there when you call but always on time.
 * **[Stephanie Dominguez Walton](https://oakmtg.club/candidates/steph-dominguez-walton/)**
 
-  A faux-gressive newcomer with twice the incumbent’s charisma and 1.5 times his funding but no concrete plans to back it up.
+  A faux-gressive newcomer with twice the incumbent’s charisma and 150% of his funding but no concrete plans to back it up.
 * **[Tri Ngo](https://oakmtg.club/candidates/tri-ngo/)**
 
   A pretty nice guy who’s just not ready for this.
@@ -22,8 +22,11 @@ type: guide
 
 * [Rebecca Kaplan](/candidates/invalid)
 
-  blurb about Kaplan
-* [Someone Else](/candidates/invalid)
+  The incumbent;
+* Derrick B. Johnson
+
+  blurb about else
+* Nancy Sidebotham
 
   blurb about else
 
@@ -38,6 +41,27 @@ type: guide
 * [Something Blue](/candidates/invalid)
 
   blurb about Blue
+
+### City Attorney
+
+* [Harvey Birdman](/candidates/dan-kalb)
+
+  blurb about Birdman.
+* [Phoenix Wright](/candidates/invalid)
+
+  blurb about Wright
+* [Harvey Dent](/candidates/invalid)
+
+  blurb about Dent
+
+### Superior Court Judge, Office #2
+
+* Elena Condes
+
+  XXXXXXXX
+* [](/candidates/invalid)Mark Fickes
+
+  blurb
 
 ### City Attorney
 
