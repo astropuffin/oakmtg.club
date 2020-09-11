@@ -5,8 +5,8 @@ publish_mode: editorial_workflow
 media_folder: "static/images"
 public_folder: "/images"
 collections:
-  - name: candidates
-    label: "Candidates"
+  - name: candidate
+    label: "Candidate"
     folder: "content/english/candidates"
     create: true
     fields:
@@ -34,8 +34,8 @@ collections:
     filter:
       field: type
       value: candidates
-  - name: guide_districts
-    label: "Districts"
+  - name: guide_district
+    label: "District"
     folder: "content/english/guide"
     create: true
     fields:
