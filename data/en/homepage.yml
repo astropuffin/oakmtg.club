@@ -4,37 +4,16 @@ slider:
   bg_image : "images/banner/oakland_skyline.jpg"
   slider_item:
     # slider item loop
-    - title : "Holding OPD Accountable"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "#oakmtg Appreciation Club"
+      content : "A community of friends an neighbors dedicated to transparency and keeping tabs on local politics"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
-      #button:
-      #  enable : true
-      #  label : "Join us"
-      #  link : "contact"
+      button:
+        enable : true
+        label : "Learn more"
+        link : "about"
 
-    # slider item loop
-    - title : "Throwing Shade on City Council Members"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      #button:
-      #  enable : true
-      #  label : "Join us"
-      #  link : "contact"
-
-    # slider item loop
-    - title : "Following in the Footsteps of Gene Hazzard and Assata Olugbala"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      #button:
-      #  enable : true
-      #  label : "Join us"
-      #  link : "contact"
 
 
 ############################### Banner feature ###############################
