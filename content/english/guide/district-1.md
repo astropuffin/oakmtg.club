@@ -1,55 +1,52 @@
 ---
 title: District 1
 bg_image: images/OaklandPanorama2.jpg
-description: Disctrict 1 - North Oakland, Bushrod, Rockridge, Temescal, hills through Montclair
+description: District 1 - North Oakland, Bushrod, Rockridge, Temescal, hills
+  through Montclair
 image: images/district-1.png
 type: guide
-
 ---
 ### City Council - District 1
-- [Dan Kalb](/candidates/dan-kalb)
 
-  blurb about Dan.
+* **[Dan Kalb](/candidates/dan-kalb)**
 
-- [Stephanie](/candidates/steph-dominguez-walton)
+  The incumbent; a frustrating but effective progressive who’s not always there when you call but always on time.
+* **[Stephanie Dominguez Walton](https://oakmtg.club/candidates/steph-dominguez-walton/)**
 
-  blurb about Stephanie
+  A faux-gressive newcomer with twice the incumbent’s charisma and 1.5 times his funding but no concrete plans to back it up.
+* **[Tri Ngo](https://oakmtg.club/candidates/tri-ngo/)**
 
-- [Tri](/candidates/tri-ngo)
-
-  blurb about Tri
+  A pretty nice guy who’s just not ready for this.
 
 ### City Council - At Large
-- [Rebecca Kaplan](/candidates/invalid)
+
+* [Rebecca Kaplan](/candidates/invalid)
 
   blurb about Kaplan
-
-- [Someone Else](/candidates/invalid)
+* [Someone Else](/candidates/invalid)
 
   blurb about else
 
 ### School Board
-- [Something New](/candidates/dan-kalb)
+
+* [Something New](/candidates/dan-kalb)
 
   blurb about New.
-
-- [Something Borrowed](/candidates/invalid)
+* [Something Borrowed](/candidates/invalid)
 
   blurb about Borrowed
-
-- [Something Blue](/candidates/invalid)
+* [Something Blue](/candidates/invalid)
 
   blurb about Blue
 
 ### City Attorney
-- [Harvey Birdman](/candidates/dan-kalb)
+
+* [Harvey Birdman](/candidates/dan-kalb)
 
   blurb about Birdman.
-
-- [Phoenix Wright](/candidates/invalid)
+* [Phoenix Wright](/candidates/invalid)
 
   blurb about Wright
-
-- [Harvey Dent](/candidates/invalid)
+* [Harvey Dent](/candidates/invalid)
 
   blurb about Dent
