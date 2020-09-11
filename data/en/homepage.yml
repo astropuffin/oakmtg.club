@@ -13,6 +13,17 @@ slider:
         enable : true
         label : "Learn more"
         link : "about"
+       
+       
+    - title : "The Last-Minute Voter's Guide to the Oakland Election"
+      content : "An accessible voting guide with facts, research, and our takes on the candidates."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Learn more"
+        link : "guide"
 
 
 
