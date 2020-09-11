@@ -7,6 +7,7 @@ draft = true
 image = ""
 tags = ["District 5", "Oakland City Council"]
 title = "Noel Gallo"
+type = "candidates"
 [[contact]]
 icon = "ti-world"
 link = "https://www.noelgalloforoakland.com/"

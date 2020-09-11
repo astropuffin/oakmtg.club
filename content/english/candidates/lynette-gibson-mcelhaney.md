@@ -7,17 +7,18 @@ draft = true
 image = ""
 tags = ["District 3", "Oakland City Council"]
 title = "Lynette Gibson McElhaney"
+type = "candidates"
 [[contact]]
 icon = "ti-email"
-link = "mailto:dkalb@oaklandca.gov"
+link = "mailto:example@oaklandca.gov"
 name = "Offical Email"
 [[contact]]
 icon = "ti-twitter-alt"
-link = "https://twitter.com/DanKalb"
+link = "https://twitter.com/#"
 name = "Twitter"
 [[contact]]
 icon = "ti-facebook"
-link = "https://www.facebook.com/DanKalbCityCouncil/"
+link = "https://www.facebook.com/#"
 name = "Facebook"
 
 +++
