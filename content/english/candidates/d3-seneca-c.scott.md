@@ -22,7 +22,7 @@ contact:
     link: "?"
 type: candidates
 ---
-## TL;DR: A labor organizer with slick headshots but virtually no concrete platform
+# TL;DR: A labor organizer with slick headshots but virtually no concrete platform
 
 ### Introduction
 
@@ -30,15 +30,13 @@ Seneca Scott is not seen as a leading candidate in the race for the D3 Council s
 
 ### Background
 
-Scott has lived and worked in Oakland for the past 18 years. Prior to living in Oakland he attended Cornell University where he earned a BS from the School of Industrial and Labor Relations. He has deep roots in the labor community having worked for SEIU Local 1021 and as a labor consultant. He is also the founder of Bottom’s Up Community Garden, it’s off-shoot Bottom’s Up Cafe and Oakhella, a consultancy which specializes in experience creation.
+Scott has lived and worked in Oakland for the past 18 years. Prior to living in Oakland he attended Cornell University where he earned a B.S. from the School of Industrial and Labor Relations. He has deep roots in the labor community, having worked for SEIU Local 1021 and as a labor consultant. He is also the founder of Bottom’s Up Community Garden, its off-shoot Bottom’s Up Cafe, and also Oakhella, a consultancy which specializes in experience creation.
 
 ### Official platform
 
-Scott does not (at the time of this writing) contain platform details.
+Scott's website does not (at the time of this writing) contain platform details. Has this changed? Let us know!
 
-
-
-Stance on policing
+### Stance on policing
 
 Unknown
 
@@ -56,8 +54,6 @@ Unknown
 
 ### Vibes
 
-Main vibe: Union organizer who pressed submit before doing their homework
-
-
+**Main vibe:** Union organizer who pressed submit before doing their homework
 
 While Seneca Scott’s 20 years organizing on behalf of labor unions shows he has some experience in politics, his campaign proposals are pretty vague, and it feels like his campaign has stalled out.
