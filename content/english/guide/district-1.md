@@ -6,6 +6,8 @@ description: District 1 - North Oakland, Bushrod, Rockridge, Temescal, hills
 image: images/district-1.png
 type: guide
 ---
+## Officials
+
 ### City Council - District 1
 
 * **[Dan Kalb](/candidates/dan-kalb)**
@@ -44,15 +46,12 @@ type: guide
 
 ### City Attorney
 
-* [Harvey Birdman](/candidates/dan-kalb)
+* [B](/candidates/dan-kalb)arbara Parker
 
-  blurb about Birdman.
-* [Phoenix Wright](/candidates/invalid)
+  Incumbent;
+* [E](/candidates/invalid)li Ferran
 
-  blurb about Wright
-* [Harvey Dent](/candidates/invalid)
-
-  blurb about Dent
+  blurb about
 
 ### Superior Court Judge, Office #2
 
@@ -67,7 +66,18 @@ type: guide
 
 * [G](/candidates/dan-kalb)reg Harper
 
-  blurb about Birdman.
+  The incumbent;
 * Jean Walsh
 
   blurb about Wright
+
+### BART Director, District 7 (Parts of D1)
+
+* Lateefah Simon
+
+  The incumbent;
+* Sharon Kidd
+
+  blurb about Wright
+
+## Ballot Measures
