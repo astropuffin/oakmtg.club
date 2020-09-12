@@ -102,3 +102,7 @@ In 2017, Dan Kalb [publicly tweeted](https://twitter.com/DanKalb/status/83169372
 **Libby’s best friend vibe:** CM Kalb earned the Mayor’s endorsement despite the fact that fellow Emerge California alumna Steph Dominguez Walton was running. When forming the Taskforce for Public Safety, Kalb advocated to keep the Mayor’s appointments on the force, arguing that with 17 people already slated to join, it “was not a big deal.”
 
 **Leaving you on read vibe:** Dan Kalb is so notoriously bad at answering emails and phone calls from constituents that challenger Steph Dominguez Walton has structured part of her campaign around the fact that she will always respond to messages. The only way this District 1 resident (Megan) found to get a hold of him was requesting a spot at his office hours in response to his official campaign newsletter. Kalb says he’s only able to respond to questions when they’re “as specific as possible” and once responded to a journalist by saying, [“I’m very busy with a lot of important things.”](https://thestreetspirit.org/2020/08/01/oaklands-driver-plaza-longtime-hub-for-black-seniors-can-keep-its-port-a-potty-for-now/)
+
+
+
+![Yarn Memes | Meme maker from tiny clips from movies, TV, music like Ja Rule  - Always On Time ft. Ashanti \[159854\] | 紗](https://lh3.googleusercontent.com/jLP7XurY90-0AjW5ZViW51aD2b99moBlM1scnuDa0rgc4ehaBayboVclu0lAas8RqM6_Ay_4sFV71s29Q_edbqS1W3nXkqKNE8Jio-YxAbIMzoXnDBMbKGKVVwBkIfa-PihCi6kI)
