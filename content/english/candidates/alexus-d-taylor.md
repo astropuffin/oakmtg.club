@@ -4,7 +4,7 @@ image: /images/preloader.gif
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 appointments: Oakland City Council
-bio: A mysterious strange
+bio: A mysterious stranger
 tags:
   - Oakland City Council
   - District 3
