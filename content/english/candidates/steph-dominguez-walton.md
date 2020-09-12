@@ -65,10 +65,10 @@ Steph Dominguez Walton is publicly in favor of developing [a new A’s Stadium a
 
 ### Notable campaign donors
 
-* Real estate interests. According [to reporter Omar Yassin](https://www.patreon.com/posts/anti-tenant-org-40307735), one-fifth of Walton’s war chest comes from real estate interests
+* **Real estate interests.** According [to reporter Omar Yassin](https://www.patreon.com/posts/anti-tenant-org-40307735), one-fifth of Walton’s war chest comes from real estate interests
 * Four board members from the East Bay Rental Housing Association, [which opposes tenant protection in Oakland](https://www.patreon.com/posts/anti-tenant-org-40307735)
-* Non-Oakland based construction unions. [Yassin reports](https://www.patreon.com/posts/anti-tenant-org-40307735) that PACs from UA Local 342, Sprinkler Fitters Local 483, Sheet Metal Workers 104, Northern California Carpenters, and Construction & General Laborers 304 all gave to Walton.
-* People who have an interest in developing Oakland (just not necessarily affordably).
+* **Non-Oakland based construction unions.** [Yassin reports](https://www.patreon.com/posts/anti-tenant-org-40307735) that PACs from UA Local 342, Sprinkler Fitters Local 483, Sheet Metal Workers 104, Northern California Carpenters, and Construction & General Laborers 304 all gave to Walton.
+* **People who have an interest in developing Oakland** (just not necessarily affordably).
 
 ### Vibes
 
