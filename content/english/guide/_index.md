@@ -12,7 +12,9 @@ description: What you need to vote in Oakland on November 3, 2020.
 
 [LOOK UP YOUR DISTRICT >](http://gisapps1.mapoakland.com/councildistricts/)
 
-GO STRAIGHT TO THE BALLOTS >
+[WHAT'S ON OAKLAND's BALLOT >](https://www.oaklandca.gov/resources/whats-on-oaklands-ballot-november-3-2020)
+
+[LOOK UP YOUR SAMPLE BALLOT >](https://www.acgov.org/rovmvp_app/mvp.do)
 
 ### **What this is:**
 
