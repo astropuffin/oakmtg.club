@@ -20,8 +20,8 @@ description: Candidate for City Council - District 5
 appointments: Oakland City Council
 bio: Earnest, sweet, and surprisingly savvy about City Hall bureaucracy
 tags:
-  - District 5
   - Oakland City Council
+  - District 5
 type: candidates
 ---
 ## TL;DR: The restorative justice candidate of our dreams who might be too pure for this Council
