@@ -74,7 +74,7 @@ Steph Dominguez Walton is publicly in favor of developing [a new A’s Stadium a
 
 Main vibe: Tracy Flick in Election (1999), but with fewer policy positions.
 
-![tracy flick | Tumblr](https://lh4.googleusercontent.com/_GgngKD7KigbcCDH4TxjIUpfTQijQXLCzGVq9SZkQEzmyNYkOEPU5Qku4xCbsa8rjyq7iMBpuClmbQ2BMWzlz611kaBQtgbXYL40k6h9f7Yls9wDLXvRhQt7IJIfbXBCpsPenV27)
+![Tracy Flick image with subtitle: "Okay, you're on, Mr. Popular."](https://lh4.googleusercontent.com/_GgngKD7KigbcCDH4TxjIUpfTQijQXLCzGVq9SZkQEzmyNYkOEPU5Qku4xCbsa8rjyq7iMBpuClmbQ2BMWzlz611kaBQtgbXYL40k6h9f7Yls9wDLXvRhQt7IJIfbXBCpsPenV27)
 
 Well-organized vibes: Steph Dominguez Walton declared her candidacy [more than a year before](https://twitter.com/stephforoakland/status/1179263350087258114) the November 2020 election, and this District 1 resident (Megan) first noticed flyers for her in the upscale Cole Coffee on College Ave back when it was still cold outside (so maybe January?). The pro-Walton buzz on District 1 Nextdoor is all about how she is likely to be a better Councilmember than current CM Dan Kalb because she is “tireless” and responds quickly to emails (Kalb is notoriously tough to get a response from).
 
