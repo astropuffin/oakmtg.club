@@ -15,7 +15,7 @@ contact:
     link: "https://www.dankalb.net/  "
 draft: false
 title: Dan Kalb
-image: /images/dan-kalb.webp
+image: /images/dan-kalb.png
 description: Candidate for City Council - District 1
 appointments: Oakland City Council
 bio: Pushes for progressive actions - as long it's diplomatic to do so
