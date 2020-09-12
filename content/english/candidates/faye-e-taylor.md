@@ -8,6 +8,10 @@ bio: No website doesn't mean no fun!
 tags:
   - Oakland City Council
   - District 3
+contact:
+  - name: Facebook
+    icon: ti-facebook
+    link: https://www.facebook.com/profile.php?id=100009346744503
 type: candidates
 ---
 # TL;DR: A candidate running an analog campaign who probably will not win but has our favorite candidate candids
