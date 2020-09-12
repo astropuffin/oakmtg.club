@@ -14,8 +14,8 @@ description: Candidate for City Council - District 5
 appointments: Oakland City Council
 bio: '"Hey, get this trash off my lawn!"'
 tags:
-  - District 5
   - Oakland City Council
+  - District 5
 type: candidates
 ---
 ## TL;DR: A career politician who’s changed his tone on defunding police - but maybe not his heart
