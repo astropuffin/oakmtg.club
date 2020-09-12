@@ -18,13 +18,14 @@ title: Dan Kalb
 image: images/dan-kalb.jpg
 description: Candidate for City Council - District 1
 appointments: Oakland City Council
-bio: "TL;DR: A frustrating but effective progressive who’s not always there when
-  you call but always on time."
+bio: Incumbent
 tags:
   - Oakland City Council
   - District 1
 type: candidates
 ---
+# TL;DR: A frustrating but effective progressive who’s not always there when you call but always on time.
+
 #### Introduction
 
 Dan Kalb is the incumbent in the District 1 City Council race. He was first elected to City Council in 2013 and is serving his second four year term. Kalb has demonstrated political ambitions beyond Oakland; in 2018, he ran for the California Assembly and lost to Buffy Wicks, a notable supporter of challenger Steph Dominguez Walton’s campaign. Before serving on the Oakland City Council, Dan worked as the Policy Director with the Union of Concerned Scientists and as an administrator at City College of San Francisco. He’s currently the Chairperson of East Bay Community Energy, Alameda County’s local energy provider.
@@ -102,7 +103,5 @@ In 2017, Dan Kalb [publicly tweeted](https://twitter.com/DanKalb/status/83169372
 **Libby’s best friend vibe:** CM Kalb earned the Mayor’s endorsement despite the fact that fellow Emerge California alumna Steph Dominguez Walton was running. When forming the Taskforce for Public Safety, Kalb advocated to keep the Mayor’s appointments on the force, arguing that with 17 people already slated to join, it “was not a big deal.”
 
 **Leaving you on read vibe:** Dan Kalb is so notoriously bad at answering emails and phone calls from constituents that challenger Steph Dominguez Walton has structured part of her campaign around the fact that she will always respond to messages. The only way this District 1 resident (Megan) found to get a hold of him was requesting a spot at his office hours in response to his official campaign newsletter. Kalb says he’s only able to respond to questions when they’re “as specific as possible” and once responded to a journalist by saying, [“I’m very busy with a lot of important things.”](https://thestreetspirit.org/2020/08/01/oaklands-driver-plaza-longtime-hub-for-black-seniors-can-keep-its-port-a-potty-for-now/)
-
-
 
 ![Yarn Memes | Meme maker from tiny clips from movies, TV, music like Ja Rule  - Always On Time ft. Ashanti \[159854\] | 紗](https://lh3.googleusercontent.com/jLP7XurY90-0AjW5ZViW51aD2b99moBlM1scnuDa0rgc4ehaBayboVclu0lAas8RqM6_Ay_4sFV71s29Q_edbqS1W3nXkqKNE8Jio-YxAbIMzoXnDBMbKGKVVwBkIfa-PihCi6kI)
