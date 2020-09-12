@@ -32,15 +32,15 @@ type: guide
 
   blurb about else
 
-### School Board
+### School Director, District 1
 
-* [Something New](/candidates/dan-kalb)
+* AUSTIN DANNHAUS
 
   blurb about New.
-* [Something Borrowed](/candidates/invalid)
+* SAM DAVIS
 
   blurb about Borrowed
-* [Something Blue](/candidates/invalid)
+* STACY THOMAS
 
   blurb about Blue
 
