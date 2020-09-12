@@ -4,7 +4,7 @@ bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland on November 3, 2020.
 
 ---
-## The Last-Minute Voter's Guide to Oakland Elections
+## The Informed Voter's Guide to Oakland Elections
 
 #### By #oakmtg (Appreciation) Club
 
