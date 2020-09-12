@@ -18,8 +18,8 @@ appointments: Oakland City Council
 bio: Focused, direct, and with just as much energy for mutual aid organizing as
   the incumbent has for trash
 tags:
-  - District 5
   - Oakland City Council
+  - District 5
 type: candidates
 ---
 ## TL;DR: A young housing activist and organizer with an edge and a front-facing camera that she’s not afraid to use
