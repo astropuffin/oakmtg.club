@@ -22,6 +22,6 @@ There are no fully comprehensive, accessible voting guides in Oakland, so we wan
 
 We are your friends and neighbors across Oakland. For more information about us, check out our [About page](/about).
 
-### **Figure out your district:**
+### **Find your district:**
 
-If you don't know your district, you can figure it out here: [http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
+If you don't know your district, you can [look it up here: http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
