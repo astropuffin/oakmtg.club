@@ -63,14 +63,11 @@ type: guide
 
   blurb
 
-### City Attorney
+### AC Transit District Director, Ward 2
 
-* [Harvey Birdman](/candidates/dan-kalb)
+* [G](/candidates/dan-kalb)reg Harper
 
   blurb about Birdman.
-* [Phoenix Wright](/candidates/invalid)
+* Jean Walsh
 
   blurb about Wright
-* [Harvey Dent](/candidates/invalid)
-
-  blurb about Dent
