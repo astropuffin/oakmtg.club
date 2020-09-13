@@ -35,7 +35,7 @@ Jackson argues for community policing models and for tackling the systemic racis
 ### Notable supporters
 
 * Phil Tagami, developer and friend of coal
-* Olis Simmons, Founder of Youth Uprising (Clay is on the board of Youth Uprising).
+* Olis Simmons, Founder of Youth Uprising (opponent Aaron Clay is on the board of Youth Uprising).
 * Don Perata (notably, when Perata ran for Mayor in 2010, [he was at odds with fellow candidates Jean Quan and Rebecca Kaplan in believing police should not need to contribute to their own pensions](https://www.eastbayexpress.com/92510/archives/2010/06/18/kaplan-and-quan-disagree-with-perata-on-cop-pay-cuts), and [he suggested eliminating the Public Ethics Commision and the precursor to the Police Commission in order to cut city costs](http://www.safero.org/perata/news/citizenspolicereviewboard.html))
 * Pro-sheriff County Supervisor Nate Miley, whose district overlaps with Oakland City District 7
 
