@@ -15,7 +15,7 @@ type: guide
 * Carroll Fife
 
   carroll blurb
-* Seneca Scott
+* [Seneca Scott](https://oakmtg.club/candidates/d3-seneca-c.scott/)
 
   A labor organizer with slick headshots but virtually no concrete platform.
 * [Meron Y. Semedar](https://oakmtg.club/candidates/meron-y-semedar/)
