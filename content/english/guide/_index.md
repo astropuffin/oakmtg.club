@@ -3,6 +3,15 @@ title: Voter Guide
 bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland on November 3, 2020.
 type: guide_index
+buttons:
+  - title: "How do I vote in 2020?"
+    link: "/how-to-vote"
+  - title: "Look up your district"
+    link: "http://gisapps1.mapoakland.com/councildistricts/"
+  - title: "What's on Oakland's Ballow?"
+    link: "https://www.oaklandca.gov/resources/whats-on-oaklands-ballot-november-3-2020"
+  - title: "Look up your sample ballow"
+    link: "https://www.acgov.org/rovmvp_app/mvp.do"
 
 ---
 ## The Informed Voter's Guide to Oakland Elections

@@ -10,6 +10,9 @@
         {{ with .Params.Image }}
         <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="guide image">
         {{ end }}
+        {{ range .Params.Buttons }}
+        <a href="{{ .link }}" class="btn btn-primary">{{ .title }}</a>
+        {{ end }}
         {{ .Content }}
       </div>
       {{ range .Data.Pages}}

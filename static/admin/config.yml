@@ -65,6 +65,12 @@ collections:
       - {label: Description, name: description, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "guide_index"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: Buttons
+        name: buttons
+        widget: list
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: link, name: link, widget: string}
     filter:
       field: type
       value: guide_index
