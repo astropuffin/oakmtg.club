@@ -1,7 +1,7 @@
 ---
 title: District 3
 bg_image: images/OaklandPanorama2.jpg
-description: Disctrict 3
+description: District 3
 image: images/district-3.png
 type: guide
 ---
@@ -11,7 +11,7 @@ type: guide
 
 * Lynette Gibson McElhaney
 
-  The incumbent; 
+  The incumbent; a narcissist who weaponizes her victimhood to the detriment of progressive policies.
 * Carroll Fife
 
   carroll blurb
