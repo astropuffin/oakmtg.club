@@ -10,7 +10,7 @@ contact:
   - name: Instagram
     icon: ti-instagram
     link: https://www.instagram.com/zlm4oak/
-draft: true
+draft: false
 title: Zoe Lopez-Meraz
 image: /images/zlm4oak.jpg
 description: Candidate for City Council - District 5

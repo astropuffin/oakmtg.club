@@ -13,7 +13,7 @@ contact:
   - name: Instagram
     icon: ti-instagram
     link: https://www.instagram.com/richardsantosraya/
-draft: true
+draft: false
 title: Richard Santos Raya
 image: /images/richard_raya.jpg
 description: Candidate for City Council - District 5

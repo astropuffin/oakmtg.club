@@ -19,6 +19,7 @@ collections:
           config:
             multiple: false
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
+      - {label: "draft", name: draft, widget: hidden, default: false}
       - {label: Description, name: description, hint: "Example: 'Candidate for City Council - District 1'", widget: string}
       - {label: Position, name: appointments, widget: string}
       - {label: Bio, name: bio, widget: string}

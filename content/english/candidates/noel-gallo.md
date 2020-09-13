@@ -1,13 +1,5 @@
 ---
 bg_image: images/background-oakland-panorama.jpg
-contact:
-  - icon: ti-world
-    link: https://www.noelgalloforoakland.com/
-    name: Campaign website
-  - icon: ti-twitter-alt
-    link: https://twitter.com/NoelGallo5
-    name: Twitter
-draft: true
 title: Noel Gallo
 image: /images/noel-gallo.jpeg
 description: Candidate for City Council - District 5
@@ -16,6 +8,13 @@ bio: '"Hey, get this trash off my lawn!"'
 tags:
   - Oakland City Council
   - District 5
+contact:
+  - icon: ti-world
+    link: https://www.noelgalloforoakland.com/
+    name: Campaign website
+  - icon: ti-twitter-alt
+    link: https://twitter.com/NoelGallo5
+    name: Twitter
 type: candidates
 ---
 ## TL;DR: A career politician who’s changed his tone on defunding police - but maybe not his heart
