@@ -18,7 +18,7 @@ type: candidates
 
 ### Introduction
 
-Taylor is not seen as a serious candidate in the D3 race.  She has very little online presence, and instead distributes flyers in person. This profile was updated on 9/12/20 to reflect an additional [Oaklandside article](https://oaklandside.org/2020/09/11/district-3-council-candidates-differ-on-housing-police-and-the-meaning-of-progressive/) published that features Taylor. 
+Taylor is not seen as a major candidate in the D3 race.  She has very little online presence and instead distributes flyers in person. This profile was updated on 9/12/20 to reflect an additional [Oaklandside article](https://oaklandside.org/2020/09/11/district-3-council-candidates-differ-on-housing-police-and-the-meaning-of-progressive/) published that features Taylor. 
 
 ### Background
 
@@ -34,17 +34,7 @@ Taylor says her main fight is against inaction in the neighborhood by city offic
 
 Taylor says her neighbors can't afford to live in the new luxury apartments being built in West Oakland and supports policies like the [Tenant Opportunity to Purchase Act](https://ebclc.org/topa/) being explored in Berkeley, which gives renters the first opportunity to buy their building when it's sold. After that, she believes publicly-owned housing should go to the U.S. Department of Housing and Urban Development (HUD) "to try to keep it in the community." 
 
-The district has changed tremendously since Taylor was a child in West Oakland.
-
-“The apartments being built, we can’t afford to live in them,” she said. She supports a policy like the proposed [Tenant Opportunity to Purchase Act](https://oakclt.org/why-tenants-should-be-given-the-first-opportunity-to-purchase-their-buildings/), which would give renters the first shot at buying their building when it’s sold.
-
-“Then I think it should go to \[the U.S. Department of Housing and Urban Development], to try to keep it in the community,” she said, referring to publicly-owned housing.
-
-Taylor is also a proponent of greater renter protections. She said she’s met many longtime Black renters during her council campaign this year who’ve experienced landlord harassment and discrimination because of their race.
-
-
-
-<!--EndFragment-->
+Taylor would also like to expand renter protections, particularly about landlord harassment and discrimination against longtime Black renters in the neighborhood.
 
 ### Stance on the Howard Terminal A’s Stadium
 
