@@ -4,52 +4,94 @@ bg_image: images/OaklandPanorama2.jpg
 description: Disctrict 3
 image: images/district-3.png
 type: guide
-
 ---
-### City Council - District 1
-- [Dan Kalb](/candidates/dan-kalb)
+## Officials
 
-  blurb about Dan.
+### City Council - District 3
 
-- [Stephanie](/candidates/invalid)
+* Lynette Gibson McElhaney
 
-  blurb about Stephanie
+  The incumbent; 
+* Carroll Fife
 
-- [Tri](/candidates/invalid)
+  carroll blurb
+* [Seneca Scott](https://oakmtg.club/candidates/d3-seneca-c.scott/)
 
-  blurb about Tri
+  A labor organizer with slick headshots but virtually no concrete platform.
+* [Meron Y. Semedar](https://oakmtg.club/candidates/meron-y-semedar/)
+
+  An Eritrean refugee with a cosmopolitan view but not enough grounding in Oakland-specific policies
+* [Alexus D. Taylor](https://oakmtg.club/candidates/alexus-d-taylor/)
+
+  404 error: this campaign does not exist.
+* [Faye Taylor](https://oakmtg.club/candidates/faye-e-taylor/)
+
+  A candidate running an analog campaign who probably will not win but has our favorite candidate candids
 
 ### City Council - At Large
-- [Rebecca Kaplan](/candidates/invalid)
 
-  blurb about Kaplan
+* [Rebecca Kaplan](/candidates/invalid)
 
-- [Someone Else](/candidates/invalid)
+  The incumbent;
+* Derrick B. Johnson
+
+  blurb about else
+* Nancy Sidebotham
 
   blurb about else
 
-### School Board
-- [Something New](/candidates/dan-kalb)
+### School Director, District 3
+
+* MAIYA EDGERLY
 
   blurb about New.
-
-- [Something Borrowed](/candidates/invalid)
+* CHERISSE GASH
 
   blurb about Borrowed
+* MARK HURTY
 
-- [Something Blue](/candidates/invalid)
+  blurb about Blue
+* MAXIMO SANTANA
+
+  blurb about Blue
+* VANCEDRIC WILLIAMS
 
   blurb about Blue
 
 ### City Attorney
-- [Harvey Birdman](/candidates/dan-kalb)
 
-  blurb about Birdman.
+* Barbara Parker
 
-- [Phoenix Wright](/candidates/invalid)
+  Incumbent;
+* Eli Ferran
+
+  blurb about
+
+### Superior Court Judge, Office #2
+
+* Elena Condes
+
+  XXXXXXXX
+* [](/candidates/invalid)Mark Fickes
+
+  blurb
+
+### AC Transit District Director, Ward 2
+
+* [G](/candidates/dan-kalb)reg Harper
+
+  The incumbent;
+* Jean Walsh
 
   blurb about Wright
 
-- [Harvey Dent](/candidates/invalid)
+### BART Director, District 7 (Parts of D3)
 
-  blurb about Dent
+* Lateefah Simon
+
+  The incumbent;
+* Sharon Kidd
+
+  blurb about Wright
+
+## Ballot Measures
