@@ -1,7 +1,7 @@
 ---
 title: District 3
 bg_image: images/OaklandPanorama2.jpg
-description: Disctrict 3
+description: District 3
 image: images/district-3.png
 type: guide
 ---
