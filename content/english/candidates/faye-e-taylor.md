@@ -30,7 +30,7 @@ Unknown
 
 ### Stance on housing
 
-Taylor says her main fight is against inaction in the neighborhood by city officials. She first saw the extraordinary power the sheriff has to carry out evictions when withnessing the Moms 4 Housing protest led by her opponent Caroll Fife
+Taylor says her main fight is against inaction in the neighborhood by city officials. She first saw the extraordinary power the sheriff has to carry out evictions when withnessing the [Moms 4 Housing protest](https://www.jacobinmag.com/2020/01/alameda-county-oakland-sheriffs-office-homeless-mothers-police-raid) led by her opponent Caroll Fife. She described the tanks on Magnolia street as "a war."
 
 Taylor lives on the Magnolia Street block where the Moms 4 Housing protest took place. She said the demonstrations both “disturbed the neighborhood” and showed her the extraordinary power the sheriff has to carry out evictions.
 
