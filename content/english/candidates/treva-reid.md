@@ -4,8 +4,7 @@ image: /images/treva-reid.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 7
 appointments: Oakland City Council
-bio: "TL;DR: De facto incumbent who says all the right things (but omits a whole
-  lot more)"
+bio: De facto incumbent who says all the right things (but omits a whole lot more)
 tags:
   - Oakland City Council
   - District 7
@@ -49,12 +48,12 @@ A major cornerstone of Treva Reid’s campaign is eliminating gun violence. On h
 
 ![Screenshot of Zoom videoconference showing Treva Reid in front of a panel. The panel has a repeating geometric motif and is yellow and white with some blue marks on it.](/images/treva-reid-zoom.png)
 
-Trying real hard not to be her father’s daughter vibes: Reid is both taking advantage of her father’s name recognition while also distancing herself from his more out of touch policies. She doesn’t even mention him in her [official campaign bio](https://www.reidforoakland.com/about), and when she talks about her family influences, she’s more likely to talk about her great-grandmother’s activism (see [this video, around 1:51:00](https://www.facebook.com/WellstoneDem/videos/298842841421549/)).
+**Trying real hard not to be her father’s daughter vibes:** Reid is both taking advantage of her father’s name recognition while also distancing herself from his more out of touch policies. She doesn’t even mention him in her [official campaign bio](https://www.reidforoakland.com/about), and when she talks about her family influences, she’s more likely to talk about her great-grandmother’s activism (see [this video, around 1:51:00](https://www.facebook.com/WellstoneDem/videos/298842841421549/)).
 
-Faith leaders love her vibes: In a race with a candidate who goes by “Bishop,” \[link] it’s notable that so many of Reid’s endorsements come from [East Oakland faith leaders](https://www.reidforoakland.com/endorsements).
+**Faith leaders love her vibes:** In a race with a candidate who goes by “Bishop,” it’s notable that so many of Reid’s endorsements come from [East Oakland faith leaders](https://www.reidforoakland.com/endorsements).
 
-Probably has Former Mayor Willie Brown’s number on speed dial vibes: Reid’s time at [Emerge California](https://ca.emergeamerica.org/emerge-california/what-we-do/), working for Nancy Skinner, and serving as an Associate for Assembly District 18 on the Alameda County Democratic Central Committee mark her as someone who’s well-ensconced within the Democratic Party machinery. We wouldn’t be surprised to see her taking selfies with/collecting endorsements from high-up Party muckety-mucks as we get closer to November.
+**Probably has Former Mayor Willie Brown’s number on speed dial vibes:** Reid’s time at [Emerge California](https://ca.emergeamerica.org/emerge-california/what-we-do/), working for Nancy Skinner, and serving as an Associate for Assembly District 18 on the Alameda County Democratic Central Committee mark her as someone who’s well-ensconced within the Democratic Party machinery. We wouldn’t be surprised to see her taking selfies with/collecting endorsements from high-up Party muckety-mucks as we get closer to November.
 
-![Willie Brown actually WAS mayor of San Francisco! | Princess diaries, Going  to rain, Things to think about](https://lh6.googleusercontent.com/iLYLP-DoNWNAhXn239jgvCOiF77OhrBW9WZ5WFIPaxip5MbvFFX3qr5x2symB_K_ufp5bCzdXVT-qCAZIGligd6TXmygjT2df49QB7mO6V5HW_bTY0k6dFds68DM_q_byesz490u)
+![Willie Brown actually WAS mayor of San Francisco! | Princess diaries, Going  to rain, Things to think about](/images/treva-reid-meme.png)
 
-Not afraid to profit off her personal connections to politicians on the downlow vibes: While Reid’s platform sounds great, the way her [official campaign website](https://www.reidforoakland.com/about) completely elides [her work as a lobbyist for PG&E](https://www.sahahomes.org/people/treva-reid) makes us nervous about how transparent she’ll be as an elected official.
+**Not afraid to profit off her personal connections to politicians on the downlow vibes:** While Reid’s platform sounds great, the way her [official campaign website](https://www.reidforoakland.com/about) completely elides [her work as a lobbyist for PG&E](https://www.sahahomes.org/people/treva-reid) makes us nervous about how transparent she’ll be as an elected official.
