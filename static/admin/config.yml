@@ -31,7 +31,7 @@ collections:
           - {label: Name, hint: "Example: 'Official Twitter'", name: name, widget: string}
           - {label: Icon, hint: "Example: 'ti-twitter-alt'", name: icon, widget: string}
           - {label: Link, hint: "Example: 'https://twitter.com/astropuffin'", name: link, widget: string}
-      - {label: "Content Type", name: "type", widget: "string", default: "candidates"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "candidates"}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
@@ -50,8 +50,22 @@ collections:
         media_library:
           config:
             multiple: false
+      - {label: "Content Type", name: "type", widget: "hidden", default: "guide"}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
       value: guide
+  - name: guide_index
+    label: "Guide Main Page"
+    folder: "content/english/guide"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "guide_index"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: guide_index
 
