@@ -18,11 +18,11 @@ type: candidates
 
 ### Introduction
 
-We have very few details about Faye Taylor. Taylor is not seen as a serious candidate in the D3 race.  She has very little online presence, and instead distributes flyers in person.
+Taylor is not seen as a serious candidate in the D3 race.  She has very little online presence, and instead distributes flyers in person. This profile was updated on 9/12/20 to reflect an additional [Oaklandside article](https://oaklandside.org/2020/09/11/district-3-council-candidates-differ-on-housing-police-and-the-meaning-of-progressive/) published that features Taylor. 
 
 ### Background
 
-Taylor is listed as a “Longshoreman” on the [City of Oakland 2020 Election Qualified Candidates](https://cao-94612.s3.amazonaws.com/documents/2020-Election-Ballot-Order-w-Ballot-Designations.pdf) list as of 8/19/2020. Taylor did not file with a party preference.  She is on the advisory board of the [West Oakland Senior Center](https://www.oaklandca.gov/topics/west-oakland-senior-center).
+Taylor is listed as a “Longshoreman” on the [City of Oakland 2020 Election Qualified Candidates](https://cao-94612.s3.amazonaws.com/documents/2020-Election-Ballot-Order-w-Ballot-Designations.pdf) list as of 8/19/2020. Taylor did not file with a party preference.  She is on the advisory board of the [West Oakland Senior Center](https://www.oaklandca.gov/topics/west-oakland-senior-center). The Oaklandside article speculates that Taylor may be the only candidate in the race that grew up in West Oakland--as discussed in another candidate profile, there is virtually no information available about [Alexus D. Taylor](https://oakmtg.club/candidates/alexus-d-taylor/), a mysterious competitor in this race.
 
 ### Official platform
 
