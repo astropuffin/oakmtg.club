@@ -14,7 +14,7 @@ contact:
     link: https://www.facebook.com/profile.php?id=100009346744503
 type: candidates
 ---
-# TL;DR: A candidate running an analog campaign who probably will not win but has our favorite candidate candids
+# TL;DR: A candidate running an analog campaign who probably will not win but has our favorite campaign candids
 
 ### Introduction
 
@@ -40,7 +40,7 @@ Taylor would also like to expand renter protections, particularly about landlord
 
 ### Stance on the Howard Terminal A’s Stadium
 
-Taylor has the firmest stance on the fate of the A's amongst all D3 candidates, and one of the most even amongst others running for City Council generally. As a member of the[ International Longshore and Warehouse Union](https://www.ilwu.org/), she is not willing to have the A's come to West Oakland and thinks they should stay at the Coliseum. “It’s close to BART and gives people jobs.” If the A's moved to the proposed Howard Terminal site in Jack London Square, “transportation would be horrible, horrible, horrible.” Taking a stand one way or the other on this is refreshing, given how many different candidates we have seen throwing up a shrug face emoji at this question in various candidate forums.
+Taylor has the firmest stance on the fate of the A's amongst all District 3 candidates, and one of the most even amongst others running for City Council generally. As a member of the[ International Longshore and Warehouse Union](https://www.ilwu.org/), she is not willing to have the A's come to West Oakland and thinks they should stay at the Coliseum. “It’s close to BART and gives people jobs.” If the A's moved to the proposed Howard Terminal site in Jack London Square, “transportation would be horrible, horrible, horrible.” Taking a stand one way or the other on this is refreshing, given how many different candidates we have seen throwing up a shrug face emoji at this question in various candidate forums.
 
 ### Notable supporters
 
