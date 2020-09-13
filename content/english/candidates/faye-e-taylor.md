@@ -40,7 +40,7 @@ Taylor would also like to expand renter protections, particularly about landlord
 
 ### Stance on the Howard Terminal A’s Stadium
 
-Taylor has the firmest stance on the fate of the A's amongst all D3 candidates, and one of the most even amongst others running for City Council generally. As a member of the International Longshore and Warehouse Union, she is not willing to have the A's come to West Oakland and thinks they should stay at the Coliseum. “It’s close to BART and gives people jobs.” If the A's moved to the proposed Howard Terminal site in Jack London Square, “transportation would be horrible, horrible, horrible.” Taking a stand one way or the other on this is refreshing, given how many different candidates we have seen throwing up a shrug face emoji at this question at various candidate forums.
+Taylor has the firmest stance on the fate of the A's amongst all D3 candidates, and one of the most even amongst others running for City Council generally. As a member of the[ International Longshore and Warehouse Union](https://www.ilwu.org/), she is not willing to have the A's come to West Oakland and thinks they should stay at the Coliseum. “It’s close to BART and gives people jobs.” If the A's moved to the proposed Howard Terminal site in Jack London Square, “transportation would be horrible, horrible, horrible.” Taking a stand one way or the other on this is refreshing, given how many different candidates we have seen throwing up a shrug face emoji at this question at various candidate forums.
 
 ### Notable supporters
 
