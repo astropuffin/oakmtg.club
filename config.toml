@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://oakmtg.club"
-title = "Oakmtg Appreciation Club | Appeciating Oakland City Meetings"
+title = "Oakmtg Appreciation Club | Appreciating Oakland City Meetings"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
@@ -137,7 +137,7 @@ weight = 4
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Appeciating Oakland City Meetings"
+description = "Appreciating Oakland City Meetings"
 author = "astropuffin"
 # contact info
 #address = "9567 Turner Trace Apt. BC C3G8A4"
