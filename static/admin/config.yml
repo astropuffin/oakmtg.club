@@ -29,7 +29,7 @@ collections:
         widget: list
         fields:
           - {label: Name, hint: "Example: 'Official Twitter'", name: name, widget: string}
-          - {label: Icon, hint: "Example: 'ti-twitter-alt'", name: icon, widget: string}
+          - {label: Icon, hint: "List of options: https://themify.me/themify-icons", name: icon, widget: string}
           - {label: Link, hint: "Example: 'https://twitter.com/astropuffin'", name: link, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "candidates"}
       - {label: "Body", name: "body", widget: "markdown"}
