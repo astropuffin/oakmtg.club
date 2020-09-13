@@ -22,7 +22,7 @@ type: guide
 
 ### City Council - At Large
 
-* [Rebecca Kaplan](/candidates/invalid)
+* **[Rebecca Kaplan](/candidates/invalid)**
 
   The incumbent;
 * Derrick B. Johnson
@@ -46,10 +46,10 @@ type: guide
 
 ### City Attorney
 
-* [B](/candidates/dan-kalb)arbara Parker
+* Barbara Parker
 
   Incumbent;
-* [E](/candidates/invalid)li Ferran
+* Eli Ferran
 
   blurb about
 
@@ -64,7 +64,7 @@ type: guide
 
 ### AC Transit District Director, Ward 2
 
-* [G](/candidates/dan-kalb)reg Harper
+* Greg Harper
 
   The incumbent;
 * Jean Walsh
@@ -79,5 +79,9 @@ type: guide
 * Sharon Kidd
 
   blurb about Wright
+
+### BART Director, District 3 (Parts of D1)
+
+  NO CANDIDATES YET
 
 ## Ballot Measures
