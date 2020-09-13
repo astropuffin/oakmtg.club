@@ -18,9 +18,15 @@ type: guide
 * Seneca Scott
 
   A labor organizer with slick headshots but virtually no concrete platform.
-*
-*
-*
+* [Meron Y. Semedar](https://oakmtg.club/candidates/meron-y-semedar/)
+
+  An Eritrean refugee with a cosmopolitan view but not enough grounding in Oakland-specific policies
+* [Alexus D. Taylor](https://oakmtg.club/candidates/alexus-d-taylor/)
+
+  404 error: this campaign does not exist.
+* [Faye Taylor](https://oakmtg.club/candidates/faye-e-taylor/)
+
+  A candidate running an analog campaign who probably will not win but has our favorite candidate candids
 
 ### City Council - At Large
 
