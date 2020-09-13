@@ -40,15 +40,21 @@ type: guide
 
   blurb about else
 
-### School Director, District 1
+### School Director, District 3
 
-* AUSTIN DANNHAUS
+* MAIYA EDGERLY
 
   blurb about New.
-* SAM DAVIS
+* CHERISSE GASH
 
   blurb about Borrowed
-* STACY THOMAS
+* MARK HURTY
+
+  blurb about Blue
+* MAXIMO SANTANA
+
+  blurb about Blue
+* VANCEDRIC WILLIAMS
 
   blurb about Blue
 
