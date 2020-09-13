@@ -64,7 +64,7 @@ type: guide
 
 ### AC Transit District Director, Ward 2
 
-* [G](/candidates/dan-kalb)reg Harper
+* Greg Harper
 
   The incumbent;
 * Jean Walsh
