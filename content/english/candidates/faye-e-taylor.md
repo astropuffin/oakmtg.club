@@ -22,11 +22,11 @@ Taylor is not seen as a serious candidate in the D3 race.  She has very little o
 
 ### Background
 
-Taylor is listed as a “Longshoreman” on the [City of Oakland 2020 Election Qualified Candidates](https://cao-94612.s3.amazonaws.com/documents/2020-Election-Ballot-Order-w-Ballot-Designations.pdf) list as of 8/19/2020. Taylor did not file with a party preference.  She is on the advisory board of the [West Oakland Senior Center](https://www.oaklandca.gov/topics/west-oakland-senior-center). The Oaklandside article speculates that Taylor may be the only candidate in the race that grew up in West Oakland--as discussed in another candidate profile, there is virtually no information available about [Alexus D. Taylor](https://oakmtg.club/candidates/alexus-d-taylor/), a mysterious competitor in this race.
+Taylor is listed as a “Longshoreman” on the [City of Oakland 2020 Election Qualified Candidates](https://cao-94612.s3.amazonaws.com/documents/2020-Election-Ballot-Order-w-Ballot-Designations.pdf) list as of 8/19/2020. Taylor did not file with a party preference.  She is on the advisory board of the [West Oakland Senior Center](https://www.oaklandca.gov/topics/west-oakland-senior-center). The Oaklandside article speculates that Taylor may be the only candidate in the race that grew up in West Oakland; as discussed in another candidate profile, there is virtually no information available about [Alexus D. Taylor](https://oakmtg.club/candidates/alexus-d-taylor/), a mysterious competitor in this race. She may have the support of fellow dockworkers and union members, particularly with respect to her thoughts on Howard Terminal.
 
 ### Official platform
 
-Unknown. We have reached out to the candidate for details.
+Taylor's main fight is against inaction by city officials. 
 
 ### Stance on policing
 
