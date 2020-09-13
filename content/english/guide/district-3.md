@@ -85,15 +85,6 @@ type: guide
 
   blurb about Wright
 
-### BART Director, District 4 (Parts of D3)
-
-* Lateefah Simon
-
-  The incumbent;
-* Sharon Kidd
-
-  blurb about Wright
-
 ### BART Director, District 7 (Parts of D3)
 
 * Lateefah Simon
@@ -104,48 +95,3 @@ type: guide
   blurb about Wright
 
 ## Ballot Measures
-
-### City Council - District 3
-
-* [Dan Kalb](/candidates/dan-kalb)
-
-  blurb about Dan.
-* [Stephanie](/candidates/invalid)
-
-  blurb about Stephanie
-* [Tri](/candidates/invalid)
-
-  blurb about Tri
-
-### City Council - At Large
-
-* [Rebecca Kaplan](/candidates/invalid)
-
-  blurb about Kaplan
-* [Someone Else](/candidates/invalid)
-
-  blurb about else
-
-### School Board
-
-* [Something New](/candidates/dan-kalb)
-
-  blurb about New.
-* [Something Borrowed](/candidates/invalid)
-
-  blurb about Borrowed
-* [Something Blue](/candidates/invalid)
-
-  blurb about Blue
-
-### City Attorney
-
-* [Harvey Birdman](/candidates/dan-kalb)
-
-  blurb about Birdman.
-* [Phoenix Wright](/candidates/invalid)
-
-  blurb about Wright
-* [Harvey Dent](/candidates/invalid)
-
-  blurb about Dent
