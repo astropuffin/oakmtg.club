@@ -30,11 +30,9 @@ Unknown
 
 ### Stance on housing
 
-Taylor says her main fight is against inaction in the neighborhood by city officials. She first saw the extraordinary power the sheriff has to carry out evictions when withnessing the [Moms 4 Housing protest](https://www.jacobinmag.com/2020/01/alameda-county-oakland-sheriffs-office-homeless-mothers-police-raid) led by her opponent Caroll Fife. She described the tanks on Magnolia street as "a war."
+Taylor says her main fight is against inaction in the neighborhood by city officials. Taylor says her neighbors can't afford to live in the new luxury apartments being built in West Oakland and supports policies like the [Tenant Opportunity to Purchase Act](https://ebclc.org/topa/) being explored in Berkeley, which gives renters the first opportunity to buy their building when it's sold. After that, she believes publicly-owned housing should go to the U.S. Department of Housing and Urban Development (HUD) "to try to keep it in the community." 
 
-Taylor says her neighbors can't afford to live in the new luxury apartments being built in West Oakland and supports policies like the [Tenant Opportunity to Purchase Act](https://ebclc.org/topa/) being explored in Berkeley, which gives renters the first opportunity to buy their building when it's sold. After that, she believes publicly-owned housing should go to the U.S. Department of Housing and Urban Development (HUD) "to try to keep it in the community." 
-
-Taylor would also like to expand renter protections, particularly about landlord harassment and discrimination against longtime Black renters in the neighborhood.
+Taylor would also like to expand renter protections, particularly about landlord harassment and discrimination against longtime Black renters in the neighborhood. She first saw the extraordinary power the sheriff has to carry out evictions when witnessing the [Moms 4 Housing protest](https://www.jacobinmag.com/2020/01/alameda-county-oakland-sheriffs-office-homeless-mothers-police-raid) led by her opponent Caroll Fife. She described the tanks on Magnolia street as "a war."
 
 ### Stance on the Howard Terminal A’s Stadium
 
