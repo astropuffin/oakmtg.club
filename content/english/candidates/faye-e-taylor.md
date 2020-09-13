@@ -32,9 +32,7 @@ Unknown
 
 Taylor says her main fight is against inaction in the neighborhood by city officials. She first saw the extraordinary power the sheriff has to carry out evictions when withnessing the [Moms 4 Housing protest](https://www.jacobinmag.com/2020/01/alameda-county-oakland-sheriffs-office-homeless-mothers-police-raid) led by her opponent Caroll Fife. She described the tanks on Magnolia street as "a war."
 
-Taylor lives on the Magnolia Street block where the Moms 4 Housing protest took place. She said the demonstrations both “disturbed the neighborhood” and showed her the extraordinary power the sheriff has to carry out evictions.
-
-“They had tanks on my block, and uniforms. I said, whoa, what is this, a war?” Taylor said.
+Taylor says her neighbors can't afford to live in the new luxury apartments being built in West Oakland and supports policies like the [Tenant Opportunity to Purchase Act](https://ebclc.org/topa/) being explored in Berkeley, which gives renters the first opportunity to buy their building when it's sold. After that, she believes publicly-owned housing should go to the U.S. Department of Housing and Urban Development (HUD) "to try to keep it in the community." 
 
 The district has changed tremendously since Taylor was a child in West Oakland.
 
