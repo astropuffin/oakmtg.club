@@ -1,5 +1,6 @@
 ---
 title: Voter Guide
+byline: The Informed Voter's Guide to Oakland Elections
 bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland on November 3, 2020.
 type: guide_index
@@ -14,18 +15,6 @@ buttons:
     link: "https://www.acgov.org/rovmvp_app/mvp.do"
 
 ---
-## The Informed Voter's Guide to Oakland Elections
-
-#### By #oakmtg (Appreciation) Club
-
-[HOW DO I VOTE IN 2020?](/how-to-vote) >
-
-[LOOK UP YOUR DISTRICT >](http://gisapps1.mapoakland.com/councildistricts/)
-
-[WHAT'S ON OAKLAND's BALLOT >](https://www.oaklandca.gov/resources/whats-on-oaklands-ballot-november-3-2020)
-
-[LOOK UP YOUR SAMPLE BALLOT >](https://www.acgov.org/rovmvp_app/mvp.do)
-
 ### **What this is:**
 
 There are no fully comprehensive, accessible voting guides in Oakland, so we wanted to make one for you. We give you the facts and the research, you make your own choices, and vote on (or before!) November 3, 2020.

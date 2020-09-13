@@ -10,6 +10,7 @@
         {{ with .Params.Image }}
         <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="guide image">
         {{ end }}
+        <h2>{{ .Params.Byline }}</h2>
         {{ range .Params.Buttons }}
         <a href="{{ .link }}" class="btn btn-primary">{{ .title }}</a>
         {{ end }}
