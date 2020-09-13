@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "#oakmtg Appreciation Club"
-      content : "A community of friends an neighbors dedicated to transparency and keeping tabs on local politics"
+      content : "A community of friends and neighbors dedicated to transparency and keeping tabs on local politics"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -13,9 +13,9 @@ slider:
         enable : true
         label : "Learn more"
         link : "about"
-       
-       
-    - title : "The Last-Minute Voter's Guide to the Oakland Election"
+
+
+    - title : "The Informed Voter's Guide to the 2020 Oakland Election"
       content : "An accessible voting guide with facts, research, and our takes on the candidates."
       animation_in : "left"
       animation_out : "right"
