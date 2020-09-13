@@ -22,7 +22,7 @@ type: guide
 
 ### City Council - At Large
 
-* [Rebecca Kaplan](/candidates/invalid)
+* **[Rebecca Kaplan](/candidates/invalid)**
 
   The incumbent;
 * Derrick B. Johnson
