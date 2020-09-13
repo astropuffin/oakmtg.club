@@ -22,7 +22,7 @@ tags:
   - District 5
 type: candidates
 ---
-## TL;DR: A young housing activist and organizer with an edge and a front-facing camera that she’s not afraid to use
+# TL;DR: A young housing activist and organizer with an edge and a front-facing camera that she’s not afraid to use
 
 ### Introduction
 
