@@ -452,6 +452,9 @@ textarea.form-control {
   padding: 10px 20px;
   background: #f8f9fe; }
 
+.content img {
+  max-width: 100%; }
+
 .teacher-thumb-sm {
   height: 85px;
   width: 85px;
