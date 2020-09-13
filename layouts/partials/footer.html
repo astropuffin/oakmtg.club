@@ -29,7 +29,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
-          <!-- <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
+          <!-- <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | relURL }}" alt="{{ site.Title }}"></a>
           <ul class="list-unstyled">
             <li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
@@ -104,7 +104,7 @@
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
+<script src="{{ .link | relURL }}"></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
