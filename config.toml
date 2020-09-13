@@ -35,8 +35,8 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/venobox/venobox.min.js"
-[[params.plugins.js]]
-link = "plugins/filterizr/jquery.filterizr.min.js"
+#[[params.plugins.js]]
+#link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 
