@@ -13,10 +13,10 @@ type: guide
 * **[Dan Kalb](/candidates/dan-kalb)**
 
   The incumbent; a frustrating but effective progressive who’s not always there when you call but always on time.
-* **[Stephanie Dominguez Walton](https://oakmtg.club/candidates/steph-dominguez-walton/)**
+* **[Stephanie Dominguez Walton](/candidates/steph-dominguez-walton/)**
 
   A faux-gressive newcomer with twice the incumbent’s charisma and 150% of his funding but no concrete plans to back it up.
-* **[Tri Ngo](https://oakmtg.club/candidates/tri-ngo/)**
+* **[Tri Ngo](/candidates/tri-ngo/)**
 
   A pretty nice guy who’s just not ready for this.
 

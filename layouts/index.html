@@ -5,7 +5,7 @@
 <!-- hero slider -->
 {{ if $data.homepage.slider.enable }}
 {{ with $data.homepage.slider }}
-<section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
+<section class="hero-section overlay bg-cover" data-background="{{ .bg_image | relURL }}">
   <div class="container">
     <div class="hero-slider">
       <!-- slider item -->
@@ -17,7 +17,7 @@
               data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".1">{{ .title | markdownify }}</h1>
             <p class="text-muted mb-4" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".4">{{ .content | markdownify }}</p>
             {{ if .button.enable }}
-            <a href="{{ .button.link | absLangURL }}" class="btn btn-primary" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".7">{{ .button.label }}</a>
+            <a href="{{ .button.link | relLangURL }}" class="btn btn-primary" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".7">{{ .button.label }}</a>
             {{ end }}
           </div>
         </div>
@@ -37,7 +37,7 @@
   <div class="container-fluid p-0">
     <div class="row no-gutters">
       <div class="col-xl-4 col-lg-5 align-self-end">
-        <img class="img-fluid w-100" src="{{ .image | absURL }}" alt="banner-feature">
+        <img class="img-fluid w-100" src="{{ .image | relURL }}" alt="banner-feature">
       </div>
       <div class="col-xl-8 col-lg-7">
         <div class="row feature-blocks bg-gray justify-content-between">
@@ -68,13 +68,13 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-primary-outline">{{ .label }}</a>
+        <a href="{{ .link | relLangURL }}" class="btn btn-primary-outline">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>
       {{ with .image }}
       <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
-        <img class="img-fluid w-100" src="{{ . | absURL }}" alt="about image">
+        <img class="img-fluid w-100" src="{{ . | relURL }}" alt="about image">
       </div>
       {{ end }}
     </div>
@@ -131,7 +131,7 @@
         <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-secondary">{{ .label }}</a>
+        <a href="{{ .link | relLangURL }}" class="btn btn-secondary">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>

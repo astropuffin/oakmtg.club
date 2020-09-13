@@ -1,7 +1,7 @@
 <div class="card border-0 rounded-0 hover-shadow mb-5">
-  <a href="{{ .Permalink }}"><img class="card-img-top rounded-0" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}"></a>
+  <a href="{{ .Permalink |relURL }}"><img class="card-img-top rounded-0" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}"></a>
   <div class="card-body">
-    <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <h4 class="card-title"><a href="{{ .Permalink | relURL }}">{{ .Title }}</a></h4>
     <p>{{ .Params.Course }}</p>
     <ul class="list-inline">
       {{ range .Params.Contact }}
