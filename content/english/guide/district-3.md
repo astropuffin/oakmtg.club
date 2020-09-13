@@ -15,9 +15,12 @@ type: guide
 * Carroll Fife
 
   carroll blurb
-* **[Tri Ngo](https://oakmtg.club/candidates/tri-ngo/)**
+* Seneca Scott
 
-  A pretty nice guy who’s just not ready for this.
+  A labor organizer with slick headshots but virtually no concrete platform.
+*
+*
+*
 
 ### City Council - At Large
 
