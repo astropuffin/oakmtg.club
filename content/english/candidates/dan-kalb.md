@@ -44,7 +44,7 @@ Of the three candidates for District 1, Dan Kalb’s policies and track record a
 
 * Collaborated with [Causa Justa](https://cjjc.org/) and City Attorney Barbara Parker to write Oakland’s Tenant Protection Ordinance, which prevents eviction during the COVID-19 emergency
 * Worked to prevent large rent increases for existing tenants
-* Also tried to r[emove a privately-funded (by houseless advocate The Village), public-use port-a-potty in Driver Plaza](https://thestreetspirit.org/2020/08/01/oaklands-driver-plaza-longtime-hub-for-black-seniors-can-keep-its-port-a-potty-for-now/) at the behest of complaining neighbors
+* Also tried to [remove a privately-funded (by houseless advocate The Village), public-use port-a-potty in Driver Plaza](https://thestreetspirit.org/2020/08/01/oaklands-driver-plaza-longtime-hub-for-black-seniors-can-keep-its-port-a-potty-for-now/) at the behest of complaining neighbors
 
 Recently, Dan Kalb orchestrated a complicated deal that uses Homekey grant funds from the state and City funds to buy a former CCA dorm and turn it into [transitional and affordable housing for unsheltered seniors](https://www.oaklandca.gov/news/2020/city-of-oakland-nears-deal-to-transform-dormitory-into-transitional-affordable-housing). (The purchase won’t go through unless the Homekey grant is approved, though, so keep your fingers crossed!)
 
