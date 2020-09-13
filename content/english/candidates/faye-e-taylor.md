@@ -28,7 +28,9 @@ Taylor is listed as a “Longshoreman” on the [City of Oakland 2020 Election Q
 
 Taylor is skeptical of the [Reimagining Public Safety Task Force's](https://www.oaklandca.gov/news/2020/reimagining-public-safety-taskforce#:~:text=The%20purpose%20of%20the%20reimagining,in%20programs%20that%20address%20the) effectiveness, but would support a "mental health section" of OPD to serve unarmed except for stun guns. (For the sake of clarity: the Mobile Assistance Community Responders of Oakland, or [MACRO](https://urbanstrategies.org/wp-content/uploads/2020/06/USC-MACRO-REPORT-6_10_20.pdf) project, is a small pilot run by the Department of Violence Prevention that is not officially part of the Oakland Police Department, but the Oaklandside article featuring Taylor seems to conflate her support of building a mental health unit within OPD with the MACRO pilot). 
 
-### Stance on housing
+Taylor believes that the root cause of police violence is not due to the culture of policing generally, but due to the racist nature of the culture at OPD. The vast majority of OPD officers are white or Latinx, and as the Police Commission selection committee has agonized over in every candidate interview this year, there have been no Black female OPD recruits for years. [Only 10% of the OPD force actually lives in Oakland](http://www2.oaklandnet.com/oakca1/groups/police/documents/report/oak071502.pdf).
+
+**Stance on housing**
 
 Taylor says her main fight is against inaction in the neighborhood by city officials. Taylor says her neighbors can't afford to live in the new luxury apartments being built in West Oakland and supports policies like the [Tenant Opportunity to Purchase Act](https://ebclc.org/topa/) being explored in Berkeley, which gives renters the first opportunity to buy their building when it's sold. After that, she believes publicly-owned housing should go to the U.S. Department of Housing and Urban Development (HUD) "to try to keep it in the community." 
 
