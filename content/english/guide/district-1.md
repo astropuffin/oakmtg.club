@@ -80,4 +80,8 @@ type: guide
 
   blurb about Wright
 
+* BART Director, District 3 (Parts of D1)
+
+  NO CANDIDATES YET
+
 ## Ballot Measures
