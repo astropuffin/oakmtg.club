@@ -60,10 +60,10 @@ type: guide
 
 ### City Attorney
 
-* [B](/candidates/dan-kalb)arbara Parker
+* Barbara Parker
 
   Incumbent;
-* [E](/candidates/invalid)li Ferran
+* Eli Ferran
 
   blurb about
 
@@ -85,7 +85,16 @@ type: guide
 
   blurb about Wright
 
-### BART Director, District 7 (Parts of D1)
+### BART Director, District 4 (Parts of D3)
+
+* Lateefah Simon
+
+  The incumbent;
+* Sharon Kidd
+
+  blurb about Wright
+
+### BART Director, District 7 (Parts of D3)
 
 * Lateefah Simon
 
