@@ -26,7 +26,7 @@ Taylor is listed as a “Longshoreman” on the [City of Oakland 2020 Election Q
 
 ### Stance on policing
 
-Unknown
+Taylor is skeptical of the [Reimagining Public Safety Task Force's](https://www.oaklandca.gov/news/2020/reimagining-public-safety-taskforce#:~:text=The%20purpose%20of%20the%20reimagining,in%20programs%20that%20address%20the) effectiveness, but would support a "mental health section" of OPD to serve unarmed except for stun guns. (For the sake of clarity: the Mobile Assistance Community Responders of Oakland (MACRO) project is a small pilot that is not officially part of the Oakland Police Department, but the Oaklandside article featuring Taylor seems to conflate her support of building a mental health unit within OPD with the MACRO pilot). 
 
 ### Stance on housing
 
