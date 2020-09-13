@@ -11,7 +11,7 @@ type: guide
 
 * Lynette Gibson McElhaney
 
-  The incumbent; 
+  The incumbent; a narcissist who weaponizes her victimhood to the detriment of progressive policies.
 * Carroll Fife
 
   carroll blurb
