@@ -52,7 +52,7 @@ A major cornerstone of Treva Reid’s campaign is eliminating gun violence. On h
 
 **Faith leaders love her vibes:** In a race with a candidate who goes by “Bishop,” it’s notable that so many of Reid’s endorsements come from [East Oakland faith leaders](https://www.reidforoakland.com/endorsements).
 
-**Probably has Former Mayor Willie Brown’s number on speed dial vibes:** Reid’s time at [Emerge California](https://ca.emergeamerica.org/emerge-california/what-we-do/), working for Nancy Skinner, and serving as an Associate for Assembly District 18 on the Alameda County Democratic Central Committee mark her as someone who’s well-ensconced within the Democratic Party machinery. We wouldn’t be surprised to see her taking selfies with/collecting endorsements from high-up Party muckety-mucks as we get closer to November.
+**Probably has Former Mayor Willie Brown’s number on speed dial vibes:** Reid’s time at [Emerge California](https://ca.emergeamerica.org/emerge-california/what-we-do/), working for Nancy Skinner, and serving as an [Associate](https://medium.com/@erinplosscampoamor/wtf-is-the-county-central-committee-f21c458fb98c) for Assembly District 18 on the [Alameda County Democratic Central Committee](http://www.smartvoter.org/2020/03/03/ca/alm/race/036/) mark her as someone who’s well-ensconced within the Democratic Party machinery. We wouldn’t be surprised to see her taking selfies with/collecting endorsements from high-up Party muckety-mucks as we get closer to November.
 
 ![Willie Brown actually WAS mayor of San Francisco! | Princess diaries, Going  to rain, Things to think about](/images/treva-reid-meme.png)
 
