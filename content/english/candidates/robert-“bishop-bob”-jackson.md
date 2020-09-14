@@ -49,4 +49,4 @@ Jackson argues for community policing models and for tackling the systemic racis
 
 **All the wrong friends vibes:** While Jackson’s [endorsements page](https://www.jacksonforeastoakland.com/endorsements/) is not exactly a Who’s Who of Oakland’s most conservative, pro-policing, and possibly-corrupt elements, it’s close enough to make us nervous! While Jackson hasn’t shared an official campaign platform on environmentalism, one of his endorsements comes from coal advocate and developer Phil Tagami, and we interpret his policies to be pro-developer probably to the detriment of public interests. (Tagami famously defended his downtown buildings from Occupy Oakland protesters with his own gun and tactical vest, and, rather than being charged or even ashamed by his action, [can be seen speaking quite frankly about them in this video on the Museum of Oakland’s website](http://theoaklandstandard.museumca.org/phil-tagami).)
 
-**Not going to show up at Pride vibes:** Bishop Bob’s church hosted a pro-conversion therapy pastor in **MAY 2020**. Enough!
+**Not going to show up at Pride vibes:** Bishop Bob’s church hosted a pro-conversion therapy pastor in **MAY 2020**.Enough!
