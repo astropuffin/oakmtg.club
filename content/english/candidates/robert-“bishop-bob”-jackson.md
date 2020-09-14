@@ -18,7 +18,7 @@ type: candidates
 
 ### Introduction
 
-Bishop Robert “Bob” Jackson is the longtime pastor of Acts Full Gospel Church of God in Christ and a community activist. In May 2020, Jackson’s church [hosted an in-person rally against COVID-19 restrictions organized by a pastor who believes in “gay conversion therapy.”](https://www.berkeleyside.com/2020/05/15/an-east-oakland-pastor-and-city-council-candidate-hosted-a-rally-to-reopen-churches-other-local-pastors-pushed-backconver) He has not participated in any candidate forums as far as we can tell.
+Bishop Robert “Bob” Jackson is the longtime pastor of Acts Full Gospel Church of God in Christ, a community activist, and an affordable housing developer. In May 2020, Jackson’s church [hosted an in-person rally against COVID-19 restrictions organized by a pastor who believes in “gay conversion therapy.”](https://www.berkeleyside.com/2020/05/15/an-east-oakland-pastor-and-city-council-candidate-hosted-a-rally-to-reopen-churches-other-local-pastors-pushed-backconver) He has not participated in any candidate forums as far as we can tell.
 
 ### Official platform
 
@@ -50,3 +50,5 @@ Jackson argues for community policing models and for tackling the systemic racis
 **All the wrong friends vibes:** While Jackson’s [endorsements page](https://www.jacksonforeastoakland.com/endorsements/) is not exactly a Who’s Who of Oakland’s most conservative, pro-policing, and possibly-corrupt elements, it’s close enough to make us nervous! While Jackson hasn’t shared an official campaign platform on environmentalism, one of his endorsements comes from coal advocate and developer Phil Tagami, and we interpret his policies to be pro-developer probably to the detriment of public interests. (Tagami famously defended his downtown buildings from Occupy Oakland protesters with his own gun and tactical vest, and, rather than being charged or even ashamed by his action, [can be seen speaking quite frankly about them in this video on the Museum of Oakland’s website](http://theoaklandstandard.museumca.org/phil-tagami).)
 
 **Not going to show up at Pride vibes:** Bishop Bob’s church hosted a pro-conversion therapy pastor in **MAY 2020**. Enough!
+
+**Not going to follow the rules vibes:** Jackson also does business with the city as an affordable housing developer, and in 2018 he [broke the Oakland Campaign Reform Act twice by donating to a candidate for office when he was negotiating a city contract](https://twitter.com/hyphy_republic/status/1305192942701666311). In this case it was harmless because his favored candidate didn’t win, but it doesn’t exactly make us confident he’ll be ethical as a council member.
