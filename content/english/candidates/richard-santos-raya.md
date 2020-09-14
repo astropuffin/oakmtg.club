@@ -1,5 +1,14 @@
 ---
+title: Richard Santos Raya
+image: /images/richard_raya.jpg
 bg_image: images/background-oakland-panorama.jpg
+draft: false
+description: Candidate for City Council - District 5
+appointments: Oakland City Council
+bio: Earnest, sweet, and surprisingly savvy about City Hall bureaucracy
+tags:
+  - Oakland City Council
+  - District 5
 contact:
   - icon: ti-world
     link: https://www.santosraya.com/
@@ -13,15 +22,6 @@ contact:
   - name: Instagram
     icon: ti-instagram
     link: https://www.instagram.com/richardsantosraya/
-draft: false
-title: Richard Santos Raya
-image: /images/richard_raya.jpg
-description: Candidate for City Council - District 5
-appointments: Oakland City Council
-bio: Earnest, sweet, and surprisingly savvy about City Hall bureaucracy
-tags:
-  - Oakland City Council
-  - District 5
 type: candidates
 ---
 ## TL;DR: The restorative justice candidate of our dreams who might be too pure for this Council
@@ -34,7 +34,7 @@ Richard Santos Raya is one of two progressive challengers in the District 5 Coun
 
 On Richard Raya’s campaign website, he lists three major policing proposals besides Defunding the Police (for more on that, see the next section): the Black New Deal, Empower Educators, and A New Cultural Corridor.
 
-His first priority is a [Black New Deal](https://www.santosraya.com/black-new-deal), which Raya draws from one of [APTP’s major campaigns](https://www.antipoliceterrorproject.org/blog-entire/2020/4/22/black-oakland-demands-in-light-of-covid-19-and-rates-of-black-death); his fellow candidate, Zoe Lopez-Meraz \[LINK], also endorses the Black New Deal. Raya’s version of the Black New Deal will focus on job creation with unions, improving transportation infrastructure, creating greenspace in the flatlands, housing subsidies and loans to prevent gentrification, and holistic healthcare. Interestingly, outside of the name, the link to APTP’s site, and a link to an article about the exclusion of Black Americans from FDR’s original New Deal, Raya’s campaign website does not explicitly mention Oakland’s Black residents or how his Black New Deal would address racial inequities.
+His first priority is a [Black New Deal](https://www.santosraya.com/black-new-deal), which Raya draws from one of [APTP’s major campaigns](https://www.antipoliceterrorproject.org/blog-entire/2020/4/22/black-oakland-demands-in-light-of-covid-19-and-rates-of-black-death); his [fellow candidate, Zoe Lopez-Meraz](https://www.oakmtg.club/candidates/zoe-lopez-meraz/), also endorses the Black New Deal. Raya’s version of the Black New Deal will focus on job creation with unions, improving transportation infrastructure, creating greenspace in the flatlands, housing subsidies and loans to prevent gentrification, and holistic healthcare. Interestingly, outside of the name, the link to APTP’s site, and a link to an article about the exclusion of Black Americans from FDR’s original New Deal, Raya’s campaign website does not explicitly mention Oakland’s Black residents or how his Black New Deal would address racial inequities.
 
 In Raya’s second policy priority, empowering educators, he calls for a moratorium on charter schools. He also proposes increasing the number of staff at public schools and increasing the amount of support those staff have by hiring more behavioral specialists and social workers.
 
