@@ -34,6 +34,10 @@ To ensure community health, Reid says she will ensure essential workers have PPE
 
 A major cornerstone of Treva Reid’s campaign is eliminating gun violence. On her campaign website, she says she’ll “expand” OPD funding but also “reallocate” it to “violence interrupters” and alternative mental health responders besides 911. Her official campaign website does not mention defunding the police, but in person at candidate forums, she’s been much more direct. Although her father, Councilmember Larry Reid, voted to keep giving OPD nearly half of the city’s annual budget, Reid said at the August 18 candidate forum that [she would aim to decrease police funding by 50% and that the $14 million already cut from the budget in 2020 is not enough](https://www.facebook.com/acdemocrats/videos/1266703727012996). She proposed transferring some responsibilities that police have taken on to other organizations, focusing on “culturally competent trauma recovery and mental health services to our community” and violence prevention and conflict mediation, and says OPD's racist policing culture must be uprooted (You can hear her talk about that [in this video around 1:54:00](https://www.facebook.com/WellstoneDem/videos/298842841421549/)).
 
+### Stance on Howard Terminal A's Stadium
+
+Like the other candidates for D7, Reid opposes moving the A's stadium to Howard Terminal and thinks the A's should develop the area around the Coliseum. 
+
 ### Notable supporters
 
 * State Senator Nancy Skinner (District 9)
