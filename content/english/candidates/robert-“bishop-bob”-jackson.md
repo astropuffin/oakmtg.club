@@ -32,6 +32,10 @@ On housing, Jackson argues for building more units at every price point, using a
 
 Jackson argues for community policing models and for tackling the systemic racism that underpins economic and criminal justice inequality in our community. “Defunding the police would allow trained experts in domestic violence, mental health, homelessness, addiction, and blight to more effectively deal with these issues, while freeing up police officers to tackle more violent and property crimes and gang activity.” He has not, as far as we can tell, committed to a specific number for defunding the police.
 
+### Stance on Howard Terminal A's Stadium
+
+It's unclear what Jackson's position on the proposed Howard Terminal A's Stadium project is. 
+
 ### Notable supporters
 
 * Phil Tagami, developer and friend of coal
