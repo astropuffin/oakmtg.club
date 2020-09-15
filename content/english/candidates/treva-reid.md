@@ -36,7 +36,7 @@ A major cornerstone of Treva Reid’s campaign is eliminating gun violence. On h
 
 ### Stance on Howard Terminal A's Stadium
 
-Like the other candidates for D7, Reid opposes moving the A's stadium to Howard Terminal and thinks the A's should develop the area around the Coliseum. 
+Like the other candidates for D7 (with the exception of Jackson), Reid opposes moving the A's stadium to Howard Terminal and thinks the A's should develop the area around the Coliseum. 
 
 ### Notable supporters
 
