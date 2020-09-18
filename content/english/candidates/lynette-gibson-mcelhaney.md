@@ -19,6 +19,8 @@ contact:
     link: https://www.lynetteforoakland.com/
 type: candidates
 ---
+# TL;DR: Right about the little things, wrong about everything else
+
 ### Introduction
 
 Lynette McElhaney (pronounced “MAC-el-haney”) is the incumbent in the District 3 City Council race. She was first elected to City Council in 2012 and is serving her second four year term. She served as Council President (elected by her fellow Councilmembers) January 2015 - January 2017, and was both preceded and succeeded by Councilmember Larry Reid (D7) as President (he nominated her for Council President in 2015). Her council president term ended soon after the [Oakland Public Ethics Commission](https://oakland.granicus.com/DocumentViewer.php?file=oakland_be9f020021eef1ff6d2b053df81acd05.pdf) took Councilmember McElhaney to court for using her office for [personal](https://sanfrancisco.cbslocal.com/2016/06/22/scathing-grand-jury-report-finds-oakland-city-council-president-mcelhaney-broke-ethics-rules/) [gains](https://www.sfgate.com/bayarea/article/Oakland-ethics-commission-sues-City-Council-10421492.php).
