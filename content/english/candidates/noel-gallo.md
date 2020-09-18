@@ -45,7 +45,7 @@ In an [August 18, 2020](https://twitter.com/tdlove5/status/1295921885838897152?s
 
 ### Notable campaign donors
 
-* *(Hang tight, we're still looking this up!)*
+* SEIU 1021 (a union that includes City staff)
 
 ### Vibes
 
