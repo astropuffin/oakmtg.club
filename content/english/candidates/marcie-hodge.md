@@ -12,6 +12,9 @@ tags:
 contact:
   - name: Website
     icon: ti-world
+    link: http://www.hodge4oakland2020.com/priorities/
+  - name: Facebook
+    icon: ti-facebook
     link: https://www.facebook.com/Hodge4Oakland2020/
 type: candidates
 ---
