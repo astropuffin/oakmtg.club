@@ -16,6 +16,12 @@ contact:
   - name: Facebook
     icon: ti-facebook
     link: https://www.facebook.com/Hodge4Oakland2020/
+  - name: Twitter
+    icon: ti-twitter-alt
+    link: https://twitter.com/MarcieHodge13
+  - name: Instagram
+    icon: ti-instagram
+    link: https://www.instagram.com/hodge4oakland/
 type: candidates
 ---
 x
