@@ -12,7 +12,7 @@ buttons:
 ---
 ### **What this is:**
 
-There are no fully comprehensive, accessible voting guides in Oakland, so we wanted to make one for you. We give you the facts and the research, you make your own choices, and vote on (or before!) November 3, 2020.
+There are currently no fully comprehensive, accessible voting guides in Oakland, so we wanted to make one for you. We give you the facts and the research, you make your own choices, and vote on (or before!) November 3, 2020.
 
 ### **Who we are:**
 
@@ -20,4 +20,4 @@ We are your friends and neighbors across Oakland. For more information about us,
 
 ### **Find your district:**
 
-If you don't know your district, you can [look it up here: http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http://gisapps1.mapoakland.com/councildistricts/")
+If you don't know your district, you can [look it up here: http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http\://gisapps1.mapoakland.com/councildistricts/")
