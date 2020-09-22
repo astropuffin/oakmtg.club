@@ -21,3 +21,5 @@ We are your friends and neighbors across Oakland. For more information about us,
 ### **Find your district:**
 
 If you don't know your district, you can [look it up here: http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http\://gisapps1.mapoakland.com/councildistricts/")
+
+## Click on your District below to see your ballot options:
