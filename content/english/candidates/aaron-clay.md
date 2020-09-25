@@ -4,9 +4,11 @@ image: /images/clay.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
-office: Oakland City Council
-district: "7"
+appointments: Oakland City Council
 bio: The wholesome political newcomer who does everything for his community
+tags:
+  - Oakland City Council
+  - District 7
 contact:
   - name: Website
     icon: ti-world
@@ -27,7 +29,7 @@ Aaron Clay is not new to Oakland, but unlike many of the other candidates in the
 
 ### Official platform
 
-Clay has three main issues: housing, strengthening Oakland, and reimagining public safety (covered in the next section). You can hear [his pitch](https://www.facebook.com/WellstoneDem/videos/298842841421549/)
+Clay has three main issues: housing, strengthening Oakland, and reimagining public safety (covered in the next section). You can hear [his pitch](https://www.facebook.com/WellstoneDem/videos/298842841421549/).
 
 On housing, Clay said [at the Wellstone Democratic Forum (starting around 2:05:30](https://www.facebook.com/WellstoneDem/videos/298842841421549/)) that he wants development where the community controls the development. He favors transitional and supportive housing that is not concentrated in one area, observing that families with children have different needs from single mothers or veterans. His housing plan includes more workforce development. He thinks teachers and firefighters should be able to purchase homes in the community. At the [Alameda County Democratic Debate moderated by former mayor Elihu Harris](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink), Clay voiced support of tenant protections, particularly in this current economic crisis and said that he thinks shelters for the unhoused should be [built throughout the city, not just in one section](https://oaklandside.org/2020/08/19/oakland-city-council-candidates-discuss-issues-in-their-districts-virtually/).
 
