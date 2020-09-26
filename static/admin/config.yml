@@ -75,4 +75,17 @@ collections:
     filter:
       field: type
       value: guide_index
+  - name: how_to_vote
+    label: "How to Vote"
+    folder: "content/english/how-to-vote"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "how_to_vote_index"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: how_to_vote_index
 

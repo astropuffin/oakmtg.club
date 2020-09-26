@@ -2,6 +2,7 @@
 title: How to Vote
 bg_image: images/OaklandPanorama2.jpg
 description: How do you vote in Oakland on November 3, 2020.
+type: how_to_vote_index
 
 ---
 ### How do I vote?
