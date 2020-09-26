@@ -1,6 +1,6 @@
 ---
 title: Marchon Tatmon
-image: /images/tatmon.png
+image: /images/tatmon.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
