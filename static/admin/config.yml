@@ -88,4 +88,17 @@ collections:
     filter:
       field: type
       value: how_to_vote_index
+  - name: methodology
+    label: "Methodology"
+    folder: "content/english/methodology"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "methodology_index"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: methodology_index
 
