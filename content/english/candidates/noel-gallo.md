@@ -49,7 +49,7 @@ In an [August 18, 2020](https://twitter.com/tdlove5/status/1295921885838897152?s
 
 ### Vibes
 
-**Main vibe:** Hey, get this trash off my lawn!
+**Main vibe:** **Hey, get this trash off my lawn!** Even long-time Oakland City Council watchers call Noel Gallo's politics ["unstable,"](https://twitter.com/hyphy_republic/status/1305998596374851584) but they start to make a little more sense once you realize that Gallo wishes his district was more similar to the suburbs (which, to be fair, it was only a few decades ago!). Gallo votes as if Oakland were (or should become) Fremont. He's the only Council Member to bring up the interests of children consistently, and it's clear that he imagines his constituency to be made up mostly of families--and everyone else can take a hike.
 
 ![Animated GIF with text "GET OFFA MY LAWN, SON"](/images/gallo-trash.gif)
 
