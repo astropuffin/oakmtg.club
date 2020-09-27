@@ -35,6 +35,7 @@ Marcie Hodge, PsyD, was raised in Oakland and went to Merritt College, Cal State
 On [her official campaign website](http://www.hodge4oakland2020.com/priorities/), Marcie Hodge’s platform is pretty vague. She says her priorities are safe neighborhoods, homelessness, blight removal, and job creation.
 
 ### Housing
+
 On housing, Hodge says she wants Oakland's affordable housing percentage relative to market rate to be closer to 30% (by [our](https://www.civicdashboards.com/city/oakland-ca-16000US0653000/) [estimates](https://affordablehousingonline.com/housing-search/California/Oakland), this is currently 7%). To mitigate displacement, Hodge wants:
 
 * to decrease city bureaucracy for small business
@@ -55,6 +56,10 @@ Despite her claim to be in favor of reforming the police, we generally view Hodg
 ### Stance on Howard Terminal A’s Stadium
 
 Like the other candidates for D7 (with the exception of Jackson), Marcie Hodge opposes moving the A's stadium to Howard Terminal and thinks the A's should develop the area around the Coliseum. She is [against selling public land](https://www.facebook.com/watch/?v=834040027128850&extid=wYRwygikiroKmOir) because it “robs” residents of their investments and, like all the other D7 candidates, is [against moving the A’s stadium to Howard Terminal](https://oaklandside.org/2020/08/19/oakland-city-council-candidates-discuss-issues-in-their-districts-virtually/). In fact, she says she thinks the Howard Terminal project is a “smokescreen” for the A’s to buy time and a parcel of city land while they prepare to leave; she even goes so far as to say she does not think the A’s even want to move to Howard Terminal (see [this truly remarkable video, starting at 22:00](https://www.facebook.com/watch/?v=834040027128850&extid=wYRwygikiroKmOir)).
+
+### Notable supporters
+
+* Ken Houston, former candidate for Mayor and host of TumbleTweet Media (who also made these [incredible](https://twitter.com/KHouston4Mayor/status/1304157312878145537?s=20) [videos](https://twitter.com/KHouston4Mayor/status/1305074928455045121?s=20) for her)
 
 ### Vibes
 
