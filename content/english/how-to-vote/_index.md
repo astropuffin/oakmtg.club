@@ -1,7 +1,7 @@
 ---
-title: How to Vote
+title: How to Vote in 2020
 bg_image: images/OaklandPanorama2.jpg
-description: How do you vote in Oakland on November 3, 2020.
+description: How you can vote in Oakland on or before November 3, 2020.
 type: how_to_vote_index
 ---
 ### How do I vote?
