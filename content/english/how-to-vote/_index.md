@@ -12,7 +12,6 @@ As you already know, 2020 is a total mess. To pre-empt the difficulty of voting 
 
 All Californians who are registered to vote this year will receive ballots by mail, sent out by October 5th. Please note that as of this writing, Trump is defunding and dismantling the USPS, deprioritizing mail-in ballots-- so we encourage you to track your ballot using this tool: <https://california.ballottrax.net/>
 
-
 ### Dropping off your ballot:
 
 Alameda County has set up 24-hour Ballot Drop Box sites. You can find your closest one [here.](https://www.acgov.org/rovapps/maps/ballotdropbox_map.htm)
@@ -29,7 +28,7 @@ You will need to go to one of the polling places and tell them you need to vote 
 
 ### Here are important dates:
 
-* **Sept. 4th:** Deadline to register to get a County and [State](https://voterguide.sos.ca.gov/quick-reference-guide/) voter guide (these are super useful! We encourage you to register in time!)
+* **Sept. 4th:** Deadline to register to get a County and [State](http://www.easyvoterguide.org/wp-content/uploads/2020/09/EVG-Nov2020-Eng.pdf) voter guide (these are super useful! We encourage you to register in time!)
 * **Sept. 24th:** State and County voter guides will be mailed out to anyone registered before Sept. 4th
 * **Oct. 5th:** Ballots mailed out
 * **October 19th:** Deadline to register to vote
@@ -39,4 +38,4 @@ You will need to go to one of the polling places and tell them you need to vote 
 
 ### Voting Accessibility:
 
-As with previous years, Alameda County allows curbside voting for those unable to enter the polling place, and as required by law offer accessible voting booths. For more info on accessible voting, check out the AC vote [website.](<https://www.acvote.org/accessibility.page>)
+As with previous years, Alameda County allows curbside voting for those unable to enter the polling place, and as required by law offer accessible voting booths. For more info on accessible voting, check out the AC vote [website.](https://www.acvote.org/accessibility.page)
