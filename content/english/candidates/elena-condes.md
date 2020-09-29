@@ -30,11 +30,11 @@ type: candidates
 
 ### Introduction
 
-This is a county-level election. Elena Condes lives in Berkeley with her wife and three dogs; the couple’s daughter is in college. According to Condes, she is [the first Latinx to run for judge in our county](https://www.elenacondesforjudge.com/about.html). She serves on the board for the East Bay La Raza Lawyers Association, and frequently appeared in incumbent Judge Brosnahan’s court over the past 26 years.
+This is a county-level election. Elena Condes lives in Berkeley with her wife and three dogs; the couple’s daughter is in college. According to Condes, she is [the first Latinx to run for judge in our county](https://www.elenacondesforjudge.com/about.html). She serves on the board for the East Bay La Raza Lawyers Association and frequently appeared in incumbent Judge Brosnahan’s court over the past 26 years.
 
 Condes has run [a criminal defense sole practice](https://www.mercurynews.com/2020/01/14/editorial-elect-elena-condes-for-alameda-superior-court-judge/) for the past two decades, and prides herself in her [courtroom advocacy](https://www.mercurynews.com/2020/01/14/editorial-elect-elena-condes-for-alameda-superior-court-judge/).
 
-For this election, League of Women Voters is hosting a candidate forum on October 8th at 6PM:
+For this election, The League of Women Voters is hosting a candidate forum on October 8th at 6 PM:
 
 https://my.lwv.org/california/oakland/candidate-forums-november-2020
 
@@ -53,7 +53,7 @@ One endorser whose name you might recognize is **Dolores Huerta**. You’ve hear
 
 Condes has a whopping TWENTY-SIX current, active Alameda County Superior Court judges endorsing her, and an additional four retired Alameda County Superior Court judges (including the newest Oakland Police Commissioner Forte-Harbin). In comparison, her opponent has endorsements from two current and one retired Alameda County Superior Court judge.
 
-In terms of county and state politicians whose turf spans our county, many are withholding judgement: State Assemblymembers Buffy Wicks and Rob Bonta both endorsed both candidates, as did Alameda County Supervisors Keith Carson and Nate Miley.
+In terms of county and state politicians whose turf spans our county, many are withholding judgment: State Assemblymembers Buffy Wicks and Rob Bonta both endorsed both candidates, as did Alameda County Supervisors Keith Carson and Nate Miley.
 
 However, there are several county and state politicians who endorsed Condes alone. Notably, Supervisors Richard Valle and Wilma Chan endorsed only Condes. If you haven’t heard of Supervisor Chan, look her up - she held stints in the State Assembly AND the State Senate, and is basically the only county supervisor to ask any kind of probing questions around our county budget. Super badass. Also, State Senator Nancy Skinner (whose district includes Oakland) has only endorsed Condes. (Condes’s opponent also has a State Senator endorsement, but from the San Francisco district.)
 
