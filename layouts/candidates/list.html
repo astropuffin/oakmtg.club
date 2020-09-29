@@ -6,8 +6,7 @@
     <div class="row">
       <div class="col-12">
         <!-- candidate category list -->
-        <!-- removed because filterizr is super busted.
-        <ul class="list-inline text-center filter-controls mb-5">
+        <!--
           <li class="list-inline-item m-3 text-uppercase active" data-filter="all">{{ i18n "all" }}</li>
           {{ $categories := slice }}
           {{ range .Data.Pages }}
@@ -23,10 +22,21 @@
     <!-- candidate list -->
     <div class="row filtr-container">
       <!-- candidate -->
-      {{ range .Data.Pages }}
-      <div data-category="{{ .Params.Tag | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+      {{ range (.Data.Pages.GroupByParam "Appointments") }}
+      <div>{{ .Key }}</div>
+      {{ range (.Pages)}}
+      <div class="col-lg-4 col-sm-6 filtr-item">
         {{ .Render "candidate" }}
       </div>
+      {{ end }}
+      {{ end }}
+      {{ range .Data.Pages }}
+      <!--
+      <div data-category="{{ .Params.Appointments | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+        {{ .Render "candidate" }}
+        
+      </div>
+      -->
       {{ end }}
     </div>
   </div>
