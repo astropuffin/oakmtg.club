@@ -1,6 +1,6 @@
 ---
 title: Cherisse Gash
-image: /images/cherisse-gash-campaign.jpg
+image: /images/cherisse-gash-campaign-copy.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 3
