@@ -8,10 +8,10 @@ type: guide
 ### Oakland City Councilmember - District 3
 * [Carroll Fife](/candidates/carroll-fife)
 * [Lynette Gibson McElhaney](/candidates/lynette-gibson-mcelhaney)
-* [Seneca Scott](/candidates/seneca-scott)
-* [Meron Semedar](/candidates/meron-semedar)
-* [Alexus Taylor](/candidates/alexus-taylor)
-* [Faye Taylor](/candidates/faye-taylor)
+* [Seneca C. Scott](/candidates/seneca-c-scott)
+* [Meron Y. Semedar](/candidates/meron-y-semedar)
+* [Alexus D. Taylor](/candidates/alexus-d-taylor)
+* [Faye E. Taylor](/candidates/faye-e-taylor)
 
 ### Oakland City Councilmember - At Large
 * [Derreck B. Johnson](/candidates/derreck-johnson/)
