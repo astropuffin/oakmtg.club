@@ -39,3 +39,24 @@ On Johnson’s [official website](https://www.johnsonforoakland.com/blueprint) h
 ### Stance on policing
 
 Johnson has consistently said that he believes policing needs to be reformed but that he thinks defunding police is the [wrong direction](https://www.sfchronicle.com/bayarea/article/How-the-debate-about-police-reform-could-remake-15447760.php). In his Sept. 8 [interview](https://www.sfchronicle.com/bayarea/article/How-the-debate-about-police-reform-could-remake-15447760.php) with Zennie Abraham, Johnson said, “I've been talking to people in the flatlands. African-American women don't want police dismantled. They want reform.” Johnson says he supports [8 Can’t Wait](https://8cantwait.org/), a campaign focused on changing specific police policies to reduce killings by police.
+
+### Stance on the Howard Terminal A’s Stadium
+
+In a [questionnaire](https://oaklandside.org/wp-content/uploads/2020/09/Johnson-Oakland-City-Council-candidate-questionnaire.pdf) from the Oaklandside, Derreck Johnson refrained from taking a stance, instead listing his concerns with various aspects of the project. He is concerned 1) that there is a stalemate between the A’s and the City; 2) that the A’s are using Howard Terminal “as leverage, to force the City into selling them the property” (unclear if the property here is Howard Terminal or the Coliseum); and 3) that it would negatively impact port workers.
+
+### Notable supporters
+
+* Senator Kamala Harris (they’re cousins)
+* Mayor Libby Schaaf (legendary h8r of incumbent Councilmember Rebecca Kaplan)
+* Assemblymember Buffy Wicks
+* Betty Yee, California State Controller
+* Lateefah Simon, BART Board President
+* Malia Cohen, State Board of Equalization Chair
+* Don Perata, State Senate President Pro Tem (generally a law-and-order politician)
+* Ignacio De La Fuente, Council President (ret.)
+* Alameda County Supervisor Nate Miley (a noted supporter of notorious Alameda County Sheriff Greg Ahern)
+* Former Councilmembers Abel Guillen, Annie Campbell Washington, and Pat Kernighan
+
+### Notable campaign donors
+
+A few YIMBY activists [started a PAC](https://www.patreon.com/posts/shape-shifting-42014068) to support Derreck Johnson’s campaign, and was later joined by Lyft, the ride-sharing app, which contributed $100K to the PAC
