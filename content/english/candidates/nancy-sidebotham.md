@@ -1,6 +1,6 @@
 ---
 title: Nancy Sidebotham
-image: /images/favicon.png
+image: /images/sidebotham.png
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for City Council - At-Large "
