@@ -4,29 +4,20 @@ bg_image: images/OaklandPanorama2.jpg
 description: Disctrict 7
 image: images/district-7.png
 type: guide
-
 ---
-### City Council - District 1
-- [Dan Kalb](/candidates/dan-kalb)
+### Oakland City Council - District 7
+* [Aaron Clay](/candidates/aaron-clay/)
+* [Marcie Hodge](/candidates/marcie-hodge/)
+* [Robert "Bob" Jackson](/candidates/robert-bishop-bob-jackson/)
+* [Treva Reid](/candidates/treva-reid/ )
+* [Marchon Tatmon](/candidates/marchon-tatmon/)
+* [Eli Ferran](/candidates/eli-ferran)
+* [Barbara Parker](/candidates/)
 
-  blurb about Dan.
-
-- [Stephanie](/candidates/invalid)
-
-  blurb about Stephanie
-
-- [Tri](/candidates/invalid)
-
-  blurb about Tri
-
-### City Council - At Large
-- [Rebecca Kaplan](/candidates/invalid)
-
-  blurb about Kaplan
-
-- [Someone Else](/candidates/invalid)
-
-  blurb about else
+### Oakland City Council - At Large
+* [Derreck B. Johnson](/candidates/derreck-johnson/)
+* [Rebecca Kaplan](/candidates/rebecca-kaplan/)
+* [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
 ### School Board
 - [Something New](/candidates/dan-kalb)
