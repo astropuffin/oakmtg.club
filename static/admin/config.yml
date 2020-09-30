@@ -32,6 +32,13 @@ collections:
           - {label: Icon, hint: "List of options: https://themify.me/themify-icons", name: icon, widget: string}
           - {label: Link, hint: "Example: 'https://twitter.com/astropuffin'", name: link, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "candidates"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
@@ -51,6 +58,13 @@ collections:
           config:
             multiple: false
       - {label: "Content Type", name: "type", widget: "hidden", default: "guide"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
@@ -65,13 +79,20 @@ collections:
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
       - {label: Description, name: description, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "guide_index"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - label: Buttons
         name: buttons
         widget: list
         fields:
           - {label: title, name: title, widget: string}
           - {label: link, name: link, widget: string}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
       value: guide_index
@@ -84,6 +105,13 @@ collections:
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
       - {label: Description, name: description, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "how_to_vote_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
@@ -97,6 +125,13 @@ collections:
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
       - {label: Description, name: description, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "methodology_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
@@ -117,6 +152,13 @@ collections:
             multiple: false
       - {label: Description, name: description, widget: string}
       - {label: "Content Type", name: "type", widget: "hidden", default: "about_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
