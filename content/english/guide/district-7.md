@@ -18,16 +18,16 @@ type: guide
 * [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
 ### OUSD School Board Director - District 7
-* [Kristina Molina]()
-* [Ben "Coach" Tapscott]()
-* [Bronché Taylor]()
-* [Clifford Thompson]()
-* [Victor Javier Valerio]()
+* [Kristina Molina](/candidates/kristina-molina)
+* [Ben "Coach" Tapscott](/candidates/ben-coach-tapscott)
+* [Bronché Taylor](/candidates/bronche-taylor)
+* [Clifford Thompson](/candidates/clifford-thompson)
+* [Victor Javier Valerio](/candidates/victor-javier-valerio)
 
 ### Oakland City Attorney
-* [Eli Ferran]()
-* [Barbara Parker]()
+* [Eli Ferran](/candidates/eli-ferran)
+* [Barbara Parker](/candidates/barbara-parker)
 
 ### Alameda County Superior Court judge
-* [Elena Condes]()
-* [Mark Fickes]()
+* [Elena Condes](/candidates/elena-condes)
+* [Mark Fickes](/candidates/mark-fickes)
