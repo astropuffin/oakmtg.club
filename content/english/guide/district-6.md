@@ -11,8 +11,6 @@ type: guide
 * [Rebecca Kaplan](/candidates/rebecca-kaplan/)
 * [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
-...
-
 ### Oakland City Attorney
 * [Eli Ferran](/candidates/eli-ferran)
 * [Barbara Parker](/candidates/barbara-parker)
