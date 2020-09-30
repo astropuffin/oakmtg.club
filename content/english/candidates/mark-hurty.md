@@ -1,6 +1,6 @@
 ---
 title: Mark Hurty
-image: /images/default-oakland.jpg
+image: /images/mark-hurty-25.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 3
