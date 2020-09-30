@@ -4,52 +4,30 @@ bg_image: images/OaklandPanorama2.jpg
 description: Disctrict 7
 image: images/district-7.png
 type: guide
-
 ---
-### City Council - District 1
-- [Dan Kalb](/candidates/dan-kalb)
+### Oakland City Councilmember - District 7
+* [Aaron Clay](/candidates/aaron-clay/)
+* [Marcie Hodge](/candidates/marcie-hodge/)
+* [Robert "Bob" Jackson](/candidates/robert-bishop-bob-jackson/)
+* [Treva Reid](/candidates/treva-reid/ )
+* [Marchon Tatmon](/candidates/marchon-tatmon/)
 
-  blurb about Dan.
+### Oakland City Councilmember - At Large
+* [Derreck B. Johnson](/candidates/derreck-johnson/)
+* [Rebecca Kaplan](/candidates/rebecca-kaplan/)
+* [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
-- [Stephanie](/candidates/invalid)
+### OUSD School Board Director - District 7
+* [Kristina Molina](/candidates/kristina-molina)
+* [Ben "Coach" Tapscott](/candidates/ben-coach-tapscott)
+* [Bronché Taylor](/candidates/bronche-taylor)
+* [Clifford Thompson](/candidates/clifford-thompson)
+* [Victor Javier Valerio](/candidates/victor-javier-valerio)
 
-  blurb about Stephanie
+### Oakland City Attorney
+* [Eli Ferran](/candidates/eli-ferran)
+* [Barbara Parker](/candidates/barbara-parker)
 
-- [Tri](/candidates/invalid)
-
-  blurb about Tri
-
-### City Council - At Large
-- [Rebecca Kaplan](/candidates/invalid)
-
-  blurb about Kaplan
-
-- [Someone Else](/candidates/invalid)
-
-  blurb about else
-
-### School Board
-- [Something New](/candidates/dan-kalb)
-
-  blurb about New.
-
-- [Something Borrowed](/candidates/invalid)
-
-  blurb about Borrowed
-
-- [Something Blue](/candidates/invalid)
-
-  blurb about Blue
-
-### City Attorney
-- [Harvey Birdman](/candidates/dan-kalb)
-
-  blurb about Birdman.
-
-- [Phoenix Wright](/candidates/invalid)
-
-  blurb about Wright
-
-- [Harvey Dent](/candidates/invalid)
-
-  blurb about Dent
+### Alameda County Superior Court judge
+* [Elena Condes](/candidates/elena-condes)
+* [Mark Fickes](/candidates/mark-fickes)

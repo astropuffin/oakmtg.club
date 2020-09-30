@@ -5,35 +5,15 @@ description: District 2 - Eastlake, Grand Lake, San Antonio, Chinatown
 image: images/district-2.png
 type: guide
 ---
-### City Council - At Large
+### Oakland City Councilmember - At Large
+* [Derreck B. Johnson](/candidates/derreck-johnson/)
+* [Rebecca Kaplan](/candidates/rebecca-kaplan/)
+* [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
-* [Rebecca Kaplan](/candidates/invalid)
+### Oakland City Attorney
+* [Eli Ferran](/candidates/eli-ferran)
+* [Barbara Parker](/candidates/barbara-parker)
 
-  blurb about Kaplan
-* [Someone Else](/candidates/invalid)
-
-  blurb about else
-
-### School Board
-
-* [Something New](/candidates/dan-kalb)
-
-  blurb about New.
-* [Something Borrowed](/candidates/invalid)
-
-  blurb about Borrowed
-* [Something Blue](/candidates/invalid)
-
-  blurb about Blue
-
-### City Attorney
-
-* [Harvey Birdman](/candidates/dan-kalb)
-
-  blurb about Birdman.
-* [Phoenix Wright](/candidates/invalid)
-
-  blurb about Wright
-* [Harvey Dent](/candidates/invalid)
-
-  blurb about Dent
+### Alameda County Superior Court judge
+* [Elena Condes](/candidates/elena-condes)
+* [Mark Fickes](/candidates/mark-fickes)
