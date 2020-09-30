@@ -20,7 +20,7 @@ type: guide
 ### OUSD School Board Director - District 7
 * [Kristina Molina](/candidates/kristina-molina)
 * [Ben "Coach" Tapscott](/candidates/ben-coach-tapscott)
-* [Bronché Taylor](/candidates/bronche-taylor)
+* [Bronché Taylor](/candidates/bronché-taylor)
 * [Clifford Thompson](/candidates/clifford-thompson)
 * [Victor Javier Valerio](/candidates/victor-javier-valerio)
 
