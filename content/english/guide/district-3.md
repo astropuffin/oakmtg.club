@@ -20,9 +20,9 @@ type: guide
 
 ### OUSD School Board Director - District 3
 * [Maiya Edgerly](/candidates/maiya-edgerly)
-* [Cherisse Gash](/candidates/cherisse-gash)
+* [Cherisse Gash](/candidates/cherisse-gash-1)
 * [Mark Hurty](/candidates/mark-hurty)
-* [Maximo Santana](/candidates/maximo-santana)
+* [Maximo Santana](/candidates/maximo-santana-1)
 * [VanCedric Williams](/candidates/vancedric-williams)
 
 ### Oakland City Attorney
