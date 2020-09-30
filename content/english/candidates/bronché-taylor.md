@@ -1,11 +1,11 @@
 ---
 title: Bronché Taylor
-image: /images/default-oakland.jpg
+image: /images/bronché-taylor-screenshot.png
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 7
 appointments: Coming soon!
-bio: Comi
+bio: Coming soon!
 tags:
   - OUSD
   - school board
