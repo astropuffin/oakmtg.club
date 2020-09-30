@@ -1,6 +1,6 @@
 ---
 title: Eli Ferran
-image: /images/OaklandPanorama2.jpg
+image: /images/eli-ferran.jpeg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for Oakland City Attorney
