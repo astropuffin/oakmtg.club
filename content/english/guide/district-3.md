@@ -5,93 +5,30 @@ description: District 3
 image: images/district-3.png
 type: guide
 ---
-## Officials
+### Oakland City Councilmember - District 3
+* [Carroll Fife](/candidates/carroll-fife)
+* [Lynette Gibson McElhaney](/candidates/lynette-gibson-mcelhaney)
+* [Seneca Scott](/candidates/seneca-scott)
+* [Meron Semedar](/candidates/meron-semedar)
+* [Alexus Taylor](/candidates/alexus-taylor)
+* [Faye Taylor](/candidates/faye-taylor)
 
-### City Council - District 3
+### Oakland City Councilmember - At Large
+* [Derreck B. Johnson](/candidates/derreck-johnson/)
+* [Rebecca Kaplan](/candidates/rebecca-kaplan/)
+* [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
-* Lynette Gibson McElhaney
+### OUSD School Board Director - District 3
+* [Maiya Edgerly](/candidates/maiya-edgerly)
+* [Cherisse Gash](/candidates/cherisse-gash)
+* [Mark Hurty](/candidates/mark-hurty)
+* [Maximo Santana](/candidates/maximo-santana)
+* [VanCedric Williams](/candidates/vancedric-williams)
 
-  The incumbent; a narcissist who weaponizes her victimhood to the detriment of progressive policies.
-* Carroll Fife
+### Oakland City Attorney
+* [Eli Ferran](/candidates/eli-ferran)
+* [Barbara Parker](/candidates/barbara-parker)
 
-  carroll blurb
-* [Seneca Scott](/candidates/d3-seneca-c.scott/)
-
-  A labor organizer with slick headshots but virtually no concrete platform.
-* [Meron Y. Semedar](/candidates/meron-y-semedar/)
-
-  An Eritrean refugee with a cosmopolitan view but not enough grounding in Oakland-specific policies
-* [Alexus D. Taylor](/candidates/alexus-d-taylor/)
-
-  404 error: this campaign does not exist.
-* [Faye Taylor](/candidates/faye-e-taylor/)
-
-  A candidate running an analog campaign who probably will not win but has our favorite candidate candids
-
-### City Council - At Large
-
-* [Rebecca Kaplan](/candidates/invalid)
-
-  The incumbent;
-* Derrick B. Johnson
-
-  blurb about else
-* Nancy Sidebotham
-
-  blurb about else
-
-### School Director, District 3
-
-* MAIYA EDGERLY
-
-  blurb about New.
-* CHERISSE GASH
-
-  blurb about Borrowed
-* MARK HURTY
-
-  blurb about Blue
-* MAXIMO SANTANA
-
-  blurb about Blue
-* VANCEDRIC WILLIAMS
-
-  blurb about Blue
-
-### City Attorney
-
-* Barbara Parker
-
-  Incumbent;
-* Eli Ferran
-
-  blurb about
-
-### Superior Court Judge, Office #2
-
-* Elena Condes
-
-  XXXXXXXX
-* [](/candidates/invalid)Mark Fickes
-
-  blurb
-
-### AC Transit District Director, Ward 2
-
-* [G](/candidates/dan-kalb)reg Harper
-
-  The incumbent;
-* Jean Walsh
-
-  blurb about Wright
-
-### BART Director, District 7 (Parts of D3)
-
-* Lateefah Simon
-
-  The incumbent;
-* Sharon Kidd
-
-  blurb about Wright
-
-## Ballot Measures
+### Alameda County Superior Court judge
+* [Elena Condes](/candidates/elena-condes)
+* [Mark Fickes](/candidates/mark-fickes)
