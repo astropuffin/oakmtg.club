@@ -10,6 +10,7 @@ tags:
   - oakland
   - city attorney
   - lawyer
+  - attorney
 type: candidates
 ---
 Coming soon!
