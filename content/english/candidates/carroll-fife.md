@@ -9,6 +9,9 @@ bio: The labor-backed newcomer going against the ethically-challenged incumbent
 tags:
   - Oakland City Council
   - District 3
+seoTags:
+  - name: "district"
+    content: "3"
 contact:
   - name: Twitter
     link: https://twitter.com/carroll_fife

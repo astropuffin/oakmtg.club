@@ -6,6 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  <!-- site wide meta -->
+  {{ range site.Params.seoTags }}
+  <meta name="{{ .name }}" content="{{ .content }}" >
+  {{ end }}
+    <!-- page specific meta -->
+  {{ range .Params.seoTags }}
+  <meta name="{{ .name }}" content="{{ .content }}" >
+  {{ end }}
   {{ hugo.Generator }}
 
   {{ "<!-- plugins -->" | safeHTML }}
