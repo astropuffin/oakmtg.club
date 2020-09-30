@@ -1,6 +1,6 @@
 ---
 title: Mike Hutchinson
-image: /images/default-oakland.jpg
+image: /images/mike-hutchinson-facebook1.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 5
