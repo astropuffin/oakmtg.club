@@ -1,6 +1,6 @@
 ---
 title: Meron Y. Semedar
-image: /images/meron-semedar.webp
+image: /images/meron-semedar-cropped.png
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 appointments: Oakland City Council
