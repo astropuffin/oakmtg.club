@@ -7,7 +7,9 @@ image: images/district-1.png
 type: guide
 ---
 ### Oakland City Councilmember - District 1
-
+* [Steph Dominguez Walton](/candidates/steph-dominguez-walton)
+* [Dan Kalb](/candidates/dan-kalb)
+* [Tri Ngo](/candidates/tri-ngo)
 
 ### Oakland City Councilmember - At Large
 * [Derreck B. Johnson](/candidates/derreck-johnson/)
@@ -15,6 +17,9 @@ type: guide
 * [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
 ### OUSD School Board Director - District 1
+* [Austin Dannhaus](/candidates/austin-dannhaus)
+* [Sam Davis](/candidates/sam-davis)
+* [Stacy Thomas](/candidates/stacy-thomas)
 
 ### Oakland City Attorney
 * [Eli Ferran](/candidates/eli-ferran)
