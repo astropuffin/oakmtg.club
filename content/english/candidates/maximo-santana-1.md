@@ -1,6 +1,6 @@
 ---
 title: Maximo Santana
-image: /images/default-oakland.jpg
+image: /images/maximo-santana-instagram.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 3
