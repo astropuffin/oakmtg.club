@@ -3,7 +3,7 @@ title: About Us
 bg_image: images/OaklandPanorama2.jpg
 image: images/oakland_skyline_lake_merritt.jpg
 description: A group of Oakland residents who want to share what they're learning about how our city works
-
+type: about_index
 ---
 ## Oakmtg Appreciation Club
 
