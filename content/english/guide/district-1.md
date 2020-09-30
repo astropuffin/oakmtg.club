@@ -6,82 +6,20 @@ description: District 1 - North Oakland, Bushrod, Rockridge, Temescal, hills
 image: images/district-1.png
 type: guide
 ---
-## Officials
+### Oakland City Councilmember - District 1
 
-### City Council - District 1
 
-* **[Dan Kalb](/candidates/dan-kalb)**
+### Oakland City Councilmember - At Large
+* [Derreck B. Johnson](/candidates/derreck-johnson/)
+* [Rebecca Kaplan](/candidates/rebecca-kaplan/)
+* [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
-  The incumbent; a frustrating but effective progressive who’s not always there when you call but always on time.
-* **[Stephanie Dominguez Walton](/candidates/steph-dominguez-walton/)**
+### OUSD School Board Director - District 1
 
-  A faux-gressive newcomer with twice the incumbent’s charisma and 150% of his funding but no concrete plans to back it up.
-* **[Tri Ngo](/candidates/tri-ngo/)**
+### Oakland City Attorney
+* [Eli Ferran](/candidates/eli-ferran)
+* [Barbara Parker](/candidates/barbara-parker)
 
-  A pretty nice guy who’s just not ready for this.
-
-### City Council - At Large
-
-* **[Rebecca Kaplan](/candidates/invalid)**
-
-  The incumbent;
-* Derrick B. Johnson
-
-  blurb about else
-* Nancy Sidebotham
-
-  blurb about else
-
-### School Director, District 1
-
-* AUSTIN DANNHAUS
-
-  blurb about New.
-* SAM DAVIS
-
-  blurb about Borrowed
-* STACY THOMAS
-
-  blurb about Blue
-
-### City Attorney
-
-* Barbara Parker
-
-  Incumbent;
-* Eli Ferran
-
-  blurb about
-
-### Superior Court Judge, Office #2
-
-* Elena Condes
-
-  XXXXXXXX
-* [](/candidates/invalid)Mark Fickes
-
-  blurb
-
-### AC Transit District Director, Ward 2
-
-* Greg Harper
-
-  The incumbent;
-* Jean Walsh
-
-  blurb about Wright
-
-### BART Director, District 7 (Parts of D1)
-
-* Lateefah Simon
-
-  The incumbent;
-* Sharon Kidd
-
-  blurb about Wright
-
-### BART Director, District 3 (Parts of D1)
-
-  NO CANDIDATES YET
-
-## Ballot Measures
+### Alameda County Superior Court judge
+* [Elena Condes](/candidates/elena-condes)
+* [Mark Fickes](/candidates/mark-fickes)
