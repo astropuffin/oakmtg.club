@@ -6,7 +6,12 @@ image: images/district-3.png
 type: guide
 ---
 ### Oakland City Councilmember - District 3
-
+* [Carroll Fife](/candidates/carroll-fife)
+* [Lynette Gibson McElhaney](/candidates/lynette-gibson-mcelhaney)
+* [Seneca Scott](/candidates/seneca-scott)
+* [Meron Semedar](/candidates/meron-semedar)
+* [Alexus Taylor](/candidates/alexus-taylor)
+* [Faye Taylor](/candidates/faye-taylor)
 
 ### Oakland City Councilmember - At Large
 * [Derreck B. Johnson](/candidates/derreck-johnson/)
@@ -14,6 +19,11 @@ type: guide
 * [Nancy Sidebotham](/candidates/nancy-sidebotham/)
 
 ### OUSD School Board Director - District 3
+* [Maiya Edgerly](/candidates/maiya-edgerly)
+* [Cherisse Gash](/candidates/cherisse-gash)
+* [Mark Hurty](/candidates/mark-hurty)
+* [Maximo Santana](/candidates/maximo-santana)
+* [VanCedric Williams](/candidates/vancedric-williams)
 
 ### Oakland City Attorney
 * [Eli Ferran](/candidates/eli-ferran)
