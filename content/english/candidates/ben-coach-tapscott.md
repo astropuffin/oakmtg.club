@@ -1,6 +1,6 @@
 ---
 title: Ben "Coach" Tapscott
-image: /images/default-oakland.jpg
+image: /images/coach-tapscott-facebook3-1974-mcclymonds-warriors.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 7
