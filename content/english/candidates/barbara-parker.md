@@ -1,6 +1,6 @@
 ---
 title: Barbara Parker
-image: /images/OaklandPanorama2.jpg
+image: /images/barbara-parker-1970s.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Incumbent and candidate for Oakland City Attorney
@@ -10,6 +10,7 @@ tags:
   - oakland
   - city attorney
   - lawyer
+  - attorney
 type: candidates
 ---
 Coming soon!
