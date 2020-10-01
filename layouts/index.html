@@ -131,7 +131,7 @@
         <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-secondary">{{ .label }}</a>
+        <a href="{{ .link }}" class="btn btn-secondary">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>

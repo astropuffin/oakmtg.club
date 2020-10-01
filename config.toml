@@ -208,7 +208,7 @@ author = "astropuffin"
 #address = "9567 Turner Trace Apt. BC C3G8A4"
 #mobile = "+211234565523"
 #mobile = "N/A"
-email = "oakmtg@gmail.com"
+email = "oakmtg-club@googlegroups.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -261,7 +261,7 @@ link = "https://github.com/astropuffin/oakmtg.club"
 [[params.social]]
 title = "email"
 icon = "ti-email" # themify icon : https://themify.me/themify-icons
-link = "mailto:oakmtg@gmail.com"
+link = "mailto:oakmtg-club@googlegroups.com"
 
 
 ################################### English language #####################################
