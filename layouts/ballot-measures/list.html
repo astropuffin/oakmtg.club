@@ -1,0 +1,29 @@
+
+
+{{ define "main" }}
+
+<!-- ballot measures -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 content">
+        {{ with .Params.Image }}
+        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="guide image">
+        {{ end }}
+        <h2>{{ .Params.Byline }}</h2>
+        {{ range .Params.Buttons }}
+        <a href="{{ .link }}" class="btn btn-primary">{{ .title }}</a>
+        {{ end }}
+        {{ .Content }}
+      </div>
+      {{ range .Data.Pages}}
+      <!-- each ballot measure item -->
+      <div class="col-lg-4 col-sm-6 mb-4">
+        {{ .Render "ballot-measure" }}</div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /ballot measures -->
+
+{{ end }}
