@@ -194,7 +194,7 @@ collections:
       value: ballot_measure_index
   - name: ballot_measure
     label: "Ballot Measures"
-    folder: "content/english/guide"
+    folder: "content/english/ballot-measures"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
