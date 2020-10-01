@@ -193,7 +193,7 @@ collections:
       field: type
       value: ballot_measure_index
   - name: ballot_measure
-    label: "District"
+    label: "Ballot Measures"
     folder: "content/english/guide"
     create: true
     fields:
