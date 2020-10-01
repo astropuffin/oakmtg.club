@@ -4,7 +4,7 @@ image: /images/hodge.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
-appointments: Oakland City Council
+office: Oakland City Council
 bio: Ready to solve our city’s woes with fiscal fantasy
 tags:
   - Oakland City Council

@@ -3,7 +3,7 @@ title: Noel Gallo
 image: /images/noel-gallo.jpeg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 5
-appointments: Oakland City Council
+office: Oakland City Council
 bio: '"Hey, get this trash off my lawn!"'
 tags:
   - Oakland City Council

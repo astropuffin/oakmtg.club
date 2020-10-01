@@ -4,7 +4,7 @@ image: /images/maiya-edgerly-campaign1-copy-2.png
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 3
-appointments: Coming soon!
+office: Coming soon!
 bio: Coming soon!
 tags:
   - OUSD

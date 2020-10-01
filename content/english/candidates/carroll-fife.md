@@ -4,7 +4,7 @@ image: /images/carroll-fife.jpeg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 3
-appointments: Oakland City Council
+office: Oakland City Council
 bio: The labor-backed newcomer going against the ethically-challenged incumbent
 tags:
   - Oakland City Council

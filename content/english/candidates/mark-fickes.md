@@ -4,7 +4,7 @@ image: /images/fickes.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for Judge - Alameda Superior Court, Office #2"
-appointments: "Judge at Alameda Superior Court, Office #2"
+office: "Judge at Alameda Superior Court, Office #2"
 bio: Gay Jewish prosecutor reimagined as civil rights attorney. Only has 1 dog.
 tags:
   - Alameda County

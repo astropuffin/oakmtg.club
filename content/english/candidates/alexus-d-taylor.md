@@ -3,7 +3,7 @@ title: Alexus D. Taylor
 image: /images/oakland_skyline_square.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
-appointments: Oakland City Council
+office: Oakland City Council
 bio: A mysterious stranger
 tags:
   - Oakland City Council

@@ -3,7 +3,7 @@ title: Faye E. Taylor
 image: /images/taylor-old-town-road-square.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
-appointments: Oakland City Council
+office: Oakland City Council
 bio: No website doesn't mean no fun!
 tags:
   - Oakland City Council

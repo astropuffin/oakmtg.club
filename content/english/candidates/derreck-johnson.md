@@ -4,7 +4,7 @@ image: /images/johnson.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for City Council - At-Large "
-appointments: Oakland City Council
+office: Oakland City Council
 bio: A business owner who has more faith in the free market than Reagan did
 tags:
   - Oakland City Council

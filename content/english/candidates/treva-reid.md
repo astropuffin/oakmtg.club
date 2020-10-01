@@ -3,7 +3,7 @@ title: Treva Reid
 image: /images/treva-reid.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 7
-appointments: Oakland City Council
+office: Oakland City Council
 bio: De facto incumbent who says all the right things (but omits a whole lot more)
 tags:
   - Oakland City Council

@@ -4,7 +4,7 @@ image: /images/zlm4oak.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 5
-appointments: Oakland City Council
+office: Oakland City Council
 bio: Focused, direct, and with just as much energy for mutual aid organizing as
   the incumbent has for trash
 tags:

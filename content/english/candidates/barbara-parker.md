@@ -4,7 +4,7 @@ image: /images/barbara-parker-1970s.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Incumbent and candidate for Oakland City Attorney
-appointments: Coming soon!
+office: Coming soon!
 bio: Coming soon!
 tags:
   - oakland

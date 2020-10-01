@@ -4,7 +4,7 @@ image: /images/kaplan_cropped.jpeg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for City Council - At-Large "
-appointments: Oakland City Council
+office: Oakland City Council
 bio: "A long-time politician who’s made powerful enemies with her progressive
   policies "
 tags:

@@ -6,29 +6,20 @@
     <div class="row">
       <div class="col-12">
         <!-- candidate category list -->
-        <!-- removed because filterizr is super busted.
-        <ul class="list-inline text-center filter-controls mb-5">
-          <li class="list-inline-item m-3 text-uppercase active" data-filter="all">{{ i18n "all" }}</li>
-          {{ $categories := slice }}
-          {{ range .Data.Pages }}
-          {{ $categories = $categories | append .Params.Appointments }}
-          {{ end }}
-          {{ range ( $categories | uniq ) }}
-          <li class="list-inline-item m-3 text-uppercase" data-filter="{{ . | urlize }}">{{ . | humanize }}</li>
-          {{ end }}
-        </ul>
-        -->
       </div>
     </div>
     <!-- candidate list -->
+    {{ range (.Data.Pages.GroupByParam "Office") }}
+    <div><h3>{{ .Key }}</h2></div>
     <div class="row filtr-container">
-      <!-- candidate -->
-      {{ range .Data.Pages }}
-      <div data-category="{{ .Params.Tag | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+      {{ range (.Pages)}}
+      <div class="col-lg-4 col-sm-6 filtr-item">
+        <!-- candidate -->
         {{ .Render "candidate" }}
       </div>
       {{ end }}
     </div>
+    {{ end }}
   </div>
 </section>
 <!-- /candidates -->

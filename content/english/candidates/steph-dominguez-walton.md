@@ -14,7 +14,7 @@ draft: false
 title: Steph Dominguez Walton
 image: images/steph-dominguez-walton.jpg
 description: Candidate for City Council - District 1
-appointments: Oakland City Council
+office: Oakland City Council
 bio: A challenger running to the right of the incumbent, and likely to obstruct
   any truly progressive policies that come up before the council
 tags:

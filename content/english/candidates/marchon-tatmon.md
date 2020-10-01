@@ -4,7 +4,7 @@ image: /images/tatmon.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
-appointments: Oakland City Council
+office: Oakland City Council
 bio: Visit Oakland, home of the famous Hegenberger Loop!
 tags:
   - Oakland City Council
