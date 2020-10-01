@@ -7,9 +7,6 @@
   <div class="container">
     <div class="row">
       <div class="col-12 content">
-        {{ with .Params.Image }}
-        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="guide image">
-        {{ end }}
         <h2>{{ .Params.Byline }}</h2>
         {{ range .Params.Buttons }}
         <a href="{{ .link }}" class="btn btn-primary">{{ .title }}</a>
@@ -22,8 +19,10 @@
         {{ .Render "guide" }}</div>
       {{ end }}
       <!-- guide image -->
-      <div class="col-12 mb-4">
-        <img style="max-height: 50vh;object-fit: contain;" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      {{ with .Params.Image }}
+      <div><h3><strong>Find your district:</strong></h3>
+      <a href="http://gisapps1.mapoakland.com/councildistricts"><img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="guide image"></a>
+      {{ end }}
       </div>
     </div>
   </div>
