@@ -4,10 +4,8 @@ image: /images/meron-semedar-cropped.png
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 office: Oakland City Council
+district: 3
 bio: Vague policies, good intent, kind of an over-achiever
-tags:
-  - Oakland City Council
-  - District 3
 contact:
   - name: Website
     icon: ti-website

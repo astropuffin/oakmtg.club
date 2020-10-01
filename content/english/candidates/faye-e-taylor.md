@@ -4,10 +4,8 @@ image: /images/taylor-old-town-road-square.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 office: Oakland City Council
+district: 3
 bio: No website doesn't mean no fun!
-tags:
-  - Oakland City Council
-  - District 3
 contact:
   - name: Facebook
     icon: ti-facebook

@@ -5,10 +5,8 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
 office: Oakland City Council
+district: 7
 bio: The wholesome political newcomer who does everything for his community
-tags:
-  - Oakland City Council
-  - District 7
 contact:
   - name: Website
     icon: ti-world

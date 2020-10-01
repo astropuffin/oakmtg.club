@@ -3,12 +3,9 @@ title: Nancy Sidebotham
 image: /images/sidebotham.png
 bg_image: images/background-oakland-panorama.jpg
 draft: false
-description: "Candidate for City Council - At-Large "
+description: "Candidate for City Council - At-Large"
 office: Oakland City Council
 bio: A City Hall hater who runs often and loses every time for good reasons
-tags:
-  - Oakland City Council
-  - At-Large
 contact:
   - name: Website
     icon: ti-world

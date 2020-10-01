@@ -28,6 +28,9 @@
 - id: tags
   translation: Tags
 
+- id: office_and_district
+  translation: "Office & District"
+
 - id: see_all
   translation: See all
 

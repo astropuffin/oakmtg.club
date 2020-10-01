@@ -4,11 +4,9 @@ image: /images/cliff-thompson-from-campaign.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 7
-office: Coming soon!
+office: OUSD School Board Director
+disctrict: 7
 bio: Coming soon!
-tags:
-  - OUSD
-  - school board
 type: candidates
 ---
 Coming soon!

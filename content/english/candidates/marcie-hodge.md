@@ -5,10 +5,8 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
 office: Oakland City Council
+district: 7
 bio: Ready to solve our city’s woes with fiscal fantasy
-tags:
-  - Oakland City Council
-  - District 7
 contact:
   - name: Website
     icon: ti-world

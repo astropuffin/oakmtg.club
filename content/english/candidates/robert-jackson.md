@@ -4,10 +4,8 @@ image: /images/bishop-bob.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 7
 office: Oakland City Council
+district: 7
 bio: But have you tried NOT being gay? or NOT getting coronavirus?
-tags:
-  - Oakland City Council
-  - District 7
 contact:
   - name: Campaign website
     icon: ti-world
