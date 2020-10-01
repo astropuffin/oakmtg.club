@@ -4,6 +4,7 @@ bg_image: images/OaklandPanorama2.jpg
 description: District 5
 image: images/district-5.png
 type: guide
+district: "5"
 ---
 ### Oakland City Councilmember - District 5
 * [Noel Gallo](/candidates/noel-gallo)

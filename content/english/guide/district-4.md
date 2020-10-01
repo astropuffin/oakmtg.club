@@ -5,6 +5,7 @@ bg_image: images/OaklandPanorama2.jpg
 description: District 4
 image: images/district-4.png
 type: guide
+district: "4"
 ---
 ### Oakland City Councilmember - At Large
 * [Derreck B. Johnson](/candidates/derreck-johnson/)

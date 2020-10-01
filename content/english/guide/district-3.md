@@ -4,6 +4,7 @@ bg_image: images/OaklandPanorama2.jpg
 description: District 3
 image: images/district-3.png
 type: guide
+district: "3"
 ---
 ### Oakland City Councilmember - District 3
 * [Carroll Fife](/candidates/carroll-fife)

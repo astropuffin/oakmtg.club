@@ -5,6 +5,7 @@ description: District 1 - North Oakland, Bushrod, Rockridge, Temescal, hills
   through Montclair
 image: images/district-1.png
 type: guide
+district: "1"
 ---
 ### Oakland City Councilmember - District 1
 * [Steph Dominguez Walton](/candidates/steph-dominguez-walton)
