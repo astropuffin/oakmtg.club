@@ -258,10 +258,10 @@ title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/astropuffin/oakmtg.club"
 
-#[[params.social]]
-#title = "linkedin"
-#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-#link = "#"
+[[params.social]]
+title = "email"
+icon = "ti-email" # themify icon : https://themify.me/themify-icons
+link = "mailto:oakmtg@gmail.com"
 
 
 ################################### English language #####################################
