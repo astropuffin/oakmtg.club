@@ -24,7 +24,7 @@
             <h4 class="mb-4">{{ i18n "office_and_district" | upper }}</h4>
             <ul class="list-unstyled">
               <li class="mb-3"><b>Office:</b> {{ .Params.Office  }}</li>
-              <li class="mb-3"><b>District:</b> {{ cond (isset .Params "district") .Params.District "At-Large"  }}</li>
+              <li class="mb-3"><b>District:</b> {{  .Params.District }}</li>
             </ul>
           </div>
         </div>
