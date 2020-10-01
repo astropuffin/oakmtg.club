@@ -15,7 +15,7 @@ slider:
         link : "about"
 
 
-    - title : "The Informed Voter's Guide to the 2020 Oakland Election"
+    - title : "The Oakland.Vote Ballot Guide"
       content : "An accessible voting guide with facts, research, and our takes on the candidates."
       animation_in : "left"
       animation_out : "right"
