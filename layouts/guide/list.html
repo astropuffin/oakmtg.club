@@ -21,6 +21,10 @@
       <div class="col-lg-4 col-sm-6 mb-4">
         {{ .Render "guide" }}</div>
       {{ end }}
+      <!-- guide image -->
+      <div class="col-12 mb-4">
+        <img style="max-height: 50vh;object-fit: contain;" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
     </div>
   </div>
 </section>

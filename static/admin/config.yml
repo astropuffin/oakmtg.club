@@ -21,9 +21,8 @@ collections:
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
       - {label: "draft", name: draft, widget: hidden, default: false}
       - {label: Description, name: description, hint: "Example: 'Candidate for City Council - District 1'", widget: string}
-      - {label: Office, name: office, widget: string}
+      - {label: Office, name: office, hint: "Example: 'Oakland City Council, District 7'", widget: string}
       - {label: Bio, name: bio, widget: string}
-      - {label: Tags, hint: "Comma separated list", name: tags, widget: list }
       - label: Contact
         name: contact
         widget: list
