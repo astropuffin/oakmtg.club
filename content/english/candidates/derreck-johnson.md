@@ -5,6 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for City Council - At-Large"
 office: Oakland City Council
+district: "At-Large"
 bio: A business owner who has more faith in the free market than Reagan did
 contact:
   - name: Twitter

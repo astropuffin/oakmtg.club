@@ -5,6 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for Judge - Alameda Superior Court, Office #2"
 office: "Judge at Alameda Superior Court, Office #2"
+district: "At-Large"
 bio: Gay Jewish prosecutor reimagined as civil rights attorney. Only has 1 dog.
 contact:
   - name: Campaign website

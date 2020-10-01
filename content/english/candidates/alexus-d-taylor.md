@@ -4,7 +4,7 @@ image: /images/oakland_skyline_square.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 office: Oakland City Council
-disctrict: 3
+disctrict: "3"
 bio: A mysterious stranger
 type: candidates
 ---

@@ -15,7 +15,7 @@ draft: false
 image: images/steph-dominguez-walton.jpg
 description: Candidate for City Council - District 1
 office: Oakland City Council
-district: 1
+district: "1"
 bio: A challenger running to the right of the incumbent, and likely to obstruct
   any truly progressive policies that come up before the council
 type: candidates

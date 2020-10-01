@@ -5,6 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for Judge - Alameda Superior Court, Office #2"
 office: "Judge at Alameda Superior Court, Office #2"
+district: "At-Large"
 bio: The lesbian latinx criminal defense candidate endorsed by the trailblazing
   retiring incumbent
 contact:

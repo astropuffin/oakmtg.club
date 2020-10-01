@@ -6,7 +6,6 @@
     {{ range (.Data.Pages.GroupByParam "Office") }}
       <div>
         <h3>{{ .Key }}</h2>
-        {{ if or (eq .Key "Oakland City Council") (eq .Key "OUSD School Board Director") }}
           <div>
             {{ range (.Pages.GroupByParam "district") }}
               <h4>District: {{ .Key }}</h4>
@@ -19,15 +18,6 @@
               </div>
             {{ end }}
           </div>
-        {{ else }}
-          <div class="row filtr-container">
-            {{ range (.Pages)}}
-              <div class="col-lg-4 col-sm-6 filtr-item">
-                {{ .Render "candidate" }}
-              </div>
-            {{ end }}
-          </div>
-        {{ end }}
       </div>
     {{ end }}
   </div>

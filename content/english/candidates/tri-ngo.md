@@ -12,7 +12,7 @@ title: Tri Ngo
 image: images/tri-ngo.jpg
 description: Candidate for City Council - District 1
 office: Oakland City Council
-district: 1
+district: "1"
 bio: "TL;DR: A pretty nice guy who’s just not ready for this."
 type: candidates
 ---

@@ -18,7 +18,7 @@ draft: false
 image: /images/dan-kalb.png
 description: Candidate for City Council - District 1
 office: Oakland City Council
-district: 1
+district: "1"
 bio: Pushes for progressive actions - as long it's diplomatic to do so
 type: candidates
 ---

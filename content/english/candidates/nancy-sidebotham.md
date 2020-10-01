@@ -5,6 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for City Council - At-Large"
 office: Oakland City Council
+district: "At-Large"
 bio: A City Hall hater who runs often and loses every time for good reasons
 contact:
   - name: Website
