@@ -177,18 +177,18 @@ weight = 4
 
 # footer menu
 
-#[[menu.footer]]
-#name = "teacher"
-#URL = "teacher"
-#
-#[[menu.footer]]
-#name = "notice"
-#URL = "notice"
-#
-#[[menu.footer]]
-#name = "event"
-#URL = "event"
-#
+[[menu.footer]]
+name = "About Us"
+URL = "about"
+
+[[menu.footer]]
+name = "How to Vote"
+URL = "how-to-vote"
+
+[[menu.footer]]
+name = "Candidates"
+URL = "candidates"
+
 #[[menu.footer]]
 #name = "scholarship"
 #URL = "scholarship"
