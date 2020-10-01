@@ -59,7 +59,6 @@ hasChildren = true
     URL = "about"
     parent = "About"
     weight = 1
-    hasChildren = true
 
     [[menu.main]]
     parent = "About"
@@ -69,8 +68,56 @@ hasChildren = true
 
 [[menu.main]]
 name = "Voter Guide"
-URL = "guide"
 weight = 2
+hasChildren = true
+
+    [[menu.main]]
+    name = "Home"
+    URL = "guide"
+    parent = "Voter Guide"
+    weight = 1
+
+    [[menu.main]]
+    name = "Disctrict 1"
+    URL = "guide/district-1"
+    parent = "Voter Guide"
+    weight = 2
+
+    [[menu.main]]
+    name = "Disctrict 2"
+    URL = "guide/district-2"
+    parent = "Voter Guide"
+    weight = 3
+
+    [[menu.main]]
+    name = "Disctrict 3"
+    URL = "guide/district-3"
+    parent = "Voter Guide"
+    weight = 4
+
+    [[menu.main]]
+    name = "Disctrict 4"
+    URL = "guide/district-4"
+    parent = "Voter Guide"
+    weight = 5
+
+    [[menu.main]]
+    name = "Disctrict 5"
+    URL = "guide/district-5"
+    parent = "Voter Guide"
+    weight = 6
+
+    [[menu.main]]
+    name = "Disctrict 6"
+    URL = "guide/district-6"
+    parent = "Voter Guide"
+    weight = 7
+
+    [[menu.main]]
+    name = "Disctrict 7"
+    URL = "guide/district-7"
+    parent = "Voter Guide"
+    weight = 8
 
 [[menu.main]]
 name = "How to Vote"
