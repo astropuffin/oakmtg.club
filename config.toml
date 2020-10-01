@@ -78,43 +78,43 @@ hasChildren = true
     weight = 1
 
     [[menu.main]]
-    name = "Disctrict 1"
+    name = "District 1"
     URL = "guide/district-1"
     parent = "Voter Guide"
     weight = 2
 
     [[menu.main]]
-    name = "Disctrict 2"
+    name = "District 2"
     URL = "guide/district-2"
     parent = "Voter Guide"
     weight = 3
 
     [[menu.main]]
-    name = "Disctrict 3"
+    name = "District 3"
     URL = "guide/district-3"
     parent = "Voter Guide"
     weight = 4
 
     [[menu.main]]
-    name = "Disctrict 4"
+    name = "District 4"
     URL = "guide/district-4"
     parent = "Voter Guide"
     weight = 5
 
     [[menu.main]]
-    name = "Disctrict 5"
+    name = "District 5"
     URL = "guide/district-5"
     parent = "Voter Guide"
     weight = 6
 
     [[menu.main]]
-    name = "Disctrict 6"
+    name = "District 6"
     URL = "guide/district-6"
     parent = "Voter Guide"
     weight = 7
 
     [[menu.main]]
-    name = "Disctrict 7"
+    name = "District 7"
     URL = "guide/district-7"
     parent = "Voter Guide"
     weight = 8
@@ -208,7 +208,7 @@ author = "astropuffin"
 #address = "9567 Turner Trace Apt. BC C3G8A4"
 #mobile = "+211234565523"
 #mobile = "N/A"
-email = "info@oakmtg.club"
+email = "oakmtg@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
