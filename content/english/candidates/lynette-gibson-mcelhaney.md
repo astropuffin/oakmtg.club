@@ -4,12 +4,10 @@ image: /images/mcelhaney.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 3
-appointments: Oakland City Council
+office: Oakland City Council
+district: "3"
 bio: A narcissist who weaponizes her victimhood to the detriment of progressive
   policies
-tags:
-  - Oakland City Council
-  - District 3
 contact:
   - name: Twitter
     link: https://twitter.com/LynetteGM

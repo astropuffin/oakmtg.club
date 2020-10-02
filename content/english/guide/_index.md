@@ -3,6 +3,7 @@ title: Voter Guide
 byline: Oakland.Vote Ballot Guide
 bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland on November 3, 2020.
+image: images/oakland-districts.png
 type: guide_index
 buttons:
   - title: How do I vote in 2020?
@@ -20,6 +21,4 @@ We are your friends and neighbors across Oakland. For more information about us,
 
 ### **Find your district:**
 
-If you don't know your district, you can [look it up here: http://gisapps1.mapoakland.com/councildistricts/](http://gisapps1.mapoakland.com/councildistricts/ "http\://gisapps1.mapoakland.com/councildistricts/")
-
-## Click on your District below to see your ballot options:
+If you don't know your district, you can [look it up here](http://gisapps1.mapoakland.com/councildistricts/).

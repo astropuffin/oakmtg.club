@@ -3,13 +3,11 @@ title: Seneca C. Scott
 image: images/seneca_c_scott_from_twitter.jpg
 bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
-appointments: Oakland City Council
+office: Oakland City Council
+district: "3"
 bio: >
   TL;DR: A labor organizer with slick headshots but virtually no concrete
   platform
-tags:
-  - District 3
-  - Oakland City Council
 contact:
   - icon: ti-twitter-alt
     link: https://twitter.com/SenecaforOakd3
@@ -17,9 +15,6 @@ contact:
   - icon: ti-world
     link: https://www.senecaforoaklandd3.com/
     name: Campaign website
-  - name: Facebook
-    icon: ti-facebook
-    link: "?"
 type: candidates
 ---
 # TL;DR: A labor organizer with slick headshots but virtually no concrete platform

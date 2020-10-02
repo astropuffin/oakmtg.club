@@ -1,4 +1,5 @@
 ---
+title: Dan Kalb
 bg_image: images/background-oakland-panorama.jpg
 contact:
   - name: Offical Email
@@ -14,14 +15,11 @@ contact:
     icon: ti-world
     link: "https://www.dankalb.net/  "
 draft: false
-title: Dan Kalb
 image: /images/dan-kalb.png
 description: Candidate for City Council - District 1
-appointments: Oakland City Council
+office: Oakland City Council
+district: "1"
 bio: Pushes for progressive actions - as long it's diplomatic to do so
-tags:
-  - Oakland City Council
-  - District 1
 type: candidates
 ---
 # TL;DR: A frustrating but effective progressive who’s not always there when you call but always on time.

@@ -9,7 +9,7 @@
       </div>
       <div class="col-md-6 mb-5">
         <h3>{{ .Title }}</h3>
-        <h6 class="text-color">{{ .Params.Appointments }}</h6>
+        <h6 class="text-color">{{ .Params.Office }}</h6>
         <p class="mb-5">{{ .Params.Bio | markdownify }}</p>
         <div class="row">
           <div class="col-md-6 mb-5 mb-md-0">
@@ -21,11 +21,10 @@
             </ul>
           </div>
           <div class="col-md-6">
-            <h4 class="mb-4">{{ i18n "tags" | upper }}</h4>
+            <h4 class="mb-4">{{ i18n "office_and_district" | upper }}</h4>
             <ul class="list-unstyled">
-              {{ range .Params.Tags }}
-              <li class="mb-3">{{ . | title }}</li>
-              {{ end }}
+              <li class="mb-3"><b>Office:</b> {{ .Params.Office  }}</li>
+              <li class="mb-3"><b>District:</b> {{  .Params.District }}</li>
             </ul>
           </div>
         </div>

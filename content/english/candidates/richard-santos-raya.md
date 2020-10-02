@@ -4,11 +4,9 @@ image: /images/richard_raya.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 5
-appointments: Oakland City Council
+office: Oakland City Council
+district: "5"
 bio: Earnest, sweet, and surprisingly savvy about City Hall bureaucracy
-tags:
-  - Oakland City Council
-  - District 5
 contact:
   - icon: ti-world
     link: https://www.santosraya.com/

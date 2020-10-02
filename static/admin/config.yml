@@ -1,4 +1,4 @@
-backend:
+qbackend:
   name: git-gateway
   branch: main
 publish_mode: editorial_workflow
@@ -21,9 +21,9 @@ collections:
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
       - {label: "draft", name: draft, widget: hidden, default: false}
       - {label: Description, name: description, hint: "Example: 'Candidate for City Council - District 1'", widget: string}
-      - {label: Position, name: appointments, widget: string}
+      - {label: Office, name: office, hint: "Example: 'Oakland City Council'", widget: string}
+      - {label: District, name: district, hint: "Example: '7'. Defaults to 'At-Large' if not set.", widget: string, default: "At-Large"}
       - {label: Bio, name: bio, widget: string}
-      - {label: Tags, hint: "Comma separated list", name: tags, widget: list }
       - label: Contact
         name: contact
         widget: list

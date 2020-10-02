@@ -1,4 +1,5 @@
 ---
+title: Steph Dominguez Walton
 bg_image: images/background-oakland-panorama.jpg
 contact:
   - name: Official twitter account
@@ -11,15 +12,12 @@ contact:
     icon: ti-world
     link: http://stephforoakland.com
 draft: false
-title: Steph Dominguez Walton
 image: images/steph-dominguez-walton.jpg
 description: Candidate for City Council - District 1
-appointments: Oakland City Council
+office: Oakland City Council
+district: "1"
 bio: A challenger running to the right of the incumbent, and likely to obstruct
   any truly progressive policies that come up before the council
-tags:
-  - Oakland City Council
-  - District 1
 type: candidates
 ---
 ## TL;DR: A faux-gressive newcomer with twice the incumbent’s charisma and 1.5 times his funding but no concrete plans to back it up.
