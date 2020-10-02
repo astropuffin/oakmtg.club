@@ -19,7 +19,7 @@ type: candidates
 
 ### Introduction
 
-Meron Semedar is not seen as a leading candidate in the race for the District 3 Council seat, though he is thoroughly impressive and could bring a significantly different perspective to the host of issues plaguing District 3. However, the policies he lists on his website are vague, so this former D3 resident (Tasha) is concerned about how he would create concrete plans to address those issues. He has not participated in any candidate forums that we have seen.
+Meron Semedar is not seen as a leading candidate in the race for the District 3 Council seat, though he is thoroughly impressive and could bring a significantly different perspective to the host of issues plaguing District 3. However, the policies he lists on his website are vague, so this former D3 resident is concerned about how he would create concrete plans to address those issues. He has not participated in any candidate forums that we have seen.
 
 ### Background
 
@@ -41,7 +41,7 @@ Semedar supports requiring a percentage of new apartment housing to be affordabl
 
 Unknown
 
-### Corporate Tax 
+### Corporate Tax
 
 Semedar flags the flat tax rate for all corporations as a major issue for his campaign platform. Semedar is in favor of [Nikki Bas’ measure](https://www.mercurynews.com/2020/07/20/oakland-voters-to-decide-on-new-business-tax-measure-but-not-till-2022/#:~:text=OAKLAND%20%E2%80%94%20A%20measure%20that%20could,voters%20%E2%80%94%20but%20not%20until%202022.&text=Currently%2C%20businesses%20all%20pay%20the,the%20measure%20to%20the%20council.) that will go on the ballot in 2022, which would change taxes based on company gross receipts. He argues this tax structure will encourage more businesses to come to Oakland and provide more jobs.
 
