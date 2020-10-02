@@ -1,6 +1,12 @@
 ---
 title: Dan Kalb
+image: /images/dan-kalb.png
 bg_image: images/background-oakland-panorama.jpg
+draft: false
+description: Candidate for City Council - District 1
+office: Oakland City Council
+district: "1"
+bio: Pushes for progressive actions - as long it's diplomatic to do so
 contact:
   - name: Offical Email
     icon: ti-email
@@ -14,12 +20,6 @@ contact:
   - name: Website
     icon: ti-world
     link: "https://www.dankalb.net/  "
-draft: false
-image: /images/dan-kalb.png
-description: Candidate for City Council - District 1
-office: Oakland City Council
-district: "1"
-bio: Pushes for progressive actions - as long it's diplomatic to do so
 type: candidates
 ---
 # TL;DR: A frustrating but effective progressive who’s not always there when you call but always on time.
@@ -66,7 +66,7 @@ When the City Council was unexpectedly presented with the so-called Equity Caucu
 
 In a candidate forum, Kalb was asked what reimagining public safety meant to him, and he responded by saying he wanted to take money from OPD’s budget and move them to the Department of Violence Prevention, apprenticeship programs, and other strategies (see [this video starting around 48:00](https://www.facebook.com/133541853374505/videos/298842841421549)).
 
-More broadly, Kalb is a former community mediator who supports the [increased use of restorative justice and peer conflict mediation](https://www.dankalb.net/single-post/2017/06/15/Supporting-Youth-and-Quality-Education) in the community and in schools. When pressed by this D1 resident (Megan) about what he would do to make sure OPD released data about policing in a timely fashion for the newly created Re-imagine Public Safety Taskforce, Kalb said he could not do much as it was up to the City Administrator to force OPD’s hands.
+More broadly, Kalb is a former community mediator who supports the [increased use of restorative justice and peer conflict mediation](https://www.dankalb.net/single-post/2017/06/15/Supporting-Youth-and-Quality-Education) in the community and in schools. When pressed by this D1 resident about what he would do to make sure OPD released data about policing in a timely fashion for the newly created Re-imagine Public Safety Taskforce, Kalb said he could not do much as it was up to the City Administrator to force OPD’s hands.
 
 #### Stance on the Howard Terminal A’s Stadium
 
@@ -102,4 +102,4 @@ In 2017, Dan Kalb [publicly tweeted](https://twitter.com/DanKalb/status/83169372
 
 **Libby’s best friend vibe:** CM Kalb earned the Mayor’s endorsement despite the fact that fellow Emerge California alumna Steph Dominguez Walton was running. When forming the Taskforce for Public Safety, Kalb advocated to keep the Mayor’s appointments on the force, arguing that with 17 people already slated to join, it “was not a big deal.”
 
-**Leaving you on read vibe:** Dan Kalb is so notoriously bad at answering emails and phone calls from constituents that challenger Steph Dominguez Walton has structured part of her campaign around the fact that she will always respond to messages. The only way this District 1 resident (Megan) found to get a hold of him was requesting a spot at his office hours in response to his official campaign newsletter. Kalb says he’s only able to respond to questions when they’re “as specific as possible” and once responded to a journalist by saying, [“I’m very busy with a lot of important things.”](https://thestreetspirit.org/2020/08/01/oaklands-driver-plaza-longtime-hub-for-black-seniors-can-keep-its-port-a-potty-for-now/)
+**Leaving you on read vibe:** Dan Kalb is so notoriously bad at answering emails and phone calls from constituents that challenger Steph Dominguez Walton has structured part of her campaign around the fact that she will always respond to messages. The only way this District 1 resident found to get a hold of him was requesting a spot at his office hours in response to his official campaign newsletter. Kalb says he’s only able to respond to questions when they’re “as specific as possible” and once responded to a journalist by saying, [“I’m very busy with a lot of important things.”](https://thestreetspirit.org/2020/08/01/oaklands-driver-plaza-longtime-hub-for-black-seniors-can-keep-its-port-a-potty-for-now/)
