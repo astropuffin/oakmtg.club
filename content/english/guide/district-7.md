@@ -1,8 +1,9 @@
 ---
 title: District 7
+district: "7"
 bg_image: images/OaklandPanorama2.jpg
-description: Disctrict 7
+description: Coliseum, Hegenberger and from Oakland Airport to Zoo
 image: images/district-7.png
 type: guide
-district: "7"
 ---
+\-
