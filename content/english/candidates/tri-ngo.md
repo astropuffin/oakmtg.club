@@ -1,5 +1,12 @@
 ---
+title: Tri Ngo
+image: images/tri-ngo.jpg
 bg_image: images/background-oakland-panorama.jpg
+draft: false
+description: Candidate for City Council - District 1
+office: Oakland City Council
+district: "1"
+bio: "TL;DR: A pretty nice guy who’s just not ready for this."
 contact:
   - name: Twitter
     icon: ti-twitter-alt
@@ -7,13 +14,6 @@ contact:
   - name: Official Website
     icon: ti-world
     link: http://votetri.com
-draft: false
-title: Tri Ngo
-image: images/tri-ngo.jpg
-description: Candidate for City Council - District 1
-office: Oakland City Council
-district: "1"
-bio: "TL;DR: A pretty nice guy who’s just not ready for this."
 type: candidates
 ---
 ## TL;DR: A pretty nice guy who’s just not ready for this
@@ -34,7 +34,7 @@ Tri Ngo’s [official platform](https://www.votetri.com/issues.html) stands out 
 * Obtain rights to all vacant land and empty buildings for affordable housing
 * Consider Universal Basic Income
 
-Ngo’s first priority is creating an accountable government that represents everyone, which he plans to do by implementing something called [Liquid Democracy](https://medium.com/organizer-sandbox/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f). In person, he told this District 1 resident (Megan) that he wanted to have every resident of D1 vote online before each City Council meeting on every vote he’d have to take that meeting. Given how hard it is to get people to turn out for normal voting, however, it doesn’t strike us as super realistic to implement. Also, it’s an abdication of the responsibility elected representatives take when they commit to do the work and understand why they vote the way they do on each issue themselves.
+Ngo’s first priority is creating an accountable government that represents everyone, which he plans to do by implementing something called [Liquid Democracy](https://medium.com/organizer-sandbox/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f). In person, he told this District 1 resident that he wanted to have every resident of D1 vote online before each City Council meeting on every vote he’d have to take that meeting. Given how hard it is to get people to turn out for normal voting, however, it doesn’t strike us as super realistic to implement. Also, it’s an abdication of the responsibility elected representatives take when they commit to do the work and understand why they vote the way they do on each issue themselves.
 
 Ngo’s second and third priorities are homelessness and developing affordable housing. On these issues, Ngo is “considering” Universal Basic Income and wants the city to “obtain rights to all vacant land, empty buildings and warehouses to build affordable housing.” Please note that Mayor Schaff has already [pledged to run a pilot program](https://www.google.com/amp/s/sanfrancisco.cbslocal.com/2020/07/01/mayor-schaaf-launching-universal-basic-income-pilot-program-to-help-low-income-oakland-residents/amp/) of UBI in Oakland and there are multiple stakeholders actively working on it. You can read more about Ngo's [specific policy proposals here](https://www.votetri.com/issues.html).
 
@@ -44,7 +44,7 @@ When we began writing this voting guide in early August, Tri Ngo had made no pub
 
 ### Stance on the Howard Terminal A’s Stadium
 
-To our knowledge, Tri Ngo has made no public statement about the proposed Howard Terminal Stadium. This District 1 resident (Megan) ran into him on the street and asked him about it, but he did not seem very informed about the location or specifics. Did we miss something? Reach out.
+To our knowledge, Tri Ngo has made no public statement about the proposed Howard Terminal Stadium. This District 1 resident ran into him on the street and asked him about it, but he did not seem very informed about the location or specifics. Did we miss something? Reach out.
 
 ### Notable supporters
 
@@ -60,7 +60,7 @@ Because Tri Ngo’s supporters are limited to giving $35, it is not possible to 
 
 ![Screenshot of Zennie Abraham and Tri Ngo in a video chat window. They are both laughing but Abraham looks uncomfortable as he does so.](https://lh4.googleusercontent.com/amKQRNKUA4dPMri76MGvslBOgZVLXk88pxMXVBxXiaEIEA0gdpadf_U-A07zkRuHjAJHyYDdBfHcjgQFjzuLXyCKtKP3qC-DA8Snd_JWFG1rFjn6gwtjGY16DjphcL1vIzxtElMe)
 
-This screenshot is from [an interview Zennie Abraham did with Tri Ngo](https://youtu.be/RlXunWFstBs?t=314), where both Abraham and Ngo laughed uncomfortably after wondering how Ngo could get “more hugs” despite the Shelter in Place. Ngo was drinking beer throughout the interview and, as in [the D1 Candidates Forum hosted by the East Bay Young Democrats](https://www.facebook.com/watch/live/?v=1155979171417987&ref=watch_permalink), didn’t seem totally comfortable speaking as an authority on Oakland issues--he answered most questions by saying he would have to do more research before he could answer. This District 1 resident (Megan) asked him how he would deal with recalcitrant City staff to do things like get the Public Lands Policy put into effect, and he didn’t seem to realize how the mechanisms of City Hall work.
+This screenshot is from [an interview Zennie Abraham did with Tri Ngo](https://youtu.be/RlXunWFstBs?t=314), where both Abraham and Ngo laughed uncomfortably after wondering how Ngo could get “more hugs” despite the Shelter in Place. Ngo was drinking beer throughout the interview and, as in [the D1 Candidates Forum hosted by the East Bay Young Democrats](https://www.facebook.com/watch/live/?v=1155979171417987&ref=watch_permalink), didn’t seem totally comfortable speaking as an authority on Oakland issues--he answered most questions by saying he would have to do more research before he could answer. This District 1 resident asked him how he would deal with recalcitrant City staff to do things like get the Public Lands Policy put into effect, and he didn’t seem to realize how the mechanisms of City Hall work.
 
 **Good in theory vibes:** Tri Ngo’s ideas about making government more transparent seem well-intentioned and honestly much needed because Oakland’s City Government isn’t very transparent or accessible to the public at all. We like his drive to get more people--especially young people--voting, but we wonder whether his policy ideas are plausible or even possible.
 
