@@ -8,6 +8,8 @@ type: how_to_vote_index
 
 As you already know, 2020 is a total mess. To pre-empt the difficulty of voting during a pandemic, we’ve outlined all the different ways and times you can vote below.
 
+Check if you are registered to vote [HERE](https://voterstatus.sos.ca.gov/).
+
 ### By Mail:
 
 All Californians who are registered to vote this year will receive ballots by mail, sent out by October 5th. Please note that as of this writing, Trump is defunding and dismantling the USPS, deprioritizing mail-in ballots-- so we encourage you to track your ballot using this tool: <https://california.ballottrax.net/>
