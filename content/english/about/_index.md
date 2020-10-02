@@ -2,7 +2,8 @@
 title: About Us
 bg_image: images/OaklandPanorama2.jpg
 image: images/oakland_skyline_lake_merritt.jpg
-description: A group of Oakland residents who want to share what they're learning about how our city works
+description: A group of Oakland residents who want to share what they're
+  learning about how our city works
 type: about_index
 ---
 ## Oakmtg Appreciation Club
@@ -23,8 +24,11 @@ We want to do more.
 
 This site was made for us to be more effective at "last mile" civic engagement and enable more folks to join us. There's a LOT to take in, so we made this website to make it easier to keep track of what's going on. We will build this site out over time, particularly after the election, as we track promises made by electeds and appointees.
 
-If you'd like to join us, please shoot us an email at oakmtg-club@googlegroups.com.
+If you'd like to join us, please shoot us an email at [](oakmtg@gmail.com)[oakmtg@gmail.com](mailto:oakmtg@gmail.com).
 
 ### Other voter guides from community organizations:
 
-Want your guide added to our website? EMAIL US with your organization and the link to the voter guide and we’ll chat with you about it.
+* [LWV Voter Resources](https://my.lwv.org/california/oakland/whats-new-make-plan)
+* [Oakland Rising Action Voter Guide](https://www.oaklandrisingaction.org/2020-voter-guide/)
+
+Want your guide added to our website? [EMAIL US](mailto:oakmtg@gmail.com) with your organization and the link to the voter guide and we’ll chat with you about it.
