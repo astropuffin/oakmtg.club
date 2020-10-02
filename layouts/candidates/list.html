@@ -5,7 +5,7 @@
   <div class="container">
     {{ range (.Data.Pages.GroupByParam "Office") }}
       <div>
-        <h3>{{ .Key }}</h2>
+        <h3>{{ .Key }}</h3>
           <div>
             {{ range (.Pages.GroupByParam "district") }}
               <h4>District: {{ .Key }}</h4>

@@ -49,6 +49,7 @@ collections:
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: "District Number", name: district, hint: "Example: '7'.", widget: string}
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
       - {label: Description, name: description, hint: "Example: 'Temescal, hills through Montclair'", widget: string}
       - label: Image
