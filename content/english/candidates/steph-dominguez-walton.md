@@ -1,6 +1,13 @@
 ---
 title: Steph Dominguez Walton
+image: images/steph-dominguez-walton.jpg
 bg_image: images/background-oakland-panorama.jpg
+draft: false
+description: Candidate for City Council - District 1
+office: Oakland City Council
+district: "1"
+bio: A challenger running to the right of the incumbent, and likely to obstruct
+  any truly progressive policies that come up before the council
 contact:
   - name: Official twitter account
     icon: ti-twitter-alt
@@ -11,13 +18,6 @@ contact:
   - name: Official website
     icon: ti-world
     link: http://stephforoakland.com
-draft: false
-image: images/steph-dominguez-walton.jpg
-description: Candidate for City Council - District 1
-office: Oakland City Council
-district: "1"
-bio: A challenger running to the right of the incumbent, and likely to obstruct
-  any truly progressive policies that come up before the council
 type: candidates
 ---
 ## TL;DR: A faux-gressive newcomer with twice the incumbent’s charisma and 1.5 times his funding but no concrete plans to back it up.
@@ -74,10 +74,10 @@ Steph Dominguez Walton is publicly in favor of developing [a new A’s Stadium a
 
 ![Tracy Flick image with subtitle: "Okay, you're on, Mr. Popular."](https://lh4.googleusercontent.com/_GgngKD7KigbcCDH4TxjIUpfTQijQXLCzGVq9SZkQEzmyNYkOEPU5Qku4xCbsa8rjyq7iMBpuClmbQ2BMWzlz611kaBQtgbXYL40k6h9f7Yls9wDLXvRhQt7IJIfbXBCpsPenV27)
 
-**Well-organized vibes:** Steph Dominguez Walton declared her candidacy [more than a year before](https://twitter.com/stephforoakland/status/1179263350087258114) the November 2020 election, and this District 1 resident (Megan) first noticed flyers for her in the upscale Cole Coffee on College Ave back when it was still cold outside (so maybe January?). The pro-Walton buzz on District 1 Nextdoor is all about how she is likely to be a better Councilmember than current Councilmember Dan Kalb because she is “tireless” and responds quickly to emails (Kalb is notoriously tough to get a response from).
+**Well-organized vibes:** Steph Dominguez Walton declared her candidacy [more than a year before](https://twitter.com/stephforoakland/status/1179263350087258114) the November 2020 election, and this District 1 resident first noticed flyers for her in the upscale Cole Coffee on College Ave back when it was still cold outside (so maybe January?). The pro-Walton buzz on District 1 Nextdoor is all about how she is likely to be a better Councilmember than current Councilmember Dan Kalb because she is “tireless” and responds quickly to emails (Kalb is notoriously tough to get a response from).
 
-**Very rich vibes:** This District 1 resident (Megan) noticed that her signature “Steph4Oakland” signs appear with even more frequency the higher up one happens to be in District 1’s affluent Oakland hills. During a candidate forum, Walton [repeatedly](https://twitter.com/tasha_mente/status/1295903513378086912?s=20) [said](https://twitter.com/tasha_mente/status/1295903513378086912?s=20) she’s “comfortable in all neighborhoods in District 1,” a mystifyingly rich-person comment to make since District 1’s North Oakland is wealthy and safe even in its flattest parts compared to other Oakland districts.
+**Very rich vibes:** This District 1 resident noticed that her signature “Steph4Oakland” signs appear with even more frequency the higher up one happens to be in District 1’s affluent Oakland hills. During a candidate forum, Walton [repeatedly](https://twitter.com/tasha_mente/status/1295903513378086912?s=20) [said](https://twitter.com/tasha_mente/status/1295903513378086912?s=20) she’s “comfortable in all neighborhoods in District 1,” a mystifyingly rich-person comment to make since District 1’s North Oakland is wealthy and safe even in its flattest parts compared to other Oakland districts.
 
-**Problematic girlboss feminism vibes:** On her official Twitter account, Steph Dominguez Walton frequently tweets about the importance of [women supporting women](https://twitter.com/StephDWalton/status/1179770428765671424?s=20), [women running for office](https://twitter.com/StephDWalton/status/1255125897784393730?s=20), and [women shutting down racist and misogynistic remarks in public](https://twitter.com/StephDWalton/status/1286504564296781824?s=20). The flipside of these otherwise positive tweets is that they play into an essentialized view of women as inherently more qualified to lead than men. While Steph seems well-intentioned, this District 1 resident (Megan) thinks beliefs like these often shield women politicians from being held accountable for their specific policy positions.
+**Problematic girlboss feminism vibes:** On her official Twitter account, Steph Dominguez Walton frequently tweets about the importance of [women supporting women](https://twitter.com/StephDWalton/status/1179770428765671424?s=20), [women running for office](https://twitter.com/StephDWalton/status/1255125897784393730?s=20), and [women shutting down racist and misogynistic remarks in public](https://twitter.com/StephDWalton/status/1286504564296781824?s=20). The flipside of these otherwise positive tweets is that they play into an essentialized view of women as inherently more qualified to lead than men. While Steph seems well-intentioned, this District 1 resident thinks beliefs like these often shield women politicians from being held accountable for their specific policy positions.
 
-**Not super trustworthy vibes:** Steph Dominguez Walton definitely says all the right progressive things, but a few things make us think she’s not being very honest. Walton tried to take credit for Dan Kalb’s [Clifton Hall deal](https://www.oaklandca.gov/news/2020/city-of-oakland-nears-deal-to-transform-dormitory-into-transitional-affordable-housing) during the [August 18 Candidate Forum (see 1:06:00](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink)). Walton says she’ll bring “unity” to the Council, but it’s a strange thing to run on, because Kalb is (frustratingly) not a divisive member of the council; it makes us think she means eliminating Kalb’s (meager) opposition to the so-called Equity Caucus. Finally, her finance reports are remarkable because of [how many people don’t actually list their occupations](https://www.patreon.com/posts/anti-tenant-org-40307735), which makes us wary of her. At a campaign house party, this D1 resident (Megan) gently pressed her to describe her own children’s experience with public schools after she spent 10 minutes explaining her volunteer work, and Walton answered by saying that “our neighborhood school was Chabot” without admitting her kids didn’t go there. Regardless of what she says, we think she’s running to the right of Kalb and likely to obstruct any truly progressive policies that come up before the council.
+**Not super trustworthy vibes:** Steph Dominguez Walton definitely says all the right progressive things, but a few things make us think she’s not being very honest. Walton tried to take credit for Dan Kalb’s [Clifton Hall deal](https://www.oaklandca.gov/news/2020/city-of-oakland-nears-deal-to-transform-dormitory-into-transitional-affordable-housing) during the [August 18 Candidate Forum (see 1:06:00](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink)). Walton says she’ll bring “unity” to the Council, but it’s a strange thing to run on, because Kalb is (frustratingly) not a divisive member of the council; it makes us think she means eliminating Kalb’s (meager) opposition to the so-called Equity Caucus. Finally, her finance reports are remarkable because of [how many people don’t actually list their occupations](https://www.patreon.com/posts/anti-tenant-org-40307735), which makes us wary of her. At a campaign house party, this D1 resident gently pressed her to describe her own children’s experience with public schools after she spent 10 minutes explaining her volunteer work, and Walton answered by saying that “our neighborhood school was Chabot” without admitting her kids didn’t go there. Regardless of what she says, we think she’s running to the right of Kalb and likely to obstruct any truly progressive policies that come up before the council.
