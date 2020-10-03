@@ -6,7 +6,7 @@ draft: false
 description: Candidate for City Council - At-Large
 office: Oakland City Council
 district: At-Large
-bio: A business owner who has more faith in the free market than Reagan did
+bio: A business owner who got a PPP loan but laid off his employees anyway
 contact:
   - name: Twitter
     icon: ti-twitter
@@ -16,7 +16,7 @@ contact:
     link: https://www.johnsonforoakland.com/
 type: candidates
 ---
-# TL;DR: A shady business owner backed by Lyft who’s weirdly anti-government for someone running for government
+# TL;DR: A Lyft-backed business owner who laid off 90% of his employees during COVID-19 despite getting a PPP loan
 
 ### Introduction
 
@@ -67,7 +67,7 @@ A few YIMBY activists [started a PAC](https://www.patreon.com/posts/shape-shifti
 
 **Not taking any of this too seriously vibes:** Although he did appear at the August 18 [East Bay Young Democrats Candidates Forum](https://www.facebook.com/watch/live/?v=773987683352218&ref=watch_permalink) and the August 19 [Alameda County Democratic Party Candidates Forum](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink), Derreck Johnson missed the August 20 [Wellstone Club for Democratic Renewal Club’s Candidates Forum](https://www.facebook.com/watch/?v=298842841421549) allegedly to [appear](https://twitter.com/hyphy_republic/status/1296288073735495681) [virtually](https://twitter.com/hyphy_republic/status/1296619266477678592) with his cousin, Senator Kamala Harris, at the Democratic National Convention (we couldn’t track down the footage).
 
-**Bad boss vibes:** We really hate to see a boss who won’t pay [worker’s comp premiums](https://www.patreon.com/posts/council-derreck-40595481) (it’s the law!!!) or use a PPP loan to [pay his workers](https://abc7news.com/small-businesses-business-grant-african-american/6201659/) (“paycheck” is literally in the name!!!) and yet runs on how generous he is to employ (up to!) 70% formerly incarcerated people. While Oakland’s rich and powerful have come out of the woodwork to endorse Johnson, we think it’s telling that his current and former employees either have remained silent or else aren’t valued enough to have their endorsements get top billing.
+**Bad boss vibes:** We really hate to see a boss who won’t pay [worker’s comp premiums](https://www.patreon.com/posts/council-derreck-40595481) (it’s the law!!!) or use a PPP loan to [pay his workers](https://abc7news.com/small-businesses-business-grant-african-american/6201659/) (“paycheck” is literally in the name!!!) and yet runs on how generous he is to employ up to 70% formerly incarcerated people (Johnson himself has never claimed to employ "over 70%" formerly incarcerated people, despite the claims of [some editorial boards](https://www.eastbaytimes.com/2020/10/01/editorial-these-five-could-steer-oakland-away-from-financial-cliff/)). While Oakland’s rich and powerful have come out of the woodwork to endorse Johnson, we think it’s telling that his current and former employees either have remained silent or else aren’t valued enough to have their endorsements get top billing.
 
 **A case of the giggles vibes:** Derreck Johnson has a tendency to stutter and laugh nervously when speaking publicly. Johnson has done ok during Zoom candidate forums because he can read from the screen without anyone really noticing (see this video, [starting around 19:05](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink) or [this interview](https://abc7news.com/small-businesses-business-grant-african-american/6201659/)) but as soon as he runs out of prepared, written remarks, he’s back to giggling uncomfortably. This is fine (and charming!) for a private citizen, but it’s not the best habit for a City Councilmember who regularly has to speak in front of constituents (or with fellow Councilmembers!), and if the Council ever gets back in the habit of meeting in person Johnson is going to have a hell of a time speaking over heckling community members.
 
