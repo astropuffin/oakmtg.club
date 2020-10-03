@@ -4,11 +4,9 @@ image: /images/clay.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
-appointments: Oakland City Council
+office: Oakland City Council
+district: District 7
 bio: The wholesome political newcomer who does everything for his community
-tags:
-  - Oakland City Council
-  - District 7
 contact:
   - name: Website
     icon: ti-world
@@ -19,6 +17,10 @@ contact:
   - name: Instagram
     icon: ti-instagram
     link: https://www.instagram.com/clay4d7/
+appointments: Oakland City Council
+tags:
+  - Oakland City Council
+  - District 7
 type: candidates
 ---
 # TL;DR: A bright-eyed and just plain bright candidate who wants to defund the police (but may not know how)
@@ -31,7 +33,7 @@ Aaron Clay is not new to Oakland, but unlike many of the other candidates in the
 
 Clay has three main issues: housing, strengthening Oakland, and reimagining public safety (covered in the next section). You can hear [his pitch](https://www.facebook.com/WellstoneDem/videos/298842841421549/).
 
-On housing, Clay said [at the Wellstone Democratic Forum (starting around 2:05:30](https://www.facebook.com/WellstoneDem/videos/298842841421549/)) that he wants development where the community controls the development. He favors transitional and supportive housing that is not concentrated in one area, observing that families with children have different needs from single mothers or veterans. His housing plan includes more workforce development. He thinks teachers and firefighters should be able to purchase homes in the community. At the [Alameda County Democratic Debate moderated by former mayor Elihu Harris](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink), Clay voiced support of tenant protections, particularly in this current economic crisis and said that he thinks shelters for the unhoused should be [built throughout the city, not just in one section](https://oaklandside.org/2020/08/19/oakland-city-council-candidates-discuss-issues-in-their-districts-virtually/).
+On housing, Clay said [at the Wellstone Democratic Forum (starting around 2:05:30](https://www.facebook.com/WellstoneDem/videos/298842841421549/)) that he wants development where the community controls the development. He favors transitional and supportive housing that is not concentrated in one area, observing that families with children have different needs from single mothers or veterans. His housing plan includes more workforce development. He thinks teachers and firefighters should be able to purchase homes in the community. At the [Alameda County Democratic Debate moderated by former mayor Elihu Harris](https://www.facebook.com/watch/live/?v=1266703727012996&ref=watch_permalink), Clay voiced support for tenant protections, particularly in this current economic crisis and said that he thinks shelters for the unhoused should be [built throughout the city, not just in one section](https://oaklandside.org/2020/08/19/oakland-city-council-candidates-discuss-issues-in-their-districts-virtually/).
 
 Clay posits that a problem with opportunity zones (a category into which much of East Oakland falls) is there's no requirement that the community benefit from development, so we need to guide development to make sure it's to the betterment of the people who are here now. “We have to control development instead of letting it control us,” or we will lose the residents who have lived here all their life.
 
