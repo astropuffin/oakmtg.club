@@ -4,7 +4,7 @@ slider:
   bg_image : "images/oakland_skyline.jpg"
   slider_item:
     # slider item loop
-    - title : "#oakmtg (Appreciation) Club"
+    - title : "#OakMtg (Appreciation) Club"
       content : "A community of friends and neighbors dedicated to transparency and keeping tabs on local politics"
       animation_in : "left"
       animation_out : "right"
