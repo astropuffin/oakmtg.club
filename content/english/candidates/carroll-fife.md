@@ -7,9 +7,6 @@ description: Candidate for City Council - District 3
 office: Oakland City Council
 district: "3"
 bio: The labor-backed newcomer going against the ethically-challenged incumbent
-seoTags:
-  - name: "district"
-    content: "3"
 contact:
   - name: Twitter
     link: https://twitter.com/carroll_fife
@@ -18,6 +15,9 @@ contact:
     icon: ti-world
     link: "www.carrollfife.org "
 type: candidates
+seoTags:
+  - name: district
+    content: "3"
 ---
 # TL;DR: In-your-face on housing rights and defunding the police
 
@@ -27,7 +27,7 @@ type: candidates
 
 Carroll Fife is director of the Oakland office of Alliance of Californians for Community Empowerment (ACCE) and a co-founder of [Moms 4 Housing](https://moms4housing.org/aboutm4h), a collective of houseless and marginally housed mothers who are best known for [occupying a house owned by a real estate speculator in West Oakland (they were evicted in January 2020)](https://www.nytimes.com/2020/01/15/us/oakland-homeless-eviction.html). She was also a 2016 and 2020 delegate for Bernie Sanders, and she is a member of the 2020 Platform Committee for the DNC. Fife has lived in Oakland for 20 years and [is married to Tur-Ha Ak, a community organizer](https://www.vogue.com/article/moms-4-housing).
 
-As an organizer, Fife’s tactics are bold, loud, and uncomfortable for officials. Given this long-standing experience, it is unclear how Fife will be able to accomplish her laudable objectives on a City Council that requires a mix of careful collaboration and subtle backstabbing. However, Fife has not (and is unlikely to in the future) receive support from OPOA (the Oakland police association) -- a promising appeal for seeing the city’s budget go to supporting its residents.
+As an organizer, Fife’s tactics are bold, loud, and uncomfortable for officials. Given this long-standing experience, it is unclear how Fife will be able to accomplish her laudable objectives on a City Council that normally requires a mix of careful collaboration and subtle backstabbing. However, Fife has not (and is unlikely to in the future) receive support from OPOA (the Oakland police association) -- a promising appeal for seeing the city’s budget go to supporting its residents.
 
 ### Official platform
 
@@ -37,7 +37,7 @@ On [her official campaign website](https://www.carrollfife.org/platform), Carrol
 
 Disagreements on how to solve the Bay Area’s housing issues have historically divided those who want to solve the problem with more housing. Fife’s housing actions are no exception. She takes an aggressive stance on affordable housing, which has included opposing housing policy for not being sufficiently broad in nature. Fife opposed the controversial “upzoning” bill [SB50](<https://en.wikipedia.org/wiki/California_Senate_Bill_50_(2019)#:~:text=California%20Senate%20Bill%2050%20(SB,four%2Dplex%20residential%20zoning%20statewide.>) on the grounds that it does not prioritize [“housing for people who make less than $40 an hour”](https://www.courthousenews.com/new-california-housing-bill-gives-cities-more-zoning-flexibility/) -- a stance that found Fife an uncomfortable ally with NIMBYs who oppose building housing in general.
 
-Fife is unafraid to take direct action to push more dialog on housing. [Councilmember Bas’s recent Tenant Opportunity to Purchase Act](https://www.mercurynews.com/2020/01/30/oakland-councilwoman-to-introduce-moms-4-housing-inspired-ordinance/) was supported by Fife, and is said to have been inspired by Moms4Housing (which Fife co-founded). According to Fife, [she organized protests and drove attendance at a Oakland City Council meeting to ensure passage of a 90-day moratorium on evictions and particular rent increases.](http://www.creatingfreedommovements.org/carroll-fife.html) We haven’t been able to find more details about this - please reach out if you know when this was or have more details!
+Fife is unafraid to take direct action to push more dialog on housing. [Councilmember Bas’s recent Tenant Opportunity to Purchase Act](https://www.mercurynews.com/2020/01/30/oakland-councilwoman-to-introduce-moms-4-housing-inspired-ordinance/) was supported by Fife, and is said to have been inspired by Moms4Housing (which Fife co-founded). According to Fife, [she organized protests and drove attendance at an Oakland City Council meeting to ensure passage of a 90-day moratorium on evictions and particular rent increases.](http://www.creatingfreedommovements.org/carroll-fife.html) We haven’t been able to find more details about this - please reach out if you know when this was or have more details!
 
 At the August 18 Alameda County Democratic Party forum, Fife said that solving the problem of homelessness requires addressing the “speculative nature of housing” (see [this video, starting around 1:22:50](https://www.facebook.com/acdemocrats/videos/1266703727012996)). We’ve yet to hear solid plans from Fife on how she will accomplish her aggressive housing objectives (what tactics might this direct action organizer adopt from the other side of the city council table?), but are eager to learn more.
 
@@ -86,3 +86,5 @@ During the August 18 Alameda County Democratic Party Candidate Forum, Fife respo
 **Go big or go home vibes:** As one of the co-founders of the Moms4Housing action, it’s clear that Fife is willing to court trouble and face official disapproval. We fully expect this willingness to take risks to make an appearance if she gets a seat on the other side of the dais. The big question: will Fife find the political savvy to turn this brash energy into the platform change she seeks?
 
 **Not going to get a lot of positive coverage vibes:** [A recent SF Chronicle article](https://www.sfchronicle.com/bayarea/article/How-the-debate-about-police-reform-could-remake-15447760.php) called Fife’s challenge to CM McElhaney “the city’s marquee race” but curiously didn’t include a single quote from Fife. A member of the #oakmtg Twitterati said this was because [Chronicle reporter Rachel Swan once called the cops on Fife at City Hall](https://twitter.com/sassmasterdeane/status/1289350198049665024). While we could neither confirm nor deny these rumors, it’s probably a good bet that you won’t be seeing a lot of quotes from Fife in the Chron as the months progress.
+
+**Needs a Zoom consultant vibes:** One of the funniest moments in the Alameda County Democratic Party candidates forum was when Fife admitted she did not know how to switch from speaker view to grid view (see [this video starting around 1:21:00](https://www.facebook.com/acdemocrats/videos/1266703727012996)). We’re hoping she gets her tech in order if she’s elected, because who knows how long City business will be only on Zoom!
