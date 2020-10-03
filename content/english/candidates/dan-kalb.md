@@ -28,7 +28,7 @@ type: candidates
 
 #### Introduction
 
-Dan Kalb is the incumbent in the District 1 City Council race. He was first elected to City Council in 2013 and is serving his second four year term. Kalb has demonstrated political ambitions beyond Oakland; in 2018, he ran for the California Assembly and lost to Buffy Wicks, a notable supporter of challenger Steph Dominguez Walton’s campaign. Before serving on the Oakland City Council, Dan worked as the Policy Director with the Union of Concerned Scientists and as an administrator at City College of San Francisco. He’s currently the Chairperson of East Bay Community Energy, Alameda County’s local energy provider.
+Dan Kalb is the incumbent in the District 1 City Council race. He was first elected to City Council in 2012 and is serving his second four year term. Kalb has demonstrated political ambitions beyond Oakland; in 2018, he ran for the California Assembly and lost to Buffy Wicks, a notable supporter of challenger Steph Dominguez Walton’s campaign. Before serving on the Oakland City Council, Dan worked as the Policy Director with the Union of Concerned Scientists and as an administrator at City College of San Francisco. He’s currently the Chairperson of East Bay Community Energy, Alameda County’s local energy provider.
 
 #### Background
 
