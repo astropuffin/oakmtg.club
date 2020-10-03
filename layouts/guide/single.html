@@ -17,7 +17,26 @@
         </div>
         <div>
           {{ with .Site.GetPage "section" "candidates"}}
-            {{ range (.Data.Pages.GroupByParam "Office") }}
+            {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "Oakland City Council" }}
+            <div>
+              <h3>{{ .Key }}</h3>
+                <div>
+                  {{ range (.Pages.GroupByParam "district") }}
+                  {{ if (or (eq .Key $.Page.Params.District) (eq .Key "At-Large"))}}
+                    <h4>District: {{ .Key }}</h4>
+                    <div class="row filtr-container">
+                      {{ range (.Pages)}}
+                        <div class="col-lg-4 col-sm-6 filtr-item">
+                          {{ .Render "candidate" }}
+                        </div>
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  {{ end }}
+                </div>
+            </div>
+            {{ end }}
+            {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "!=" "Oakland City Council" }}
             <div>
               <h3>{{ .Key }}</h3>
                 <div>
