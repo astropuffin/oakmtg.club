@@ -11,6 +11,15 @@ contact:
   - name: Website
     icon: ti-world
     link: https://www.eliforoakland.com/
+  - name: Twitter
+    icon: ti-twitter-alt
+    link: https://twitter.com/eli4oakland
+  - name: Facebook
+    icon: ti-facebook
+    link: https://www.facebook.com/Eli-Ferran-For-Oakland-City-Attorney-100567625019067/?eid=ARB0LcyRhFd2l1jyZEnavhDMG4uYtUUCBqDV5vZ3FLsy4pJL-X0BZvohLxpbkmjm7Ril_K0tzJPIBxOP
+  - name: Instagram
+    icon: ti-instagram
+    link: https://www.instagram.com/eli4oakland/
 type: candidates
 ---
 # TL;DR A newcomer to the election circuit who’s got big dreams but will be in for a nightmare if elected.
