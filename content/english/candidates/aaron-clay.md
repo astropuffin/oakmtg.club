@@ -1,12 +1,14 @@
 ---
-title: Aaron Clay
+title: Aaron Clay OLD DO NOT EDIT
 image: /images/clay.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for City Council - District 7
-office: Oakland City Council
-district: District 7
+appointments: Oakland City Council
 bio: The wholesome political newcomer who does everything for his community
+tags:
+  - Oakland City Council
+  - District 7
 contact:
   - name: Website
     icon: ti-world
@@ -17,11 +19,9 @@ contact:
   - name: Instagram
     icon: ti-instagram
     link: https://www.instagram.com/clay4d7/
-appointments: Oakland City Council
-tags:
-  - Oakland City Council
-  - District 7
+district: District 7
 type: candidates
+office: Oakland City Council
 ---
 # TL;DR: A bright-eyed and just plain bright candidate who wants to defund the police (but may not know how)
 
