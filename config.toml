@@ -200,7 +200,7 @@ URL = "candidates"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_dark_transparent_200x68.png"
 # Meta data
 description = "Appreciating Oakland City Meetings"
 author = "astropuffin"
