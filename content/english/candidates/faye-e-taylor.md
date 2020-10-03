@@ -30,7 +30,7 @@ Taylor believes that the root cause of police violence is not due to the culture
 
 Controversially, Taylor opposed the [firing of former OPD Chief Anne Kirkpatrick](https://www.sfchronicle.com/crime/article/Fired-Oakland-Police-Chief-Anne-Kirkpatrick-files-15250973.php), saying, “police like her, and I haven’t heard anything that she’s done wrong.” Kirkpatrick has sued the City and was recently [eviscerated](https://oaklandside.org/2020/08/17/former-opd-chief-allowed-corrosive-police-culture-to-derail-shooting-investigation/) in a federal monitor report for mishandling the murder of an unsheltered man. She was fired for withholding information from the Police Commission and [backsliding on federally-manded goals](https://www.sfchronicle.com/crime/article/Oakland-police-lose-ground-on-reforms-in-court-13704186.php) to meet the [Oakland Negotiated Settlement Agreement of 2003](https://www.oaklandca.gov/resources/oakland-police-negotiated-settlement-agreement-nsa-reports) regarding police misconduct.
 
-**Stance on housing**
+### Stance on housing
 
 Taylor says her main fight is against inaction in the neighborhood by city officials. Taylor says her neighbors can't afford to live in the new luxury apartments being built in West Oakland and supports policies like the [Tenant Opportunity to Purchase Act](https://ebclc.org/topa/) being explored in Berkeley, which gives renters the first opportunity to buy their building when it's sold. After that, she believes publicly-owned housing should go to the U.S. Department of Housing and Urban Development (HUD) "to try to keep it in the community." 
 
