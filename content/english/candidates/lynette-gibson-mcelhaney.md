@@ -29,7 +29,7 @@ McElhaney is originally from San Diego and lives in West Oakland with her husban
 
 [Lynette McElhaney’s election website](https://www.lynetteforoakland.com/about) does not (at the time of this writing) contain platform details. Among her accomplishments during her two terms as Council Member, McElhaney lists creating [the Department of Violence Prevention](https://www.eastbaytimes.com/2020/01/06/oaklands-violence-prevention-department-to-finally-kick-off-with-new-chief/), preserving Measure Z (a pro-police parking tax that [requires the City to budget and maintain at least 678 sworn police personnel](http://www2.oaklandnet.com/government/o/CityAdministration/d/measure-z/index.htm)), and the establishment of the [Black Arts Movement and Business District](http://www.bambdcdc.com/). What follows has been gathered from her track record.
 
-Housing
+### Housing
 
 On housing, McElhaney is generally pro-real estate developer and anti-tenant. The most recent example of this occurred during the July 14 City Council Meeting, when she [argued against passage of Tenant Protections Ordinance and then failed to vote on the motion](https://www.patreon.com/posts/council-update-39426858). She, along with the so-called “Equity Caucus” added clauses, sought by corporations and realtors, to the Progressive Business Tax which pushed its [inclusion on the public ballot to 2022](https://www.patreon.com/posts/council-update-39426858). She [opposed Measure W](https://ebcitizen.com/2019/10/01/oaklands-vacant-lot-tax-is-sowing-confusion-property-owners-say/), the vacant parcel tax, despite [63% of owners of vacant parcels in West Oakland being outside of the city](https://twitter.com/jadafalls/status/1299504892332052481?s=20).
 
