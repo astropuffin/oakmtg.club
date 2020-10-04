@@ -28,7 +28,7 @@ Peeples is [prioritizing](https://votersedge.org/ca/en/ballot/election/87-71817a
 
 ### Notable Supporters
 
-* AFSCME Council 57 and Local 3916 (AC Transit Professionals and Para-Professionals, which endorsed both him and Victoria Fierce) \[link]
+* AFSCME Council 57 and Local 3916 (AC Transit Professionals and Para-Professionals, which endorsed both him and [Victoria Fierce](https://www.oakmtg.club/candidates/victoria-fierce/))
 * Alameda County Democratic Central Committee
 * Sierra Club
 * League of Conservation Voters
