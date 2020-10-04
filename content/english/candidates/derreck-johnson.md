@@ -9,7 +9,7 @@ district: At-Large
 bio: A business owner who got a PPP loan but laid off his employees anyway
 contact:
   - name: Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/derreckbjohnson
   - name: Website
     icon: ti-world
