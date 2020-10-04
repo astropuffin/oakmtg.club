@@ -202,7 +202,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: ballot_measure_index
+      value: ballot-measures_index
   - name: ballot_measure
     label: "Ballot Measures"
     folder: "content/english/ballot-measures"
