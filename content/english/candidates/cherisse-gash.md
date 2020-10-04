@@ -37,13 +37,11 @@ type: candidates
 
 ### Vibes
 
-Main vibe: Ready to fight. Cherisse Gash is supported by Oakland Not for Sale, a coalition formed to oppose OUSD school closures and mergers. Oakland Not for Sale staged a School Board meeting [takeover](https://www.youtube.com/watch?v=3Lv1L-y26Xg&feature=emb_title) on September 25, 2019. Later, several parents and teachers filed [a lawsuit](https://www.eastbaytimes.com/2020/01/30/parents-teachers-sue-oakland-school-district-over-violent-board-meeting/) against OUSD after law enforcement officials allegedly injured them during the Board meeting on October 23, 2019. We like Gash’s stances and the fact that she’s a fierce advocate, and we hope the history of bad feelings and vitriol won’t influence Board meetings going forward.
+**Main vibe: Ready to fight.** Cherisse Gash is supported by Oakland Not for Sale, a coalition formed to oppose OUSD school closures and mergers. Oakland Not for Sale staged a School Board meeting [takeover](https://www.youtube.com/watch?v=3Lv1L-y26Xg&feature=emb_title) on September 25, 2019. Later, several parents and teachers filed [a lawsuit](https://www.eastbaytimes.com/2020/01/30/parents-teachers-sue-oakland-school-district-over-violent-board-meeting/) against OUSD after law enforcement officials allegedly injured them during the Board meeting on October 23, 2019. We like Gash’s stances and the fact that she’s a fierce advocate, and we hope the history of bad feelings and vitriol won’t influence Board meetings going forward.
 
+**Doing the work vibes:** In addition to Oakland Not For Sale, Gash has [volunteered](https://oaklandside.org/wp-content/uploads/2020/09/CherisseGash.pdf) with the Ella Baker Center for Human Rights, Restore Oakland, and the African American male achievement program. She is not new to organizing in Oakland, and we trust she’ll be able to build strong coalitions across the city.
 
-
-Doing the work vibes: In addition to Oakland Not For Sale, Gash has [volunteered](https://oaklandside.org/wp-content/uploads/2020/09/CherisseGash.pdf) with the Ella Baker Center for Human Rights, Restore Oakland, and the African American male achievement program. She is not new to organizing in Oakland, and we trust she’ll be able to build strong coalitions across the city.
-
-
+### Candidate forums
 
 You can view the recorded candidate forums for this race here:
 
