@@ -1,11 +1,11 @@
 ---
-title: "Jean Walsh "
+title: "Jean Walsh"
 image: /images/jean_walsh.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for AC Transit Ward 2 Director
 office: AC Transit Board of Directors
-district: 2
+district: "2"
 bio: Energetic challenger with a lot of endorsements who wants the bus to work
   as reliably as a water utility
 contact:
