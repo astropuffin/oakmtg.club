@@ -460,6 +460,9 @@ textarea.form-control {
   width: 85px;
   object-fit: cover; }
 
+.missing-anything-footer {
+  padding: 2rem; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
