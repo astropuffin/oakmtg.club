@@ -1,7 +1,38 @@
 ---
-title: Measure 3
+title: Measure S1
 bg_image: images/OaklandPanorama2.jpg
-description: Measure 3 Description
+description: Police Commission Ballot Measure
 type: ballot_measure
 ---
-### Coming Soon!
+# TL;DR: Gives the Oakland Police Commission the resources and staff it needs to effectively hold OPD accountable.
+
+[Measure S1](https://acgovt-my.sharepoint.com/personal/rovonedrive_acgovt_onmicrosoft_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9hY2dvdnQtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvcm92b25lZHJpdmVfYWNnb3Z0X29ubWljcm9zb2Z0X2NvbS9FbnVSb1VDMThnTkRwTWRvZWJLVmFVc0JsdWplNmg1ZjJrUmlRQlBjdFJfclNRP3J0aW1lPU5raUNvbVJtMkVn&id=%2Fpersonal%2Frovonedrive%5Facgovt%5Fonmicrosoft%5Fcom%2FDocuments%2FMeasure%20Materials%20%2D%20November%203%2C%202020%20Election%2F24%20%2D%20Measure%20S1%20%2D%20City%20of%20Oakland%20%2D%20Police%20Commussion%2Epdf&parent=%2Fpersonal%2Frovonedrive%5Facgovt%5Fonmicrosoft%5Fcom%2FDocuments%2FMeasure%20Materials%20%2D%20November%203%2C%202020%20Election) would allow the Oakland Police Commission (the all-volunteer civilian oversight board) to hire attorney advisors. They’ve asked repeatedly since inception for legal assistance from the City Attorney and been rebuffed. The Commission’s ability to review police misconduct has been complicated by the fact that not only do all its members have day jobs, but also the Oakland Police Department has not been timely or cooperative when it comes to sharing data that the Commission needs to do their oversight work. Legal staff would allow the Commission to review and report on OPD’s policies and practices.
+
+### What happens if Measure S1 passes?
+
+A ‘yes' vote would increase the independence of the Oakland Police Commission and provide more resources and support for its review of complaints and investigations of police use of force and misconduct. It would also grant the Commission (along with the Inspector General it would be empowered to hire and the Community Police Review Agency) timely access to documents that are currently available only to the police department's division of Internal Affairs.
+
+If passed, the measure would also institute a procedure for suspending Commission members (by a vote of at least six members of the city council, or “by a [majority vote](https://ballotpedia.org/Oakland,_California,_Police_Oversight_and_Inspector_General_Charter_Amendment_(November_2020)) of the Commission for felony convictions and other certain misdemeanors”).
+
+Passing the measure would “\[increase] the number of full-time [legal advisors](https://ballotpedia.org/Oakland,_California,_Police_Oversight_and_Inspector_General_Charter_Amendment_(November_2020)) for the Community Police Review Agency to two” (which should expand the Agency's capacity), require a City Auditor's review every three years, and “\[prohibit] the [city administration](https://ballotpedia.org/Oakland,_California,_Police_Oversight_and_Inspector_General_Charter_Amendment_(November_2020)) from managing the agency” while also specifying a new deadline for the agency to issue a report after concluding an investigation.
+
+It would also “create an Office of the [Inspector General](https://ballotpedia.org/Oakland,_California,_Police_Oversight_and_Inspector_General_Charter_Amendment_(November_2020)) to review the police commission’s policies, as well as change the powers, duties, and staffing of the commission and police review board.”
+
+This office would be tasked with keeping track of and reporting to the Commission on lawsuits, complaints, and investigations involving OPD and the Community Police Review Agency.
+
+A ‘no' vote would keep the Police Commission and CPRA as they are: unstaffed and unable to hold OPD accountable.
+
+### Potential problems with Measures S1
+
+Some weird language about City unions and the ability to investigate volunteer Commissioners got snuck in during the meet-and-confer process, which is probably why the [Oakland Police Officers Association](https://www.sfchronicle.com/bayarea/philmatier/article/Unlikely-endorsement-Oakland-officers-union-15560419.php) supports it, but it’s nothing bad enough to make us doubt that this Measure would be a good thing for Oakland.
+
+### Measure S1 Supporters
+
+* All eight Oakland Councilmembers and Mayor Schaaf
+* Wellstone Democratic Renewal Club
+* Coalition for Police Accountability
+* OPOA (strange but true!)
+
+### Vibes
+
+**The toolbox you need, and a few confusing doodads.** Measure S1 would give the all-volunteer Police Commission the support they need to have the misconduct oversight they’ve been tasked with. The measure comes with some weird add-ons, but what toolbox doesn’t have something useless mixed in with all the good stuff?
