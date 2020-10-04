@@ -94,6 +94,16 @@
             </div>
             {{ end }}
           {{ end }}
+          <h3>Ballot Measures</h3>
+          {{ with .Site.GetPage "section" "ballot-measures"}}
+            <div class="row filtr-container">
+              {{ range (.Pages)}}
+                <div class="col-lg-4 col-sm-6 filtr-item">
+                  {{ .Render "ballot-measure" }}
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
         </div>
       </div>
     </div>
