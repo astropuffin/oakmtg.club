@@ -1,6 +1,6 @@
 ---
 title: Van Cedric Williams
-image: /images/van-cedric-williams-campaign2.jpg
+image: /images/williams.png
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for OUSD School Board Director - District 3
