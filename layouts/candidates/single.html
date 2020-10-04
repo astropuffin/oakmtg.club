@@ -24,7 +24,14 @@
             <h4 class="mb-4">{{ i18n "office_and_district" | upper }}</h4>
             <ul class="list-unstyled">
               <li class="mb-3"><b>Office:</b> {{ .Params.Office  }}</li>
-              <li class="mb-3"><b>District:</b> {{  .Params.District }}</li>
+              <li class="mb-3"><b>
+              {{- if (eq .Params.Office "AC Transit Board of Directors")}}
+              AC Transit Ward
+              {{ else if (eq .Params.Office "BART Board of Directors")}}
+              BART District
+              {{ else }}
+              District
+              {{ end }}:</b> {{ .Params.District }}</li>
             </ul>
           </div>
         </div>
