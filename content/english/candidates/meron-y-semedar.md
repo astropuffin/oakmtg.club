@@ -8,7 +8,7 @@ district: "3"
 bio: Vague policies, good intent, kind of an over-achiever
 contact:
   - name: Website
-    icon: ti-website
+    icon: ti-website-alt
     link: https://meronsemedar.org/
   - name: Twitter
     icon: ti-twitter
