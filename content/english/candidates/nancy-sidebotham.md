@@ -3,9 +3,9 @@ title: Nancy Sidebotham
 image: /images/sidebotham.png
 bg_image: images/background-oakland-panorama.jpg
 draft: false
-description: "Candidate for City Council - At-Large"
+description: Candidate for City Council - At-Large
 office: Oakland City Council
-district: "At-Large"
+district: At-Large
 bio: A City Hall hater who runs often and loses every time for good reasons
 contact:
   - name: Website
@@ -17,7 +17,7 @@ type: candidates
 
 ### Introduction
 
-Nancy Sidebotham has lived in Oakland since 1964. She went to Cal State Hayward and Merritt College. She is a tax preparer, longtime District 6 resident, and perennial candidate. Sidebotham has run for City office [at least 5 times](https://ballotpedia.org/Nancy_Sidebotham) before this (we think). Most recently, she ran for Mayor in 2018, for Council Member At-Large in 2016, and for Mayor in 2014. She also at some point ran for Council Member in D6. She is a longtime community policing advocate and a neighborhood watch member. A born critic, she has some tendency to derail when asked for specific details about how to solve the problems she observes.
+Nancy Sidebotham has lived in Oakland since 1964. She went to Cal State Hayward and Merritt College. She is a tax preparer, longtime District 6 resident, and perennial candidate. Sidebotham has run for City office [at least 5 times](https://ballotpedia.org/Nancy_Sidebotham) before this (we think). Most recently, she ran for Mayor in 2018, for Council Member At-Large in 2016, and for Mayor in 2014. She also at some point ran for Council Member in D6. She is a longtime community policing advocate and a neighborhood watch member, and currently sits on the Community Policing Advisory Board (CPAB). A born critic, she has some tendency to derail when asked for specific details about how to solve the problems she observes.
 
 ### Official platform
 
@@ -27,7 +27,7 @@ On housing, Sidebotham tends to side with landlords and homeowners at the expens
 
 ### Stance on policing
 
-According to [the Oaklandside](https://oaklandside.org/2020/09/25/theres-one-at-large-seat-on-oaklands-city-council-three-very-different-candidates-are-running-for-it/), Nancy Sidebotham has been active on her Neighborhood Crime Prevention Council since the 1990s and is the only explicitly pro-police candidate running for At-Large. At the [August 18 Alameda County Democrats Oakland Candidates Forum](https://www.facebook.com/acdemocrats/videos/1266703727012996), Sidebotham responded to a question about defunding police by saying that 90% of East Oakland doesn't want police defunded. In fact, [she believes that police are already underfunded and understaffed](https://oaklandnewsnow.com/nancy-sidebotham-2020-oakland-at-large-city-council-seat-race-interview/u-s-news/28/12/2019/36105/). She thinks “‘Defunding’ is an abhorrent term” and [says](https://nancysidebotham.com/surveys.php) she wants to “reimagine police” by organizing all emergency personnel (EMT and fire) together. She is [a critic](https://nancysidebotham.com/surveys.php) of the Oakland Police Commission, which she thinks makes decisions “based on vindictiveness, not on expertise.”
+According to [the Oaklandside](https://oaklandside.org/2020/09/25/theres-one-at-large-seat-on-oaklands-city-council-three-very-different-candidates-are-running-for-it/), Nancy Sidebotham has been active on her Neighborhood Crime Prevention Council since the 1990s and is the only explicitly pro-police candidate running for At-Large. At the [August 18 Alameda County Democrats Oakland Candidates Forum](https://www.facebook.com/acdemocrats/videos/1266703727012996), Sidebotham responded to a question about defunding police by saying that 90% of East Oakland doesn't want police defunded. In fact, [she believes that police are already underfunded and understaffed](https://oaklandnewsnow.com/nancy-sidebotham-2020-oakland-at-large-city-council-seat-race-interview/u-s-news/28/12/2019/36105/). She thinks “‘Defunding’ is an abhorrent term” and [says](https://nancysidebotham.com/surveys.php) she wants to “reimagine police” by organizing all emergency personnel (EMT and fire) together. She is [a critic](https://nancysidebotham.com/surveys.php) of the Oakland Police Commission, which she thinks makes decisions “based on vindictiveness, not on expertise.” She currently sits on the CPAB.
 
 ### Stance on the Howard Terminal A’s Stadium
 
