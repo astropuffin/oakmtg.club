@@ -40,7 +40,7 @@
             <div>
               <h3>{{ .Key }}</h3>
                 <div>
-                  {{ range (.Pages.GroupByParam "district") }}
+                  {{ range where (.Pages.GroupByParam "district") $.Page.Params.ac_transit_wards "in" Pages.Params.District }}
                   {{ if in $.Page.Params.ac_transit_wards .Key }}
                     <h4>AC Transit Ward: {{ .Key }}</h4>
                     <div class="row filtr-container">
@@ -51,6 +51,8 @@
                       {{ end }}
                     </div>
                   {{ end }}
+                  {{ else }}
+                  <p>There are no elections for AC Transit Board of Directors in this district.</p>
                   {{ end }}
                 </div>
             </div>
