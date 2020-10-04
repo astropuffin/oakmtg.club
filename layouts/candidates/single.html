@@ -23,15 +23,19 @@
           <div class="col-md-6">
             <h4 class="mb-4">{{ i18n "office_and_district" | upper }}</h4>
             <ul class="list-unstyled">
-              <li class="mb-3"><b>Office:</b> {{ .Params.Office  }}</li>
-              <li class="mb-3"><b>
+              <li class="mb-3"><b>Office: {{ .Params.Office }}</b></li>
+              <li class="mb-3">
               {{- if (eq .Params.Office "AC Transit Board of Directors")}}
-              AC Transit Ward
+              <b>AC Transit Ward: {{ .Params.District }}</b>
               {{ else if (eq .Params.Office "BART Board of Directors")}}
-              BART District
+              <b>BART District: {{ .Params.District }}</b>
               {{ else }}
-              District
-              {{ end }}:</b> {{ .Params.District }}</li>
+                {{ if (eq .Params.District "At-Large") }}
+                  <a href="/guide"><b>District: {{ .Params.District }}</b></a>
+                {{ else}}
+                  <a href="/guide/district-{{ .Params.District }}"><b>District: {{ .Params.District }}</b></a>
+                {{ end }}
+              {{ end }}</li>
             </ul>
           </div>
         </div>
