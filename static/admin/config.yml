@@ -59,6 +59,16 @@ collections:
           config:
             multiple: false
       - {label: "Content Type", name: "type", widget: "hidden", default: "guide"}
+      - label: "AC Transit Wards"
+        name: ac_transit_wards
+        widget: list
+        required: true
+        hint: "comma separated list of wards. Example: 'At-Large,3,7'"
+      - label: "BART Districts"
+        name: bart_districts
+        widget: list
+        required: true
+        hint: "comma separated list of BART districts. Example: '1,2,7'"
       - label: "SEO Tags"
         name: seoTags
         widget: list
