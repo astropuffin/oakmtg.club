@@ -14,6 +14,9 @@ contact:
   - name: Website
     icon: ti-world
     link: "www.carrollfife.org "
+  - name: Facebook
+    link: https://www.facebook.com/carrollfifeforcouncil/
+    icon: ti-facebook
 type: candidates
 seoTags:
   - name: district
