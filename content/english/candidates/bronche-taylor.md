@@ -6,8 +6,8 @@ draft: false
 description: Candidate for OUSD School Board Director - District 7
 office: OUSD School Board Director
 district: "7"
-bio: "# A former OUSD teacher who is pro-charter school, anti-Measure Y, and not
-  doing the homework"
+bio: A former OUSD teacher who is pro-charter school, anti-Measure Y, and not
+  doing the homework
 type: candidates
 ---
 # TL;DR: A former OUSD teacher who is pro-charter school, anti-Measure Y, and not doing the homework
