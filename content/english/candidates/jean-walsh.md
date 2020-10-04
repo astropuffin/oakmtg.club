@@ -5,7 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for AC Transit Ward 2 Director
 office: AC Transit Board of Directors
-district: 1, 3
+district: Ward 2, 1, 7
 bio: Energetic challenger with a lot of endorsements who wants the bus to work
   as reliably as a water utility
 contact:
