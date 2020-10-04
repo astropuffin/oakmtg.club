@@ -6,7 +6,7 @@ draft: false
 description: Candidate for OUSD School Board Director - District 3
 office: OUSD School Board Director
 district: "3"
-bio: Coming soon!
+bio: Pro-charter Teach for America alum focused on student literacy above all
 contact:
   - name: Website
     icon: ti-world
