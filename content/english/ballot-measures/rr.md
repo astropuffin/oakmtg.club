@@ -2,7 +2,7 @@
 title: Measure RR
 bg_image: images/OaklandPanorama2.jpg
 description: Remove cap on fines for municipal ordinance violations
-type: ballot_measure
+type: ballot-measures
 ---
 # TL;DR: Amends the City Charter to remove the $1,000 limit on fines.
 

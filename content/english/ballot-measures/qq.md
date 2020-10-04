@@ -2,7 +2,7 @@
 title: Measure QQ
 bg_image: images/OaklandPanorama2.jpg
 description: Youth Voting in School Board Elections
-type: ballot_measure
+type: ballot-measures
 ---
 # TL;DR: Allow 16 and 17-year-old Oakland youths vote for Oakland Unified School District’s Board Directors
 

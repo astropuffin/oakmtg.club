@@ -185,7 +185,7 @@ collections:
       - {label: Byline, name: byline, widget: string}
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
       - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot_measure_index"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot-measures_index"}
       - label: Buttons
         name: buttons
         widget: list
@@ -211,7 +211,7 @@ collections:
       - {label: Title, name: title, widget: string}
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
       - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "guide"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot-measures"}
       - label: "SEO Tags"
         name: seoTags
         widget: list
@@ -222,4 +222,4 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: ballot_measure
+      value: ballot-measures
