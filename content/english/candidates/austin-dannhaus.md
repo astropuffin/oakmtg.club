@@ -13,7 +13,7 @@ contact:
     icon: ti-world
 type: candidates
 ---
-# TL;DR: A Teach for America alum and consulting firm whiz endorsed by Michael Bloomberg
+# TL;DR: A Teach for America alum and consulting firm whiz endorsed by Michael Bloomberg 
 
 ### Introduction
 
