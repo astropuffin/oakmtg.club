@@ -30,5 +30,6 @@ If you'd like to join us, please shoot us an email at [](oakmtg@gmail.com)[oakmt
 
 * [LWV Voter Resources](https://my.lwv.org/california/oakland/whats-new-make-plan)
 * [Oakland Rising Action Voter Guide](https://www.oaklandrisingaction.org/2020-voter-guide/)
+* [Pamela Drake's Voter Guide](https://draketalkoakland.com/2020/08/27/1126/)
 
 Want your guide added to our website? [EMAIL US](mailto:oakmtg@gmail.com) with your organization and the link to the voter guide and we’ll chat with you about it.
