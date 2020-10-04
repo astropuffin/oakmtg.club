@@ -15,17 +15,13 @@ bart_districts:
 ---
 This is a guide to Oakland's District 1 ballot. This year, voters living in this part of Oakland will vote on four ballot measures as well as for the following positions:
 
-<!--StartFragment-->
-
-* District 1 City Councilmember
-* At-Large City Councilmember
-* Ward 2 AC Transit Board Director
-* At-Large AC Transit Board Director
-* BART District 7 Board Director
-* Alameda Superior Court Office #2 Judge
-* Oakland City Attorney
-* District 1 OUSD Board Director
-
-<!--EndFragment-->
+District 1 City Councilmember 
+At-Large City Councilmember
+Ward 2 AC Transit Board Director
+At-Large AC Transit Board Director
+BART District 7 Board Director
+Alameda Superior Court Office #2 Judge
+Oakland City Attorney
+District 1 OUSD Board Director
 
 To find out more about a candidate, click on their name.
