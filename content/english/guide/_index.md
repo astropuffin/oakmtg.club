@@ -13,7 +13,7 @@ buttons:
 ---
 ### **What this is:**
 
-There are currently no accessible voting guides with hyper-local candidate and ballot measure analyses in Oakland, so we wanted to make one for you. We give you the facts and the research, you make your own choices, and vote on [(or before!)](https://www.oakmtg.club/how-to-vote/) November 3, 2020.
+There are currently no accessible voting guides with hyper-local candidate and ballot measure analyses in Oakland, so we wanted to make one for you. We give you the facts and the research, you make your own choices, and vote on [(or before!)](https://www.oakmtg.club/how-to-vote/) November 3, 2020. If you want to know more about how this body of work came to be, head over to the [methodology](https://www.oakmtg.club/methodology/) section. 
 
 ### **Who we are:**
 
