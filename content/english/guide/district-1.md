@@ -24,4 +24,4 @@ This is a guide to Oakland's District 1 ballot. This year, voters living in this
 * Oakland City Attorney
 * District 1 OUSD Board Director
 
-To find out more about a candidate, click on their name.
+To find out more about a candidate or ballot measure, click on the name or title in the card.
