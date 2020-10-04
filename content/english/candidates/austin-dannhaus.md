@@ -7,14 +7,12 @@ description: Candidate for OUSD School Board Director - District 1
 office: OUSD School Board Director
 district: "1"
 bio: A Teach for America alum and consulting firm whiz endorsed by Michael Bloomberg
+contact:
+  - name: Website
+    link: https://www.austinforousd.com/
+    icon: ti-world
 type: candidates
 ---
-# Austin Dannhaus - Candidate for District 1 OUSD Board
-
-
-
-Website: <https://www.austinforousd.com/>
-
 # TL;DR: A Teach for America alum and consulting firm whiz endorsed by Michael Bloomberg
 
 ### Introduction
