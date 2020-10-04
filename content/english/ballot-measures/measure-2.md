@@ -1,5 +1,5 @@
 ---
-title: Measure 2
+title: Measure RR
 bg_image: images/OaklandPanorama2.jpg
 description: Remove cap on fines for municipal ordinance violations
 type: ballot_measure
