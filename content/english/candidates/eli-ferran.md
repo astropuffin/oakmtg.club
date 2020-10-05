@@ -6,7 +6,8 @@ draft: false
 description: Candidate for Oakland City Attorney
 office: Oakland City Attorney
 district: At-Large
-bio: “I have three daughters.”
+bio: Former employee of the incumbent who wants everyone to know he has three
+  daughters
 contact:
   - name: Website
     icon: ti-world
