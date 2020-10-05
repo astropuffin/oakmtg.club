@@ -12,9 +12,9 @@ This guide is an in-depth look at candidates running for office and measures on 
 
 While we don't agree on everything, we do agree on three major principles:
 
-* Black Lives Matter
-* The City of Oakland should be transparent, honest, and accountable to the public
-* The City should adopt a budget that prioritizes tenants rights, more affordable housing, public schools, defunding the police and moving toward transformative justice more generally
+1. Black Lives Matter
+2. The City of Oakland should be transparent, honest, and accountable to the public
+3. The City should adopt a budget that prioritizes tenants rights, more affordable housing, public schools, defunding the police and moving toward transformative justice more generally
 
 We used these principles to evaluate candidates and ballot measures. If you think we've missed something big or done something wrong, don't hesitate to [let us ](mailto:oakmtg-club@googlegroups.com)know. We are committed to being accountable too.
 
