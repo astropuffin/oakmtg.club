@@ -5,8 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 5
 office: Oakland City Council
 district: "5"
-bio: A politician who asks like he represents Fremont, but is actually in the
-  Fruitvale.
+bio: A politician who acts like he represents Fremont but is actually in Fruitvale.
 contact:
   - icon: ti-world
     link: https://www.noelgalloforoakland.com/
