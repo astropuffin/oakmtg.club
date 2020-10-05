@@ -14,7 +14,7 @@ While we don't agree on everything, we do agree on three major principles:
 
 * Black Lives Matter
 * The City of Oakland should be transparent, honest, and accountable to the public
-* The City should adopt a budget that prioritizes tenants rights, more affordable housing, public schools, defunding the police and moving toward reformative justice more generally
+* The City should adopt a budget that prioritizes tenants rights, more affordable housing, public schools, defunding the police and moving toward transformative justice more generally
 
 We used these principles to evaluate candidates and ballot measures. Whether or not you agree with all of our stances, we hope the sources we've gathered will inform your vote too.
 
