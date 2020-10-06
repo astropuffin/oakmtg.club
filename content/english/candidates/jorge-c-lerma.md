@@ -15,7 +15,7 @@ contact:
     icon: ti-facebook
     link: https://www.facebook.com/JorgeforOakland/
   - name: Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/JorgeforOakland/
 type: candidates
 seoTags: []
