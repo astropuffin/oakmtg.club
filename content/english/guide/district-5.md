@@ -1,16 +1,16 @@
 ---
-title: District 5
-district: "5"
 bg_image: images/OaklandPanorama2.jpg
-description: Fruitvale, Jingletown, China Hill and Crocker Highlands
-image: images/district-5.png
-type: guide
+bart_districts:
+  - "4"
 ac_transit_wards:
   - At-Large
   - "2"
   - "3"
-bart_districts:
-  - "4"
+title: District 5
+district: "5"
+description: Fruitvale, Jingletown, Glenview, China Hill and Crocker Highlands
+image: images/district-5.png
+type: guide
 ---
 This is a guide to Oakland's District 5 ballot. This year, voters living in this part of Oakland will vote on four ballot measures as well as for the following positions:
 
