@@ -5,9 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 office: Oakland City Council
 district: "3"
-bio: >
-  TL;DR: A labor organizer with slick headshots but virtually no concrete
-  platform
+bio: A labor organizer with slick headshots but virtually no concrete platform
 contact:
   - icon: ti-twitter-alt
     link: https://twitter.com/SenecaforOakd3
