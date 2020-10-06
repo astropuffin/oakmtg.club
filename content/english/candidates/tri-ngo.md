@@ -6,7 +6,7 @@ draft: false
 description: Candidate for City Council - District 1
 office: Oakland City Council
 district: "1"
-bio: "TL;DR: A pretty nice guy who’s just not ready for this."
+bio: A pretty nice guy who’s just not ready for this.
 contact:
   - name: Twitter
     icon: ti-twitter-alt
