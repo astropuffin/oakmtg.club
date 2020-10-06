@@ -16,7 +16,7 @@ contact:
       Lawrence-for-OUSD-School-Board-Director-Area-5-104089071265774/ "
     icon: ti-facebook
   - name: Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/shelaw14
   - link: https://www.linkedin.com/in/sheila-lawrence-b3baba91/
     name: LinkedIn
