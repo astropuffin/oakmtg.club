@@ -1,5 +1,5 @@
 ---
-title: "Jean Walsh"
+title: Jean Walsh
 image: /images/jean_walsh.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
@@ -10,7 +10,7 @@ bio: Energetic challenger with a lot of endorsements who wants the bus to work
   as reliably as a water utility
 contact:
   - name: Official Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/jwalshie
   - name: Website
     icon: ti-world
