@@ -5,7 +5,7 @@ bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: "Candidate for Judge - Alameda Superior Court, Office #2"
 office: "Judge at Alameda Superior Court, Office #2"
-district: "At-Large"
+district: At-Large
 bio: The lesbian latinx criminal defense candidate endorsed by the trailblazing
   retiring incumbent
 contact:
@@ -52,7 +52,7 @@ Condes has a whopping TWENTY-SIX current, active Alameda County Superior Court j
 
 In terms of county and state politicians whose turf spans our county, many are withholding judgment: State Assemblymembers Buffy Wicks and Rob Bonta both endorsed both candidates, as did Alameda County Supervisors Keith Carson and Nate Miley.
 
-However, there are several county and state politicians who endorsed Condes alone. Notably, Supervisors Richard Valle and Wilma Chan endorsed only Condes. If you haven’t heard of Supervisor Chan, look her up - she held stints in the State Assembly AND the State Senate, and is basically the only county supervisor to ask any kind of probing questions around our county budget. Super badass. Also, State Senator Nancy Skinner (whose district includes Oakland) has only endorsed Condes. (Condes’s opponent also has a State Senator endorsement, but from the San Francisco district.)
+However, there are several county and state politicians who endorsed Condes alone. Notably, Supervisors Richard Valle and Wilma Chan endorsed only Condes. If you haven’t heard of Supervisor Chan, look her up - she served in the State Assembly, and is basically the only county supervisor to ask any kind of probing questions around our county budget. Super badass. Also, State Senator Nancy Skinner (whose district includes Oakland) has only endorsed Condes. (Condes’s opponent has a State Senator endorsement, but from the San Francisco district.)
 
 Local political trivia time! Did you know that both Tom Bates and Loni Hancock have both served as State Assemblymembers AND as Mayor of Berkeley… and are married to each other? [](http://www.oaklandmagazine.com/November-2016/The-Original-Power-Couple/index.php?cparticle=1&siarticle=0)Condes has the [the power couple's](http://www.oaklandmagazine.com/November-2016/The-Original-Power-Couple/index.php?cparticle=1&siarticle=0) stamp of approval.
 
