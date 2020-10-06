@@ -12,7 +12,7 @@ contact:
     icon: ti-world
     link: https://valerioforoakland.nationbuilder.com/
   - name: Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/oaklandvalerio?lang=en
 type: candidates
 ---
