@@ -13,7 +13,7 @@ contact:
     icon: ti-world
     link: https://www.samdavisforoaklandschools.org/
   - name: Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/samdavis510
 type: candidates
 ---
