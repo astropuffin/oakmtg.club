@@ -3,7 +3,7 @@ bg_image: images/OaklandPanorama2.jpg
 draft: false
 title: District 6
 district: "6"
-description: Millsmont, Merritt College, Caballo Hills, Leona Heights, Eastmont
+description: "Maxwell Park, Millsmont, Havenscourt & Eastmont "
 image: images/district-6.png
 type: guide
 ac_transit_wards:
