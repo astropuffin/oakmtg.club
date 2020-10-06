@@ -11,7 +11,7 @@ contact:
     icon: ti-website-alt
     link: https://meronsemedar.org/
   - name: Twitter
-    icon: ti-twitter
+    icon: ti-twitter-alt
     link: https://twitter.com/meronsemedar
 type: candidates
 ---
