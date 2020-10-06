@@ -3,8 +3,7 @@ bg_image: images/OaklandPanorama2.jpg
 draft: false
 title: District 4
 district: "4"
-description: "Oakmore, Piedmont Pines, Montclair, Redwood Heights, Upper and
-  Lower Dimond & Laurel District "
+description: "Allendale, Barlett, Montclair, Redwood Heights, Dimond & Laurel District "
 image: images/district-4.png
 type: guide
 ac_transit_wards:
