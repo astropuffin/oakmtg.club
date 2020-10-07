@@ -138,31 +138,37 @@ hasChildren = true
     name = "Home"
     URL = "ballot-measures"
     parent = "Ballot Measures"
-    weight = 1
+    weight = 2
 
     [[menu.main]]
     name = "QQ"
     URL = "ballot-measures/qq"
     parent = "Ballot Measures"
-    weight = 2
+    weight = 3
 
     [[menu.main]]
     name = "RR"
     URL = "ballot-measures/rr"
     parent = "Ballot Measures"
-    weight = 3
+    weight = 4
 
     [[menu.main]]
     name = "S1"
     URL = "ballot-measures/s1"
     parent = "Ballot Measures"
-    weight = 4
+    weight = 5
+
+    [[menu.main]]
+    name = "W"
+    URL = "ballot-measures/w"
+    parent = "Ballot Measures"
+    weight = 6
 
     [[menu.main]]
     name = "Y"
     URL = "ballot-measures/y"
     parent = "Ballot Measures"
-    weight = 5
+    weight = 7
 
 
 #[[menu.main]]
