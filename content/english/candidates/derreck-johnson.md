@@ -16,7 +16,7 @@ contact:
     link: https://www.johnsonforoakland.com/
 type: candidates
 ---
-![Page under construction animation](/images/tm18j.gif "PAGE UNDER CONSTRUCTION")
+![Page under construction animation](/images/under-construction.gif "PAGE UNDER CONSTRUCTION")
 
 This page is under construction while we investigate [the Oaklandside's story](https://oaklandside.org/2020/10/07/after-a-messy-bankruptcy-oakland-city-council-candidate-derreck-johnson-lost-ownership-of-his-restaurant/) that Johnson hasn't owned Home of Chicken and Waffles since 2017. 
 
