@@ -8,4 +8,3 @@ buttons:
   - title: Look up candidates
     link: /candidates
 ---
-### Coming soon!
