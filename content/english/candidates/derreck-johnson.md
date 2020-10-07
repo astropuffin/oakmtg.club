@@ -6,7 +6,7 @@ draft: false
 description: Candidate for City Council - At-Large
 office: Oakland City Council
 district: At-Large
-bio: A business owner who got a PPP loan but laid off his employees anyway
+bio: EVERYTHING HE'S TOLD US FOR MONTHS IS A LIE
 contact:
   - name: Twitter
     icon: ti-twitter-alt
@@ -16,6 +16,10 @@ contact:
     link: https://www.johnsonforoakland.com/
 type: candidates
 ---
+![Page under construction animation](/images/tm18j.gif "PAGE UNDER CONSTRUCTION")
+
+This page is under construction while we investigate [the Oaklandside's story](https://oaklandside.org/2020/10/07/after-a-messy-bankruptcy-oakland-city-council-candidate-derreck-johnson-lost-ownership-of-his-restaurant/) that Johnson hasn't owned Home of Chicken and Waffles since 2017. You can read our original write-up for Johnson below, but please note that much of the research in it is not accurate given that Johnson's been lying about his connection to Home of Chicken in Waffles.
+
 # TL;DR: A Lyft-backed business owner who laid off 90% of his employees during COVID-19 despite getting a PPP loan
 
 ### Introduction
