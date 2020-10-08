@@ -22,7 +22,7 @@ We also [live-tweet Oakland meetings using the "#oakmtg" hashtag](https://twitte
 
 We want to do more.
 
-This site was made for us to be more effective at last mile civic engagement and enable more folks to join us. There's a LOT to take in, so we made this website to make it easier to keep track of what's going on. We will build this site out over time, particularly after the election, as we track promises made by electeds and appointees.
+This site was made for us to enable more folks to join us. There's a LOT to take in, so we made this website to make it easier to keep track of what's going on. We will build this site out over time, particularly after the election, as we track promises made by elected officials and appointees.
 
 If you'd like to join us, please shoot us [an email](mailto:oakmtg-club@googlegroups.com).
 
