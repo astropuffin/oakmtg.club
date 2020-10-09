@@ -1,6 +1,6 @@
 ---
 title: Dollene Jones
-image: /images/jones.jpeg
+image: /images/dollene-2-.jpg
 bg_image: images/background-oakland-panorama.jpg
 draft: false
 description: Candidate for AC Transit Director - At-Large
