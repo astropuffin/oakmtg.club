@@ -32,4 +32,4 @@ If you'd like to join us, please shoot us [an email](mailto:oakmtg-club@googlegr
 * [Oakland Rising Action Voter Guide](https://www.oaklandrisingaction.org/2020-voter-guide/)
 * [Pamela Drake's Voter Guide](https://draketalkoakland.com/2020/08/27/1126/)
 
-Want your guide added to our website? [EMAIL US](mailto:oakmtg@gmail.com) with your organization and the link to the voter guide and we’ll chat with you about it.
+Want your guide added to our website? [EMAIL US](<mailto: oakmtg-club@googlegroups.com>) with your organization and the link to the voter guide and we’ll chat with you about it.
