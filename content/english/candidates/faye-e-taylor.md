@@ -5,11 +5,14 @@ bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 office: Oakland City Council
 district: "3"
-bio: No website doesn't mean no fun!
+bio: No web presence doesn't mean no fun!
 contact:
   - name: Facebook
     icon: ti-facebook
     link: https://www.facebook.com/profile.php?id=100009346744503
+  - name: Website
+    link: https://fayetaylorforoakland.com/
+    icon: ti-world
 type: candidates
 ---
 # TL;DR: A candidate running an analog campaign who probably will not win but has our favorite campaign candids
