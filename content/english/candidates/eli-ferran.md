@@ -23,7 +23,7 @@ contact:
     link: https://www.instagram.com/eli4oakland/
 type: candidates
 ---
-# TL;DR A newcomer to the election circuit who’s got big dreams but will be in for a nightmare if elected.
+# TL;DR A newcomer to the election circuit who’s got big dreams but will be a nightmare if elected.
 
 ### Introduction
 
@@ -31,7 +31,7 @@ Eli Ferran first came to the Bay Area for law school after being displaced from 
 
 ### Official Platform
 
-Eli Ferran describes himself as a “lifelong crusader for social justice and [racial equity](https://www.eliforoakland.com/meet-eli)” and bases that on his work at the city attorney’s office where he worked on code enforcement, advising the Alcohol Beverage Action Team at OPD and representing the city at various legal hearings. Ferran’s [platform](https://www.eliforoakland.com/issues) is extremely broad. He is focusing on five main issues: 1) streamlining housing regulations; 2) improving government efficiency by reorganizing the City Attorney’s Office; 3) doing more public outreach; 4) increasing government oversight; 5) investigating fraud, pollution, landlords, and discriminatory corporations. On each of these issues, Ferran has a lot of big ideas but not a lot of concrete examples. For example, his housing plan mentions changes that will affect owners and landlords but fails to mention renters, tenants and the unhoused, while an earlier section provides equally vague ideas for protecting Oakland’s most vulnerable. At a recent [candidate forum](https://www.facebook.com/ebydems/videos/773987683352218) we observed that he most frequently mentioned code enforcement, nuisance properties and networking as issues that he would address. Journalist [Jaime Omar Yassin](https://twitter.com/hyphy_republic/status/1296516446395097088?s=20) thinks he may have been signalling he would not pursue bad landlords from the CAO.
+Eli Ferran describes himself as a “lifelong crusader for social justice and [racial equity](https://www.eliforoakland.com/meet-eli)” and bases that on his work at the city attorney’s office where he worked on code enforcement, advising the Alcohol Beverage Action Team at OPD and representing the city at various legal hearings. Ferran’s [platform](https://www.eliforoakland.com/issues) is extremely broad. He is focusing on five main issues: 1) streamlining housing regulations; 2) improving government efficiency by reorganizing the City Attorney’s Office; 3) doing more public outreach; 4) increasing government oversight; 5) investigating fraud, pollution, landlords, and discriminatory corporations. On each of these issues, Ferran has a lot of big ideas but not a lot of concrete examples. For example, his housing plan mentions changes that will affect owners and landlords but fails to mention renters, tenants and the unhoused, while an earlier section provides equally vague ideas for protecting Oakland’s most vulnerable. At a recent [candidate forum](https://www.facebook.com/ebydems/videos/773987683352218) we observed that he most frequently mentioned code enforcement, nuisance properties and networking as issues that he would address. Journalist [Jaime Omar Yassin](https://twitter.com/hyphy_republic/status/1296516446395097088?s=20) thinks he may have been signaling he would not pursue bad landlords from the CAO.
 
 ### Stance on policing
 
@@ -54,9 +54,17 @@ The CAO’s main role with the A’s stadium will be in negotiating any contract
 * SEIU
 * Robert Wasserman, Lawyer at Wendel Rosen
 
+**Notable non-supporters:**
+
+* His former colleagues in the City Attorney's Office, who have taken the wild step of [leaking to the press](https://www.patreon.com/posts/attorneys-of-of-42420989) how bad they think he'd be at the job
+
 ### Vibes
 
 **Main vibe: I can do anything you can do, better.** Eli Ferran clearly believes he’s ready to do his former boss’s job better than she can, and it’s equally clear that his former coworkers do not share that view. After Eli Ferran announced his candidacy, Incumbent City Attorney Barbara Parker [raised $10,500](https://twitter.com/hyphy_republic/status/1288540363032948737) - mostly from City workers in the City Attorney’s Office. To us, those dollars look like a devastating vote of no-confidence, and it’s an open question as to whether Ferran will be able to re-org the office he once worked in as [he’s vowed to](https://www.eliforoakland.com/issues) or whether he’ll face an open revolt if elected.
+
+**Worst coworker vibes:** Ferran's former coworkers have reported that he didn't really do much when he was working at the City Attorney's Office. As one source told [Jaime Omar Yassin](https://www.patreon.com/posts/attorneys-of-of-42420989), "He was just the kind of guy that never made an effort. You won’t find Ferran’s signature on very much. He didn’t contribute professionally to the office.” Another said: "It was widely known he was not reliable and that he was not pulling his weight." 
+
+![What would you say...you do here?](/images/officespace.gif)
 
 **Enemy of my enemy vibes:** Ferran has pulled a few surprising endorsements from high-profile City organizations, such as the SEIU and the [Coalition for Police Accountability](https://www.coalitionforpoliceaccountability.com/) (the organization that brought Measure LL on the ballot to create the Police Commission). If we had to guess, we’d say these are less about Ferran as a candidate since he--again--stays pretty high-level and vague with his campaign promises, and more about people’s disappointment in incumbent City Attorney Barbara Parker. The [Coalition for Police Accountability](https://draketalkoakland.com/2020/09/01/the-coalition-for-police-accountability-endorses-elias-ferran-for-oakland-city-attorney/) says they like Ferran’s stance on race and equity within City services and his commitment to shift metrics “from punitive measures to restorative justice.” Since Ferran still has implementing “a [zero-tolerance](https://www.eliforoakland.com/issues) policy for all sorts of misconduct” on his campaign website, which doesn’t sound very “restorative justice”-like to us, we’re wondering if this is less about his actual positions and more about Parker’s refusal to let the Police Commission [have their own attorney](https://oaklandnorth.net/2019/09/16/policing-watchdog-groups-push-for-changes-to-oaklands-police-commission/).
 
