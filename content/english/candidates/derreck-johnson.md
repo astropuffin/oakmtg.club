@@ -20,7 +20,7 @@ type: candidates
 
 This page is under construction while we investigate [the Oaklandside's story](https://oaklandside.org/2020/10/07/after-a-messy-bankruptcy-oakland-city-council-candidate-derreck-johnson-lost-ownership-of-his-restaurant/) that Johnson hasn't owned Home of Chicken and Waffles since 2017. 
 
-You can read our original write-up for Johnson below, but please note that much of the research in it is no longer accurate given that Johnson's been lying about his connection to Home of Chicken in Waffles. For example, it means that Johnson did **not** own a business during COVID-19 and thus could **neither** have received a PPP loan from the government or laid off 90% of his staff, as he told [ABC 7 News](https://abc7news.com/small-businesses-business-grant-african-american/6201659/) in May 2020. 
+You can read our original write-up for Johnson below, but please note that much of the research in it is no longer accurate given that Johnson's been lying about his connection to Home of Chicken and Waffles. For example, it means that Johnson did **not** own a business during COVID-19 and thus could **neither** have received a PPP loan from the government nor laid off 90% of his staff, as he told [ABC 7 News](https://abc7news.com/small-businesses-business-grant-african-american/6201659/) in May 2020. 
 
 # TL;DR: A Lyft-backed business owner who laid off 90% of his employees during COVID-19 despite getting a PPP loan
 
