@@ -14,10 +14,8 @@ Check if you are registered to vote [HERE](https://voterstatus.sos.ca.gov/).
 
 ### Here are important dates:
 
-* **Sept. 4th:** Deadline to register to get a County and [State](http://www.easyvoterguide.org/wp-content/uploads/2020/09/EVG-Nov2020-Eng.pdf) voter guide (these are super useful! We encourage you to register in time!)
-* **Sept. 24th:** State and County voter guides will be mailed out to anyone registered before Sept. 4th
 * **Oct. 5th:** Ballots mailed out
-* **October 19th:** Deadline to register to vote
+* **October 19th:** Deadline to [register](https://registertovote.ca.gov/) to vote
 
   * Super procrastinator? Us, too. If you miss that deadline, you can still register to vote conditionally with a provisional ballot the day-of-- it’s California law. You will need to find an in-person polling place. 
 * **Oct 31st - Nov 3rd:** In-person voting! Check here for the list of polling places available: <https://www.acgov.org/rov_app/pollinglist>
