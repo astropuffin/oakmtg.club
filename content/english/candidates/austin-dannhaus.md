@@ -12,6 +12,10 @@ contact:
     link: https://www.austinforousd.com/
     icon: ti-world
 type: candidates
+seoTags:
+  - name: keywords
+    content: ousd board, austin dannhaus, oakland school board, district 1, oakland
+      district 1
 ---
 # TL;DR: A Teach for America alum and consulting firm whiz endorsed by Michael Bloomberg
 
