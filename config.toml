@@ -55,9 +55,9 @@ weight = 1
 hasChildren = true
 
     [[menu.main]]
+    parent = "About"
     name = "About Us"
     URL = "about"
-    parent = "About"
     weight = 1
 
     [[menu.main]]
@@ -65,6 +65,12 @@ hasChildren = true
     name = "methodology"
     URL = "methodology"
     weight = 2
+    
+    [[menu.main]]
+    parent = "About"
+    name = "Other Voter Guides"
+    URL = "other-voter-guides"
+    weight = 3
 
 [[menu.main]]
 name = "Voter Guide"
