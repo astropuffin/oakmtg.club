@@ -3,6 +3,10 @@ title: Measure W
 bg_image: images/background-oakland-panorama.jpg
 description: Alameda County sales tax for essential services
 type: ballot-measures
+seoTags:
+  - name: keywords
+    content: alameda county voter guide, oakland voter guide, alameda county sales
+      tax, measure w
 ---
 # TL;DR: Raises the sales tax one half cent county-wide to fund Alameda County essential services.
 
