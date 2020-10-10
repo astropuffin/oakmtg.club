@@ -3,7 +3,11 @@ title: Measure V
 bg_image: images/background-oakland-panorama.jpg
 description: Renewing Alameda County's Unincorporated Areas' Utility Tax
 type: ballot-measures
-seoTags: []
+seoTags:
+  - name: keywords
+    content: measure v, alameda county, guide, oakland voter guide, alameda county
+      taxes, cherryland taxes, guide to measure v, oakland measure v, alameda
+      measure v, county taxes measure v
 ---
 # TL;DR: A utility tax for unincorporated parts of Alameda County that has nothing to do with Oakland.
 
