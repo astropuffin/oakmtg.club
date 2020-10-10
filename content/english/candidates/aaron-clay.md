@@ -21,6 +21,8 @@ type: candidates
 seoTags:
   - name: career
     content: teacher
+  - name: keywords
+    content: aaron clay, oakland d7, oakland city council, district 7 city council
 ---
 # TL;DR: A bright-eyed and just plain bright candidate who wants to defund the police (but may not know how)
 
