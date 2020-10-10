@@ -7,7 +7,7 @@ seoTags:
   - name: keywords
     content: measure qq, oakland voter guide, oakland ballot guide, oakland youth
       vote, OUSD ballot measure, OUSD measure qq, measure qq guide, oakland
-      measure qq, youth vote OUSD, OUSD
+      measure qq, youth vote OUSD, OUSD, oakland, oakland schools
 ---
 # TL;DR: Allow 16 and 17-year-old Oakland youths vote for Oakland Unified School District’s Board Directors
 
