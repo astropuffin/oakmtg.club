@@ -171,10 +171,16 @@ hasChildren = true
     weight = 7
 
     [[menu.main]]
+    name = "X"
+    URL = "ballot-measures/x"
+    parent = "Ballot Measures"
+    weight = 8
+
+    [[menu.main]]
     name = "Y"
     URL = "ballot-measures/y"
     parent = "Ballot Measures"
-    weight = 8
+    weight = 9
 
 
 #[[menu.main]]
