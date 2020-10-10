@@ -3,6 +3,12 @@ title: Measure RR
 bg_image: images/OaklandPanorama2.jpg
 description: Remove cap on fines for municipal ordinance violations
 type: ballot-measures
+seoTags:
+  - name: keywords
+    content: oakland voter guide, oakland fines, oakland city charter, city charter
+      amendment, oakland $1,000 fine, oakland measure rr, measure rr, oakland
+      illegal dumping, dumping measure, dumping fines, illegal dumping, oakland
+      city council
 ---
 # TL;DR: Amends the City Charter to remove the $1,000 limit on fines.
 
