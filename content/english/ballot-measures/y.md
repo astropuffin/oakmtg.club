@@ -3,6 +3,10 @@ title: Measure Y
 bg_image: images/OaklandPanorama2.jpg
 description: Oakland Unified School District Bond for School Repairs
 type: ballot-measures
+seoTags:
+  - name: "keywords "
+    content: oakland voter guide, oakland schools, OUSD, measure y, school
+      infrastructure
 ---
 Oakland Measure Y: Oakland Unified School District Bond for School Repairs
 
