@@ -57,7 +57,7 @@
             {{ end }}
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "BART Board of Directors" }}
             <div>
-              {{ $districts_to_show := (where (.Pages.GroupByParam "district") .Key in $.Page.Params.bart_districts) }}
+              {{ $districts_to_show := (where (.Pages.GroupByParam "district") .Key in ($.Page.Params.bart_districts)) }}
               {{ if gt (len $districts_to_show) 0 }}
               <h3>{{ .Key }}</h3>
                 <div>
