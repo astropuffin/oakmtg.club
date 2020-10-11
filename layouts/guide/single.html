@@ -57,6 +57,9 @@
             {{ end }}
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "BART Board of Directors" }}
             <div>
+              {{ $districts := where (.Pages.GroupByParam "district") ".Key" "in" $.Page.Params.bart_districts }}
+              {{ $count := len $districts }}
+              {{ if gt $count 0 }}
               <h3>{{ .Key }}</h3>
                 <div>
                   {{ range (.Pages.GroupByParam "district") }}
@@ -72,15 +75,20 @@
                   {{ end }}
                   {{ end }}
                 </div>
+              {{ end }}
             </div>
             {{ end }}
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "not in" (slice "Oakland City Council" "AC Transit Board of Directors" "BART Board of Directors") }}
             <div>
-              <h3>{{ .Key }}</h3>
+              {{ $districts := where (.Pages.GroupByParam "district") ".Key" "in" (slice $.Page.Params.District "At-Large") }}
+              {{ $count := len $districts }}
+              {{ if gt $count 0 }}
+              
+              <h3>{{ .Key }}</h3> <!-- e.g., OUSD School Board Director -->
                 <div>
                   {{ range (.Pages.GroupByParam "district") }}
                   {{ if (or (eq .Key $.Page.Params.District) (eq .Key "At-Large"))}}
-                    <h4>District: {{ .Key }}</h4>
+                    <h4>District: {{ .Key }}</h4> <!-- e.g., District: 4 -->
                     <div class="row filtr-container">
                       {{ range (.Pages)}}
                         <div class="col-lg-4 col-sm-6 filtr-item">
@@ -91,6 +99,8 @@
                   {{ end }}
                   {{ end }}
                 </div>
+              
+              {{ end }}
             </div>
             {{ end }}
           {{ end }}
