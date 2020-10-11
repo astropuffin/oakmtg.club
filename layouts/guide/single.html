@@ -76,20 +76,10 @@
             {{ end }}
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "not in" (slice "Oakland City Council" "AC Transit Board of Directors" "BART Board of Directors") }}
             <div>
-              {{ $districts := (.Pages.GroupByParam "district") }}
-              {{ $this_district := (where $districts .Key "eq" $.Page.Params.District) }}
-              {{ $at_large := (where $districts .Key "eq" "At-Large") }}
-              {{ $districts_to_show := ($at_large | append $this_district) }}
-              {{ $c1 := len $districts }}
-              {{ $c2 := len $this_district }}
-              {{ $c3 := len $at_large }}
-              {{ $count := len $districts_to_show }}
-              
-              <div> all districts: {{ string $c1 }} </div>
-              <div> this district: {{ string $c2 }} </div>
-              <div> at large: {{ string $c3 }} </div>
+              {{ $districts := where (.Pages.GroupByParam "district") ".Key" "in" (slice $.Page.Params.District "At-Large") }}
+              {{ $count := len $districts }}
               <div> to show: {{ string $count }} </div>
-
+              
               {{ if gt $count 0 }}
               
               <h3>{{ .Key }}</h3> <!-- e.g., OUSD School Board Director -->
