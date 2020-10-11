@@ -85,10 +85,10 @@
               {{ $c3 := len $at_large }}
               {{ $count := len $districts_to_show }}
               
-              <!-- all districts: {{ string $c1 }} -->
-              <!-- this district: {{ string $c2 }} -->
-              <!-- at large: {{ string $c3 }} -->
-              <!-- to show: {{ string $count }} -->
+              <div> all districts: {{ string $c1 }} </div>
+              <div> this district: {{ string $c2 }} </div>
+              <div> at large: {{ string $c3 }} </div>
+              <div> to show: {{ string $count }} </div>
 
               {{ if gt $count 0 }}
               
