@@ -57,6 +57,8 @@
             {{ end }}
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "BART Board of Directors" }}
             <div>
+              {{ $districts_to_show := where (.Pages.GroupByParam "district") .Key in $.Page.Params.bart_districts) }}
+              {{ if gt (len $districts_to_show) 0 }}
               <h3>{{ .Key }}</h3>
                 <div>
                   {{ range (.Pages.GroupByParam "district") }}
@@ -72,16 +74,16 @@
                   {{ end }}
                   {{ end }}
                 </div>
+              {{ end }}
             </div>
             {{ end }}
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "not in" (slice "Oakland City Council" "AC Transit Board of Directors" "BART Board of Directors") }}
             <div>
               {{ $districts := (.Pages.GroupByParam "district") }}
-              {{ $this_district := (where $districts .Key "==" $.Page.Params.District) }}
-              {{ $at_large := (where $districts .Key "==" "At-Large") }}
+              {{ $this_district := (where $districts .Key eq $.Page.Params.District) }}
+              {{ $at_large := (where $districts .Key eq "At-Large") }}
               {{ $districts_to_show := (append $at_large $this_district) }}
-              {{ $districts_to_show_count := len $districts_to_show }}
-              {{ if gt $districts_to_show_count 0 }}
+              {{ if gt (len $districts_to_show) 0 }}
               <h3>{{ .Key }}</h3> <!-- e.g., OUSD School Board Director -->
                 <div>
                   {{ range (.Pages.GroupByParam "district") }}
