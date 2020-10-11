@@ -1,12 +1,16 @@
 ---
+bg_image: images/background-oakland-panorama.jpg
+disctrict: "3"
 title: Alexus D. Taylor
 image: /images/oakland_skyline_square.jpg
-bg_image: images/background-oakland-panorama.jpg
 description: Candidate for City Council - District 3
 office: Oakland City Council
-disctrict: "3"
+district: "3"
 bio: A mysterious stranger
 type: candidates
+seoTags:
+  - name: Alexus
+    content: Alexus Taylor Oakland voter guide 2020 district 3 city council
 ---
 # TL;DR: 404 error this campaign does not exist
 
