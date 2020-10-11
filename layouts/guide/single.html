@@ -80,7 +80,17 @@
               {{ $this_district := (where $districts .Key "eq" $.Page.Params.District) }}
               {{ $at_large := (where $districts .Key "eq" "At-Large") }}
               {{ $districts_to_show := ($at_large | append $this_district) }}
-              {{ if (gt (len $this_district) 0) }}
+              {{ $c1 := len $districts }}
+              {{ $c2 := len $this_district }}
+              {{ $c3 := len $at_large }}
+              {{ $count := len $districts_to_show }}
+              
+              <!-- all districts: {{ string $c1 }} -->
+              <!-- this district: {{ string $c2 }} -->
+              <!-- at large: {{ string $c3 }} -->
+              <!-- to show: {{ string $count }} -->
+
+              {{ if gt $count 0 }}
               
               <h3>{{ .Key }}</h3> <!-- e.g., OUSD School Board Director -->
                 <div>
