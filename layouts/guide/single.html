@@ -77,8 +77,8 @@
             {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "not in" (slice "Oakland City Council" "AC Transit Board of Directors" "BART Board of Directors") }}
             <div>
               {{ $districts := (where .Pages.GroupByParam "district") }}
-              {{ $this_district := (where $districts .Key == $.Page.Params.District) }}
-              {{ $at_large := (where $districts .Key == "At-Large") }}
+              {{ $this_district := (where $districts .Key "==" $.Page.Params.District) }}
+              {{ $at_large := (where $districts .Key "==" "At-Large") }}
               {{ $districts_to_show := (append $at_large $this_district) }}
               {{ $districts_to_show_count := len $districts_to_show }}
               {{ if gt $districts_to_show_count 0 }}
