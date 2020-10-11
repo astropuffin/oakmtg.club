@@ -80,7 +80,8 @@
               {{ $this_district := (where $districts .Key "eq" $.Page.Params.District) }}
               {{ $at_large := (where $districts .Key "eq" "At-Large") }}
               {{ $districts_to_show := ($at_large | append $this_district) }}
-              {{ if (gt (len $districts_to_show) 0) }}
+              <!-- {{ if (gt (len $districts_to_show) 0) }} -->
+              {{ if (gt (len $this_district) 0) }}
               
               <h3>{{ .Key }}</h3> <!-- e.g., OUSD School Board Director -->
                 <div>
