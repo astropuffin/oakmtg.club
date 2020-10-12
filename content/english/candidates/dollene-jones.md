@@ -41,4 +41,4 @@ As of this time we have not seen current endorsements for Jones. During her run 
 
 ### Updates and corrections:
 
-*An earlier version of this candidate profile used a photo of someone else instead of the candidate. We updated this profile on 10/9/2020 with the correct photo. We regret the error.*
+*An earlier version of this candidate profile used a photo of one of Dollene Jones' supporters instead of Dollene Jones. We updated this profile on 10/9/2020 with a photo of Dollene Jones. We regret the error.*
