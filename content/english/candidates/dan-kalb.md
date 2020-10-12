@@ -89,7 +89,6 @@ In 2017, Dan Kalb [publicly tweeted](https://twitter.com/DanKalb/status/83169372
 #### Notable campaign donors
 
 * [Schnitzer Steel](https://www.patreon.com/posts/anti-tenant-org-40307735), a notorious polluter who opposes the Howard Terminal A’s stadium
-* East Bay Housing Organizations, who Omar Yassin calls [“an organization deeply involved in loophole-closing condo conversion reform brought by Kalb this year”](https://www.patreon.com/posts/anti-tenant-org-40307735)
 * IAFF Local 55, Oakland's firefighter's union
 * Unite Here
 * Union of Healthcare Workers
