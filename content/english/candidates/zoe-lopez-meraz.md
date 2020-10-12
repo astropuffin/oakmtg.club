@@ -65,3 +65,7 @@ As far as we can tell, Zoe Lopez-Meraz has not made any public statements about 
 **Needs to stop taking campaigns videos while she’s driving vibes:** Okay, this is how you know we’re old, but for real, [it](https://twitter.com/zoelopezmeraz/status/1299061618702053376?s=20) [stresses](https://twitter.com/zoelopezmeraz/status/1296209701525307393?s=20) [us out](https://twitter.com/zoelopezmeraz/status/1301661415959191552)!
 
 ***Almost* warm-and-fuzzy progressive cooperation vibes:** On September 5, 2020, [Zoe Lopez Meraz and fellow D5 candidate Richard Raya released a video together](https://twitter.com/zoelopezmeraz/status/1302338841639034886) explaining how ranked choice voting works and encouraging their supporters to rank the other candidate second. Just a few days later, however, [Lopez-Meraz seemingly subtweeted](https://twitter.com/zoelopezmeraz/status/1303464030523109376) Raya after he received a slew of endorsements from [progressive](https://twitter.com/rraya_oakD5/status/1303366805059067904?s=20) [organizations](https://twitter.com/rraya_oakD5/status/1302692252053987333?s=20). While not a direct rebuke of Raya, it did make this Oakland resident wonder how sincere Lopez-Meraz’s commitment to progressive causes over personalities is.
+
+### Updates and corrections:
+
+*An earlier version of this candidate profile incorrectly stated that Zoe Lopez-Meraz entered the race before Richard Santos Raya. We updated the profile on 10/8/2020 to correct this information. We regret the error.*
