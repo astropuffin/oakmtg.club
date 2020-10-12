@@ -38,3 +38,7 @@ As of this time we have not seen current endorsements for Jones. During her run 
 ### Vibes
 
 **Main vibe: Ready to represent labor and fight for equity.** We love a candidate who puts achieving racial equity at the top of her priority list.
+
+### Updates and corrections:
+
+*An earlier version of this candidate profile used a photo of someone else instead of the candidate. We updated this profile on 10/9/2020 with the correct photo. We regret the error.*
