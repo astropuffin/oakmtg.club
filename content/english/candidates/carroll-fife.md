@@ -13,7 +13,7 @@ contact:
     icon: ti-twitter-alt
   - name: Website
     icon: ti-world
-    link: "www.carrollfife.org "
+    link: https://www.carrollfife.org/
   - name: Facebook
     link: https://www.facebook.com/carrollfifeforcouncil/
     icon: ti-facebook
