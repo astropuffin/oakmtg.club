@@ -14,6 +14,9 @@ contact:
     icon: ti-twitter-alt
     link: https://twitter.com/meronsemedar
 type: candidates
+seoTags:
+  - name: Meron Semedar
+    content: Meron Semedar, Oakland City Council, District 3, Oakland voter guide
 ---
 # TL;DR: An Eritrean refugee with a cosmopolitan view but not enough grounding in Oakland-specific policies
 
