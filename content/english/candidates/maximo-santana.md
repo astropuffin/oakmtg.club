@@ -18,6 +18,10 @@ contact:
     icon: ti-instagram
     link: https://www.instagram.com/jetsharklambo/
 type: candidates
+seoTags:
+  - name: Maximo Santana
+    content: Maximo Santana, OUSD, Oakland Unified, District 3, Oakland voter guide,
+      OUSD race 2020
 ---
 # TL;DR: Fun dude who’s actually thinking about equity during distance learning
 
