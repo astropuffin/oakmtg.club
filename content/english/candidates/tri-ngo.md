@@ -38,6 +38,8 @@ Ngo’s first priority is creating an accountable government that represents eve
 
 Ngo’s second and third priorities are homelessness and developing affordable housing. On these issues, Ngo is “considering” Universal Basic Income and wants the city to “obtain rights to all vacant land, empty buildings and warehouses to build affordable housing.” Please note that Mayor Schaff has already [pledged to run a pilot program](https://www.google.com/amp/s/sanfrancisco.cbslocal.com/2020/07/01/mayor-schaaf-launching-universal-basic-income-pilot-program-to-help-low-income-oakland-residents/amp/) of UBI in Oakland and there are multiple stakeholders actively working on it. You can read more about Ngo's [specific policy proposals here](https://www.votetri.com/issues.html).
 
+*Update, 10/19/2020: Ngo has changed his website since we wrote this profile in August, including his priorities. [Click here](https://www.votetri.com/issues.html) to see his official positions.*
+
 ### Stance on policing
 
 When we began writing this voting guide in early August, Tri Ngo had made no public statement on policing except for [once promoting](https://twitter.com/VoteTri/status/1277045312104759296?s=20) attendance at the [June 23 Special Meeting](http://oakland.granicus.com/MediaPlayer.php?view_id=2&clip_id=3674) of the Oakland City Council where the so-called Equity Caucus [passed a surprise budget](https://www.patreon.com/posts/fy-20-21-oakland-38578789). Since then, Ngo has added a section on policing to his [official website](https://www.votetri.com/issues.html). He proposes shifting funding to “addressing the root of crime,” minimizing armed police, and limiting police overtime because “overworked police officers are unsafe.” Most controversially, he also proposes overhauling Oakland’s Police Commission so that voters elect commissioners to a full-time position. While we in the OakMtg Appreciation Club were disappointed by the Selection Panel process this year, we’re not sure voting will be much better, and we wonder how overhauling a young and beleaguered institution is likely to go down, especially since a revised Measure LL is going before voters this November.
@@ -48,7 +50,11 @@ To our knowledge, Tri Ngo has made no public statement about the proposed Howard
 
 ### Notable supporters
 
-Unknown. Do you know of any? Reach out.
+* Green Party of Alameda County
+* Auntie Francis - Founder of Self Help Hunger Program
+* Tom Potter - Former Mayor and Chief of Portland Police Bureau
+* Nick Pilch - Albany Mayor
+* Theresa Anderson - Founder and CEO of Dandell Entertainment, Oakland At-Large City Council Candidate 2012
 
 ### Notable campaign donors
 
@@ -60,10 +66,16 @@ Because Tri Ngo’s supporters are limited to giving $35, it is not possible to 
 
 ![Screenshot of Zennie Abraham and Tri Ngo in a video chat window. They are both laughing but Abraham looks uncomfortable as he does so.](https://lh4.googleusercontent.com/amKQRNKUA4dPMri76MGvslBOgZVLXk88pxMXVBxXiaEIEA0gdpadf_U-A07zkRuHjAJHyYDdBfHcjgQFjzuLXyCKtKP3qC-DA8Snd_JWFG1rFjn6gwtjGY16DjphcL1vIzxtElMe)
 
-This screenshot is from [an interview Zennie Abraham did with Tri Ngo](https://youtu.be/RlXunWFstBs?t=314), where both Abraham and Ngo laughed uncomfortably after wondering how Ngo could get “more hugs” despite the Shelter in Place. Ngo was drinking beer throughout the interview and, as in [the D1 Candidates Forum hosted by the East Bay Young Democrats](https://www.facebook.com/watch/live/?v=1155979171417987&ref=watch_permalink), didn’t seem totally comfortable speaking as an authority on Oakland issues--he answered most questions by saying he would have to do more research before he could answer. This District 1 resident asked him how he would deal with recalcitrant City staff to do things like get the Public Lands Policy put into effect, and he didn’t seem to realize how the mechanisms of City Hall work.
+This screenshot is from [an interview Zennie Abraham did with Tri Ngo](https://youtu.be/RlXunWFstBs?t=314), where both Abraham and Ngo laughed uncomfortably after wondering how Ngo could get “more hugs” despite the Shelter in Place. As in [the D1 Candidates Forum hosted by the East Bay Young Democrats](https://www.facebook.com/watch/live/?v=1155979171417987&ref=watch_permalink), didn’t seem totally comfortable speaking as an authority on Oakland issues--he answered most questions by saying he would have to do more research before he could answer. This District 1 resident asked him how he would deal with recalcitrant City staff to do things like get the Public Lands Policy put into effect, and he didn’t seem to realize how the mechanisms of City Hall work.
 
 **Good in theory vibes:** Tri Ngo’s ideas about making government more transparent seem well-intentioned and honestly much needed because Oakland’s City Government isn’t very transparent or accessible to the public at all. We like his drive to get more people--especially young people--voting, but we wonder whether his policy ideas are plausible or even possible.
 
 **Unapologetic aZn vibes:** At the beginning of [his interview with Zennie Abraham](https://youtu.be/RlXunWFstBs?t=314), Tri Ngo repeatedly corrects Abraham’s pronunciation of his name (it’s TRY not tree). We love his confidence and insistence that everyone learn how to say his name (it’s not that hard! give it a… try).
 
 **Probably not going to go the distance vibes:** Despite Tri Ngo’s best efforts, District 1 is shaping up to be a contest between well-funded, deeply connected Steph Dominguez Walton and incumbent Councilmember Dan Kalb. He’s a good sport, though, and we love how gracious he was when Kalb made a (rude) joke about how he and Walton should donate to Ngo during a recent candidate forum.
+
+### Updates and corrections:
+
+*An earlier version of this profile stated that Tri Ngo was drinking beer in his interview with Zennie Abraham. It was not beer, it was tea. We regret the error.* 
+
+*On October 19, 2020, we updated this page to reflect Ngo's new endorsements and link to his updated "Issues" page.*
