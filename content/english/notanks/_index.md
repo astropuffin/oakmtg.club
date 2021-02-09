@@ -1,7 +1,8 @@
 ---
 title: Thanks, But No Tanks
 bg_image: images/OaklandPanorama2.jpg
-description: Say no to the Bearcat - Thu Feb 11 6:30pm - Oakland Police Commission
+description: "Say #ThanksButNoTanks to OPD's Bearcat - Thu Feb 11 6:30pm -
+  Oakland Police Commission"
 type: notanks_index
 ---
 Hello neighbor!
