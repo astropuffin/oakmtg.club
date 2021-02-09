@@ -223,3 +223,24 @@ collections:
     filter:
       field: type
       value: ballot-measures
+
+  - name: notanks
+    label: "No Tanks"
+    folder: "content/english/notanks"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "notanks_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: notanks_index
