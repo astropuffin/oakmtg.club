@@ -7,13 +7,15 @@ type: notanks_index
 ---
 Hello neighbor!
 
-![](/images/notanks.jpg)
 
 Did you know Oakland has a small tank, called a Bearcat?
 
 Did you know Oakland Police used it as a shooting platform to murder a sleeping man?
 
 The ensuing federal oversight included requiring a policy governing its (and other armored vehicles') use.
+
+![](/images/notanks.jpg)
+
 
 On January 11, the (all-volunteer) Police Commission's Ad Hoc committee held a public forum, where they heard unanimously from the public that **no one wanted the OPD to have a Bearcat at all**. Some public speakers shared very personal experiences, including one teenager whose family experienced a raid featuring the Bearcat (the raid was over supposed weed).
 
