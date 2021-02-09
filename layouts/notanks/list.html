@@ -8,7 +8,9 @@
         {{ with .Params.Image }}
         <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="bearcat image">
         {{ end }}
-        {{ .Content }}
+        <div class="col-12 content">
+          {{ .Content }}
+        </div>
       </div>
     </div>
   </div>
