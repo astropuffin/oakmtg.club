@@ -182,6 +182,16 @@ hasChildren = true
     parent = "Ballot Measures"
     weight = 9
 
+[[menu.main]]
+name = "Call to Action"
+weight = 10
+hasChildren = true
+
+    [[menu.main]]
+    parent = "Call to Action"
+    name = "No Tanks"
+    URL = "notanks"
+    weight = 1
 
 #[[menu.main]]
 #name = "course"
