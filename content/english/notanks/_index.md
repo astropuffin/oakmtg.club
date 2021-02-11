@@ -13,7 +13,7 @@ Did you know Oakland Police used it as a shooting platform to murder a sleeping 
 
 The ensuing federal oversight included requiring a policy governing its (and other armored vehicles') use.
 
-![](/images/notanks.jpg)
+![STOP THE BEARCAT](/images/notanks.jpg)
 
 On January 11, the (all-volunteer) Police Commission's Ad Hoc committee held a public forum, where they heard unanimously from the public that **no one wanted the OPD to have a Bearcat at all**. Some public speakers shared very personal experiences, including one teenager whose family experienced a raid featuring the Bearcat (the raid was over supposed weed).
 
@@ -23,9 +23,11 @@ Despite the unanimous outpouring from all across the city calling for a decommis
 
 ### (1) [Sign our petition to retire OPD's Bearcat](https://docs.google.com/forms/d/e/1FAIpQLSfqSRDgENRMdhaYh5Yxb0gGO624HD1r7MpQB9Hd1F-um0x9Yw/viewform?vc=0&c=0&w=1&flr=0)
 
-### (2) [Join us this Thursday February 11 on Zoom to tell the Police Commission "Thanks but no tanks please". Public comment will begin shortly after 6:30pm and signup to speak often cuts off just before the first speaker begins. https://us02web.zoom.us/j/88596700643](https://us02web.zoom.us/j/88596700643)
 
-We will be on Twitter chatting on the [\#oakmtg](https://twitter.com/hashtag/oakmtg) and [\#ThanksButNoTanks](https://twitter.com/hashtag/ThanksButNoTanks) hashtags before and during the meeting to share talking points and give advice on how to make your public comment count. Join us!
+### (2) [Join us at 6:30PM on Thursday, February 11 on Zoom to tell the Police Commission "Thanks but no tanks please".] (https://us02web.zoom.us/j/88596700643)
+Public comment will begin shortly after 6:30pm and signup to speak often cuts off just before the first speaker begins: [https://us02web.zoom.us/j/88596700643](https://us02web.zoom.us/j/88596700643)
+
+Commenting is the <b>most important thing you can do</b> to help! Hearing from people who care enough to show up to a meeting can really change minds. Also, it can be fun! We will be on Twitter chatting on the [\#oakmtg](https://twitter.com/hashtag/oakmtg) and [\#ThanksButNoTanks](https://twitter.com/hashtag/ThanksButNoTanks) hashtags before and during the meeting to share talking points and give advice on how to make your public comment count. Join us!
 
 ## Guide for public comment on Thursday at ~6:30PM
 
@@ -56,10 +58,15 @@ At the #OakMtg (Appreciation) Club, we're mainly focused on transparency and acc
 * **We’re mad because while this policy is an improvement, it still makes it possible for the BearCat to be involved in another incident like the one that killed Joshua Pawlik.** Expect Police Commissioners to reassure the public that the policy is a marked improvement over past policies. In this case, better is not a big enough ask. We need a policy that will make it impossible to duplicate that tragic and fatal mistake.
 * **We’re mad because the Police Commission had better options.** OPD has two armored vehicles, and they use them interchangeably. The Armored Suburban can handle most incidents, and one option the Commission had was to restrict use of the BearCat unless there was credible intelligence of 50 caliber ammunition (that’s very big and very rare!). While we want the BearCat gone entirely, we think this is what a good compromise would look like. 
 *  **We’re mad because OPD doesn’t need the BearCat.** They currently have two armored vehicles, but they didn’t have any until 2008. Policing in Oakland without the BearCat is more than possible; it was the norm!
-* **We’re mad because the BearCat leads to lazy policing.** OPD loves the BearCat because it makes them feel safe. In truth, though, it’s an unreliable and complicated piece of equipment that’s constantly in the shop. We think relying on military-grade equipment without military-style discipline creates liabilities and leads to the type of adrenaline-fueled decision making that led to OPD killing Joshua Pawlik.
+* **We’re mad because the BearCat leads to lazy policing, and lazy policing is dangerous policing.** OPD loves the BearCat because it makes them feel safe. In truth, though, it’s an unreliable and complicated piece of equipment that’s constantly in the shop. We think relying on military-grade equipment without military-style discipline creates liabilities and leads to the type of adrenaline-fueled decision making that led to OPD killing Joshua Pawlik.
+* **We're mad because the BearCat is terrifying, and OPD already used it as a shooting platform to kill someone.** We don't think the Police Commission should be involved in authorizing its use when the Armored Suburban is a perfectly suitable alternative.
 
 Those are the reasons why we're mad, but we know there are more reasons; you've probably thought of several of your own while reading! Please feel free to use these and others when making your public comment around **6:30PM on Thursday, February 11.** 
 
+!["Officers did not use the armored vehicle as cover. They utilized it as a shooting platform." - Compliance Director Robert Warshaw on the killing of Joshua Pawlik](/images/screen-shot-2021-02-10-at-4.24.51-pm.png)
+
+#### More documents and background:
+
 [Police Commission Feb 11 agenda](https://www.oaklandca.gov/meetings/police-commission-february-11-2021)
 
-[Read working policy draft of the Police Commission's Ad Hoc Committee on Militarized Equipment](https://oaklandca.gov/resources/ad-hoc-committee-on-militarized-equipment)
+[The Armored Vehicle policy draft from the Police Commission's Ad Hoc Committee on Militarized Equipment](https://oaklandca.gov/resources/ad-hoc-committee-on-militarized-equipment)
