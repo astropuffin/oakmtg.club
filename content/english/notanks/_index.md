@@ -24,7 +24,7 @@ Despite the unanimous outpouring from all across the city calling for a decommis
 ### (1) [Sign our petition to retire OPD's Bearcat](https://docs.google.com/forms/d/e/1FAIpQLSfqSRDgENRMdhaYh5Yxb0gGO624HD1r7MpQB9Hd1F-um0x9Yw/viewform?vc=0&c=0&w=1&flr=0)
 
 
-### (2) [Join us at 6:30PM on Thursday, February 11 on Zoom to tell the Police Commission "Thanks but no tanks please".] (https://us02web.zoom.us/j/88596700643)
+### (2) [Join us at 6:30PM on Thursday, February 11 on Zoom to tell the Police Commission "Thanks but no tanks please".](https://us02web.zoom.us/j/88596700643)
 Public comment will begin shortly after 6:30pm and signup to speak often cuts off just before the first speaker begins: [https://us02web.zoom.us/j/88596700643](https://us02web.zoom.us/j/88596700643)
 
 Commenting is the <b>most important thing you can do</b> to help! Hearing from people who care enough to show up to a meeting can really change minds. Also, it can be fun! We will be on Twitter chatting on the [\#oakmtg](https://twitter.com/hashtag/oakmtg) and [\#ThanksButNoTanks](https://twitter.com/hashtag/ThanksButNoTanks) hashtags before and during the meeting to share talking points and give advice on how to make your public comment count. Join us!
