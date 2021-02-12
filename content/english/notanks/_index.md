@@ -5,6 +5,9 @@ description: "Say #ThanksButNoTanks to OPD's Bearcat - Thu Feb 11 6:30pm -
   Oakland Police Commission"
 type: notanks_index
 ---
+# [Zoom is open! Click to join!](https://us02web.zoom.us/j/88596700643)
+# [If it's silent, they're in closed session. Hit "Raise hand", review talking points below, and be ready at 6:30PM to tell the Police Commission "Thanks but no tanks please".](https://us02web.zoom.us/j/88596700643)
+
 Hello neighbor!
 
 Did you know Oakland has a small tank, called a Bearcat?
