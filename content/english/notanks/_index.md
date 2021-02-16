@@ -14,7 +14,8 @@ About 40 of you lifted your voices in public comment at the Police Commission #o
 This could not have happened without your help!!
 
 From the bottoms of our hearts, thank you, thank you, thank you.
-<hr>
+
+---
 
 Hello neighbor!
 
