@@ -1,12 +1,20 @@
 ---
 title: Thanks, But No Tanks
 bg_image: images/OaklandPanorama2.jpg
-description: "Say #ThanksButNoTanks to OPD's Bearcat - Thu Feb 11 6:30pm -
-  Oakland Police Commission"
+description: "Thank you for joining us to say #ThanksButNoTanks to OPD's Bearcat
+  on Thu Feb 11 6:30pm at the Oakland Police Commission"
 type: notanks_index
 ---
-# [Zoom is open! Click to join!](https://us02web.zoom.us/j/88596700643)
-# [If it's silent, they're in closed session. Hit "Raise hand", review talking points below, and be ready at 6:30PM to tell the Police Commission "Thanks but no tanks please".](https://us02web.zoom.us/j/88596700643)
+Thank you for joining us in the fight against OPD's militarization!
+Well over 300 of you signed the petition as individuals, and two dozen organizations signed as well.
+About 40 of you lifted your voices in public comment at the Police Commission #oakmtg on Thursday February 11.
+
+**Thanks to you, the Police Commission has instructed its Ad Hoc committee on Militarized Equipment to explore giving guidance to retire the Bearcat.**
+
+This could not have happened without your help!!
+
+From the bottoms of our hearts, thank you, thank you, thank you.
+<hr>
 
 Hello neighbor!
 
