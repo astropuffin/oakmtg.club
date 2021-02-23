@@ -5,21 +5,27 @@ description: "Thank you for joining us to say #ThanksButNoTanks to OPD's Bearcat
   on Thu Feb 11 6:30pm at the Oakland Police Commission"
 type: notanks_index
 ---
+
+_Update from Friday February 12_
+
 Thank you for joining us in the fight against OPD's militarization!
-Well over 300 of you signed the petition as individuals, and two dozen organizations signed as well.
+Well over 300 of you signed the petition as individuals, and over two dozen organizations signed as well.
 About 40 of you lifted your voices in public comment at the Police Commission #oakmtg on Thursday February 11.
 
 **Thanks to you, the Police Commission has instructed its Ad Hoc committee on Militarized Equipment to explore giving guidance to retire the Bearcat.**
 
-This could not have happened without your help!!
+You can read the exact motions and see which commissioners voted which way on the [draft minutes](https://cao-94612.s3.amazonaws.com/documents/Police-Commission-2.11.21-Minutes-DRAFT.pdf) under Item XI. The minutes are non-exhaustive and are available from the [Police Commission's meetings page](https://www.oaklandca.gov/boards-commissions/police-commission/meetings)).
+
+**This could not have happened without your help!!**
 
 From the bottoms of our hearts, thank you, thank you, thank you.
 
 ---
+_Update from Friday February 11_
 
 Hello neighbor!
 
-Did you know Oakland has a small tank, called a Bearcat?
+Did you know Oakland has a small tank, called a BearCat?
 
 Did you know Oakland Police used it as a shooting platform to murder a sleeping man?
 
@@ -27,13 +33,13 @@ The ensuing federal oversight included requiring a policy governing its (and oth
 
 ![STOP THE BEARCAT](/images/notanks.jpg)
 
-On January 11, the (all-volunteer) Police Commission's Ad Hoc committee held a public forum, where they heard unanimously from the public that **no one wanted the OPD to have a Bearcat at all**. Some public speakers shared very personal experiences, including one teenager whose family experienced a raid featuring the Bearcat (the raid was over supposed weed).
+On January 11, the (all-volunteer) Police Commission's Ad Hoc committee held a public forum, where they heard unanimously from the public that **no one wanted the OPD to have a BearCat at all**. Some public speakers shared very personal experiences, including one teenager whose family experienced a raid featuring the BearCat (the raid was over supposed weed).
 
-Despite the unanimous outpouring from all across the city calling for a decommission of OPD's tank, the Ad Hoc committee will be recommending at Thursday evening's Police Commission meeting to adopt a policy that allows broad continued use of the Bearcat.
+Despite the unanimous outpouring from all across the city calling for a decommission of OPD's tank, the Ad Hoc committee will be recommending at Thursday evening's Police Commission meeting to adopt a policy that allows broad continued use of the BearCat.
 
 ## We need your help. Take action with us (from the comfort of your home) this Thursday!
 
-### (1) [Sign our petition to retire OPD's Bearcat](https://docs.google.com/forms/d/e/1FAIpQLSfqSRDgENRMdhaYh5Yxb0gGO624HD1r7MpQB9Hd1F-um0x9Yw/viewform?vc=0&c=0&w=1&flr=0)
+### (1) [Sign our petition to retire OPD's BearCat](https://docs.google.com/forms/d/e/1FAIpQLSfqSRDgENRMdhaYh5Yxb0gGO624HD1r7MpQB9Hd1F-um0x9Yw/viewform?vc=0&c=0&w=1&flr=0)
 
 ### (2) [Join us at 6:30PM on Thursday, February 11 on Zoom to tell the Police Commission "Thanks but no tanks please".](https://us02web.zoom.us/j/88596700643)
 
