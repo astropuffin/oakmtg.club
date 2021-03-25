@@ -1,18 +1,22 @@
 ---
 title: Thanks, But No Tanks
 bg_image: images/OaklandPanorama2.jpg
-description: "Thank you for joining us to say #ThanksButNoTanks to OPD's Bearcat
-  on Thu Feb 11 6:30pm at the Oakland Police Commission"
+description: "Thank you for joining us to again say #ThanksButNoTanks to OPD's
+  Bearcat on Thu Mar 25 6:30pm at the Oakland Police Commission"
 type: notanks_index
 ---
 ## We still need your help, Oakland!
 ### What's next for OPD's tiny tank?
 
-The Police Commission asked its Ad Hoc Committee to come back with some proposals for how to retire the BearCat.  **Please join us at 6:30pm this Thursday to tell the Police Commission what you'd like to happen with the BearCat, on what timescale, and what should happen after the BearCat is gone.**
+_Update from Thursday March 25_
+
+The Police Commission's Ad Hoc Committee has a proposal to retire the BearCat in 2-3+ *years* - despite the [Oakland Reimagining Public Safety Taskforce's recommendation of an 8 *month* retirement](https://drive.google.com/file/d/1dpqz811zU2VVLeaAaskntDXlmuLf_TIt/view)!
+
+**Please join us at 6:30pm this Thursday March 25 to tell the Police Commission that you'd like the BearCat retired in 2021 and to amend their proposal to follow the timeline recommended by the Taskforce.**
 
 ### (1) [You can still sign our petition to retire OPD's Bearcat](https://docs.google.com/forms/d/e/1FAIpQLSfqSRDgENRMdhaYh5Yxb0gGO624HD1r7MpQB9Hd1F-um0x9Yw/viewform?vc=0&c=0&w=1&flr=0)
 
-### (2) [Join us again at 6:30PM on Thursday, February 25 on Zoom to tell the Police Commission "Thanks but no tanks please".](https://us02web.zoom.us/j/88596700643)
+### (2) [Join us again at 6:30PM on Thursday, March 25 on Zoom to tell the Police Commission "Thanks but no tanks please".](https://us02web.zoom.us/j/85432349710)
 
 ---
 _Update from Friday February 12_
