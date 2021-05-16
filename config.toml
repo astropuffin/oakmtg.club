@@ -70,128 +70,162 @@ hasChildren = true
 name = "Voter Guide"
 weight = 2
 hasChildren = true
-
+ 
     [[menu.main]]
-    name = "Home"
-    URL = "guide"
+    name = "How to Vote"
+    URL = "how-to-vote"
     parent = "Voter Guide"
-    weight = 2
-
-    [[menu.main]]
-    name = "District 1"
-    URL = "guide/district-1"
-    parent = "Voter Guide"
-    weight = 3
-
-    [[menu.main]]
-    name = "District 2"
-    URL = "guide/district-2"
-    parent = "Voter Guide"
-    weight = 4
-
-    [[menu.main]]
-    name = "District 3"
-    URL = "guide/district-3"
-    parent = "Voter Guide"
-    weight = 5
-
-    [[menu.main]]
-    name = "District 4"
-    URL = "guide/district-4"
-    parent = "Voter Guide"
-    weight = 6
-
-    [[menu.main]]
-    name = "District 5"
-    URL = "guide/district-5"
-    parent = "Voter Guide"
-    weight = 7
-
-    [[menu.main]]
-    name = "District 6"
-    URL = "guide/district-6"
-    parent = "Voter Guide"
-    weight = 8
-
-    [[menu.main]]
-    name = "District 7"
-    URL = "guide/district-7"
-    parent = "Voter Guide"
-    weight = 9
-
-[[menu.main]]
-name = "How to Vote"
-URL = "how-to-vote"
-weight = 3
-
-[[menu.main]]
-name = "Candidates"
-URL = "candidates"
-weight = 4
-
-[[menu.main]]
-name = "Ballot Measures"
-weight = 5
-hasChildren = true
-
-    [[menu.main]]
-    name = "Home"
-    URL = "ballot-measures"
-    parent = "Ballot Measures"
-    weight = 2
-
-    [[menu.main]]
-    name = "QQ"
-    URL = "ballot-measures/qq"
-    parent = "Ballot Measures"
-    weight = 3
-
-    [[menu.main]]
-    name = "RR"
-    URL = "ballot-measures/rr"
-    parent = "Ballot Measures"
-    weight = 4
-
-    [[menu.main]]
-    name = "S1"
-    URL = "ballot-measures/s1"
-    parent = "Ballot Measures"
-    weight = 5
-
-    [[menu.main]]
-    name = "V"
-    URL = "ballot-measures/v"
-    parent = "Ballot Measures"
-    weight = 6
-
-    [[menu.main]]
-    name = "W"
-    URL = "ballot-measures/w"
-    parent = "Ballot Measures"
-    weight = 7
-
-    [[menu.main]]
-    name = "X"
-    URL = "ballot-measures/x"
-    parent = "Ballot Measures"
-    weight = 8
-
-    [[menu.main]]
-    name = "Y"
-    URL = "ballot-measures/y"
-    parent = "Ballot Measures"
-    weight = 9
-
-[[menu.main]]
-name = "Call to Action"
-weight = 10
-hasChildren = true
-
-    [[menu.main]]
-    parent = "Call to Action"
-    name = "No Tanks"
-    URL = "notanks"
     weight = 1
+
+    [[menu.main]]
+    name = "Candidates"
+    URL = "candidates"
+    parent = "Voter Guide"
+    weight = 2
+
+    [[menu.main]]
+    name = "Ballot Measures"
+    weight = 3
+    hasChildren = true
+    parent = "Voter Guide"
+
+
+[[menu.main]]
+name = "Previous Guides"
+weight = 3
+hasChildren = true
+
+    [[menu.main]]
+    name = "2020 Voter Guide"
+    URL = "2020/guide"
+    weight = 9
+    hasChildren = true
+    parent = "Previous Guides"
+        
+       # [[menu.main]]
+       # name = "Home"
+       # URL = "2020/guide"
+       # parent = "2020 Voter Guide"
+       # weight = 2
+
+       # [[menu.main]]
+       # name = "2020 District 1"
+       # URL = "2020/guide/district-1"
+       # parent = "2020 Voter Guide"
+       # weight = 3
+
+       # [[menu.main]]
+       # name = "2020 District 2"
+       # URL = "2020/guide/district-2"
+       # parent = "2020 Voter Guide"
+       # weight = 4
+
+       # [[menu.main]]
+       # name = "2020 District 3"
+       # URL = "2020/guide/district-3"
+       # parent = "2020 Voter Guide"
+       # weight = 5
+
+       # [[menu.main]]
+       # name = "2020 District 4"
+       # URL = "2020/guide/district-4"
+       # parent = "2020 Voter Guide"
+       # weight = 6
+
+       # [[menu.main]]
+       # name = "2020 District 5"
+       # URL = "2020/guide/district-5"
+       # parent = "2020 Voter Guide"
+       # weight = 7
+
+       # [[menu.main]]
+       # name = "2020 District 6"
+       # URL = "2020/guide/district-6"
+       # parent = "2020 Voter Guide"
+       # weight = 8
+
+       # [[menu.main]]
+       # name = "2020 District 7"
+       # URL = "2020/guide/district-7"
+       # parent = "2020 Voter Guide"
+       # weight = 9
+
+       # [[menu.main]]
+       # name = "2020 How to Vote"
+       # URL = "2020/how-to-vote"
+       # parent = "2020 Voter Guide"
+       # weight = 1
+
+       # [[menu.main]]
+       # name = "2020 Candidates"
+       # URL = "2020/candidates"
+       # parent = "2020 Voter Guide"
+       # weight = 2
+
+       # [[menu.main]]
+       # name = "2020 Ballot Measures"
+       # weight = 3
+       # hasChildren = true
+       # parent = "2020 Voter Guide"
+
+       #     [[menu.main]]
+       #     name = "Home"
+       #     URL = "2020/ballot-measures"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 2
+
+       #     [[menu.main]]
+       #     name = "QQ"
+       #     URL = "2020/ballot-measures/qq"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 3
+
+       #     [[menu.main]]
+       #     name = "RR"
+       #     URL = "2020/ballot-measures/rr"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 4
+
+       #     [[menu.main]]
+       #     name = "S1"
+       #     URL = "2020/ballot-measures/s1"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 5
+
+       #     [[menu.main]]
+       #     name = "V"
+       #     URL = "2020/ballot-measures/v"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 6
+
+       #     [[menu.main]]
+       #     name = "W"
+       #     URL = "2020/ballot-measures/w"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 7
+
+       #     [[menu.main]]
+       #     name = "X"
+       #     URL = "2020/ballot-measures/x"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 8
+
+       #     [[menu.main]]
+       #     name = "Y"
+       #     URL = "2020/ballot-measures/y"
+       #     parent = "2020 Ballot Measures"
+       #     weight = 9
+
+#[[menu.main]]
+#name = "Call to Action"
+#weight = 10
+#hasChildren = true
+#
+#    [[menu.main]]
+#    parent = "Call to Action"
+#    name = "No Tanks"
+#    URL = "notanks"
+#    weight = 1
 
 #[[menu.main]]
 #name = "course"
