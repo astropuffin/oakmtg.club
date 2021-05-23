@@ -70,18 +70,24 @@ hasChildren = true
 name = "Voter Guide"
 weight = 2
 hasChildren = true
- 
+
     [[menu.main]]
-    name = "How to Vote"
-    URL = "how-to-vote"
+    name = "2021 Voter Tidbits"
+    URL = "guide"
     parent = "Voter Guide"
     weight = 1
 
     [[menu.main]]
-    name = "Candidates"
-    URL = "candidates"
+    name = "How to Vote"
+    URL = "how-to-vote"
     parent = "Voter Guide"
-    weight = 2
+    weight = 3
+
+    [[menu.main]]
+    name = "Candidates"
+    URL = "2021/candidates"
+    parent = "Voter Guide"
+    weight = 5
 
     #[[menu.main]]
     #name = "Ballot Measures"
@@ -104,10 +110,10 @@ hasChildren = true
     parent = "Previous Guides"
         
        # [[menu.main]]
-       # name = "Home"
+       # name = "2020 Voter Guide Home"
        # URL = "2020/guide"
        # parent = "2020 Voter Guide"
-       # weight = 2
+       # weight = 10
 
        # [[menu.main]]
        # name = "2020 District 1"
