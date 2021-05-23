@@ -2,7 +2,7 @@
 title: Voter Guide
 byline: Oakland.Vote Ballot Guide
 bg_image: images/OaklandPanorama2.jpg
-description: What you need to vote in Oakland on or before November 3, 2020.
+description: What you need to vote in Oakland's special election on or before June 29, 2021.
 image: images/oakland-districts.png
 type: guide_index
 buttons:

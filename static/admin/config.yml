@@ -6,9 +6,9 @@ media_folder: "static/images"
 public_folder: "/images"
 collections:
 
-  - name: candidate-2020
-    label: "2020 Candidate"
-    folder: "content/english/2020/candidates"
+  - name: candidate
+    label: "Candidate"
+    folder: "content/english/candidates"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
@@ -44,9 +44,9 @@ collections:
     filter:
       field: type
       value: candidates
-  - name: guide_district-2020
-    label: "2020 District"
-    folder: "content/english/2020/guide"
+  - name: guide_district
+    label: "District"
+    folder: "content/english/guide"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
@@ -81,6 +81,148 @@ collections:
     filter:
       field: type
       value: guide
+  - name: guide_index
+    label: "Guide Main Page"
+    folder: "content/english/guide"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Byline, name: byline, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "guide_index"}
+      - label: Buttons
+        name: buttons
+        widget: list
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: link, name: link, widget: string}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: guide_index
+  - name: how_to_vote
+    label: "How to Vote"
+    folder: "content/english/how-to-vote"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "how_to_vote_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: how_to_vote_index
+  - name: methodology
+    label: "Methodology"
+    folder: "content/english/methodology"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "methodology_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: methodology_index
+  - name: about
+    label: "About"
+    folder: "content/english/about"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - label: Image
+        name: image
+        widget: image
+        defaut: "images/oakland_skyline_lake_merritt.jpg"
+        media_library:
+          config:
+            multiple: false
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "about_index"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: about_index
+  - name: ballot_measure_index
+    label: "Ballot Measures Main Page"
+    folder: "content/english/ballot-measures"
+    create: false
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Byline, name: byline, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot-measures_index"}
+      - label: Buttons
+        name: buttons
+        widget: list
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: link, name: link, widget: string}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: ballot-measures_index
+  - name: ballot_measure
+    label: "Ballot Measures"
+    folder: "content/english/ballot-measures"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
+      - {label: Description, name: description, widget: string}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot-measures"}
+      - label: "SEO Tags"
+        name: seoTags
+        widget: list
+        required: false
+        fields:
+          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
+          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+    filter:
+      field: type
+      value: ballot-measures
+
   - name: 2020-guide_index
     label: "2020 Guide Main Page"
     folder: "content/english/2020/guide"
@@ -223,16 +365,16 @@ collections:
     filter:
       field: type
       value: guide
-  - name: guide_index
-    label: "Guide Main Page"
-    folder: "content/english/guide"
+  - name: 2020-ballot_measure_index
+    label: "2020 Ballot Measures Main Page"
+    folder: "content/english/2020/ballot-measures"
     create: false
     fields:
       - {label: Title, name: title, widget: string}
       - {label: Byline, name: byline, widget: string}
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
       - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "guide_index"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "2020-ballot-measures_index"}
       - label: Buttons
         name: buttons
         widget: list
@@ -249,112 +391,16 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: guide_index
-  - name: how_to_vote
-    label: "How to Vote"
-    folder: "content/english/how-to-vote"
-    create: false
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
-      - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "how_to_vote_index"}
-      - label: "SEO Tags"
-        name: seoTags
-        widget: list
-        required: false
-        fields:
-          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
-          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-    filter:
-      field: type
-      value: how_to_vote_index
-  - name: methodology
-    label: "Methodology"
-    folder: "content/english/methodology"
-    create: false
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
-      - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "methodology_index"}
-      - label: "SEO Tags"
-        name: seoTags
-        widget: list
-        required: false
-        fields:
-          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
-          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-    filter:
-      field: type
-      value: methodology_index
-  - name: about
-    label: "About"
-    folder: "content/english/about"
-    create: false
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
-      - label: Image
-        name: image
-        widget: image
-        defaut: "images/oakland_skyline_lake_merritt.jpg"
-        media_library:
-          config:
-            multiple: false
-      - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "about_index"}
-      - label: "SEO Tags"
-        name: seoTags
-        widget: list
-        required: false
-        fields:
-          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
-          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-    filter:
-      field: type
-      value: about_index
-
-
-  - name: ballot_measure_index
-    label: "Ballot Measures Main Page"
-    folder: "content/english/ballot-measures"
-    create: false
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: Byline, name: byline, widget: string}
-      - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
-      - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot-measures_index"}
-      - label: Buttons
-        name: buttons
-        widget: list
-        fields:
-          - {label: title, name: title, widget: string}
-          - {label: link, name: link, widget: string}
-      - label: "SEO Tags"
-        name: seoTags
-        widget: list
-        required: false
-        fields:
-          - {label: Name, hint: "Name of the meta tag", name: name, widget: string}
-          - {label: Content, hint: "Content for the meta tag", name: content, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-    filter:
-      field: type
-      value: ballot-measures_index
-  - name: ballot_measure
-    label: "Ballot Measures"
-    folder: "content/english/ballot-measures"
+      value: 2020-ballot-measures_index
+  - name: 2020-ballot_measure
+    label: "2020 Ballot Measures"
+    folder: "content/english/2020/ballot-measures"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/background-oakland-panorama.jpg"}
       - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "ballot-measures"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "2020-ballot-measures"}
       - label: "SEO Tags"
         name: seoTags
         widget: list
@@ -365,7 +411,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: ballot-measures
+      value: 2020-ballot-measures
 
   - name: notanks
     label: "No Tanks"

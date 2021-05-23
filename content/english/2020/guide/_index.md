@@ -2,7 +2,7 @@
 title: 2020 Voter Guide
 byline: Oakland.Vote Ballot Guide
 bg_image: images/OaklandPanorama2.jpg
-description: What you need to vote in Oakland on or before November 3, 2020.
+description: A guide to what you needed to vote in Oakland on or before November 3, 2020.
 image: images/oakland-districts.png
 type: 2020-guide_index
 buttons:
