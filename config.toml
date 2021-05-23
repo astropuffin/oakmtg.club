@@ -83,12 +83,12 @@ hasChildren = true
     parent = "Voter Guide"
     weight = 2
 
-    [[menu.main]]
-    name = "Ballot Measures"
-    URL = "ballot-measures"
-    weight = 3
-    hasChildren = true
-    parent = "Voter Guide"
+    #[[menu.main]]
+    #name = "Ballot Measures"
+    #URL = "ballot-measures"
+    #weight = 3
+    #hasChildren = true
+    #parent = "Voter Guide"
 
 
 [[menu.main]]
