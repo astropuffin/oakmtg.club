@@ -12,7 +12,7 @@ buttons:
   - title: Check if you are in AD18 and part of the special election
     link: http://findyourrep.legislature.ca.gov/
   - title: Who's running?
-    link: /candidates
+    link: /2021/candidates
 ---
 
 ## Special Election on June 29

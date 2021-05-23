@@ -6,14 +6,14 @@ description: A guide to what you needed to vote in Oakland on or before November
 image: images/oakland-districts.png
 type: 2020-guide_index
 buttons:
+  - title: 2020 Candidates
+    link: /2020/candidates
   - title: How do I vote in 2020?
     link: /2020/how-to-vote
   - title: Look up your district
     link: http://gisapps1.mapoakland.com/councildistricts/
+type: guide
 ---
-[Candidates](/2020/candidates)
-
-***
 
 ### **What this is:**
 
