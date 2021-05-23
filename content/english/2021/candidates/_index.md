@@ -4,7 +4,6 @@ draft: false
 # page title background image
 bg_image: "images/OaklandPanorama2.jpg"
 # meta description
-# description : "Candidates for public office in Oakland."
 description : "Candidates for the June 2021 special election for AD18"
 ---
 
@@ -31,7 +30,7 @@ There are eight (8!!) candidates running for AD18 Assemblymember. This is a powe
 - CEO of the controversial Oakland Promise
 - [Has a campaign page with no bio, no platform, no endorsements - but many ways to donate](https://miabonta.com/)
 
-#### Victor Aguilar (San Leandro)
+#### [Victor Aguilar](https://victorforca.com/) (San Leandro)
 - [San Leandro City Council member](https://www.sanleandro.org/depts/council/dist3.asp)
 
 #### [Eugene Canson](https://www.eugenecansonforca.com/meet-eugene)
@@ -46,6 +45,6 @@ There are eight (8!!) candidates running for AD18 Assemblymember. This is a powe
 - Token Republican on the ballot
 - Ran in previous 2018 and 2020 AD18 elections
 
-#### Joel Britton
-- No party preference [according to SOS](https://elections.cdn.sos.ca.gov/special-elections/2021-ad18/legislative-501-report.pdf)
+#### [Joel Britton](http://themilitant.com/)
+- No party preference [according to SOS](https://elections.cdn.sos.ca.gov/special-elections/2021-ad18/legislative-501-report.pdf) but lists http://themilitant.com/ as his website on [https://www.acgov.org/rov_app/candidatelist?electionid=243](https://www.acgov.org/rov_app/candidatelist?electionid=243)
 - Out of all candidates, [has not accepted the voluntary expenditure limit](https://elections.cdn.sos.ca.gov/special-elections/2021-ad18/legislative-501-report.pdf)
