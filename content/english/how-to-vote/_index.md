@@ -6,65 +6,51 @@ type: how_to_vote_index
 ---
 ### How do I vote?
 
-As you already know, 2020 is a total mess. To pre-empt the difficulty of voting during a pandemic, we’ve outlined all the different ways and times you can vote below.
+For the 2021 special election on June 29, if you are already registered, you'll receive your ballot by mail as early as May 31.  [You can verify your registration address and voter status at https://acvote.org/mvp](https://acvote.org/mvp)
 
-Check if you are registered to vote [HERE](https://voterstatus.sos.ca.gov/).
+In-person voting is still an option if you want. [Accessible Voting Locations](https://acvote.org/go) open beginning June 26, and Polling Places will be open on the actual election day of June 29.
+
+Remember to sign your mail-in ballot!
+
+[Check if you are registered to vote](https://voterstatus.sos.ca.gov/)
+[Track your ballot](https://acvote.ballottrax.net)
 
 - - -
 
 ### Here are important dates:
 
-* **Oct. 5th:** Ballots mailed out
-* **October 19th:** Deadline to [register](https://registertovote.ca.gov/) to vote
+* **May 31:** Ballots mailed out
+* **June 14:** [Deadline to register](https://registertovote.ca.gov/) to vote
 
-  * Super procrastinator? Us, too. If you miss that deadline, you can still register to vote conditionally with a provisional ballot the day-of-- it’s California law. You will need to find an in-person polling place. 
-* **Oct 31st - Nov 3rd:** In-person voting! Check here for the list of polling places available: <https://www.acgov.org/rov_app/pollinglist>
+  * Super procrastinator? Us, too. If you miss that deadline, you can still register to vote conditionally with a provisional ballot the day-of-- it’s California law. You will need to find an in-person Polling Place. 
+* **June 26-29:** In-person voting! [Accessible Voting Locations](https://acvote.org/go) open beginning June 26, and Polling Places will be open on the actual election day of June 29.
+The list of polling places will likely be available at [https://www.acgov.org/rov_app/pollinglist](https://www.acgov.org/rov_app/pollinglist)
 
 - - -
 
 ### By Mail:
 
-All Californians who are registered to vote this year will receive ballots by mail, sent out by October 5th. Please note that as of this writing, Trump is defunding and dismantling the USPS, deprioritizing mail-in ballots-- so we encourage you to track your ballot using this tool: <https://california.ballottrax.net/>
+All Californians who are registered to vote this year will receive ballots by mail, sent out beginning May 31. [Track your ballot](https://california.ballottrax.net/)
 
 - - -
 
 ### Dropping off your ballot:
 
-Alameda County has set up 24-hour Ballot Drop Box sites. You can find your closest one [here.](https://www.acgov.org/rovapps/maps/ballotdropbox_map.htm)
+All the latest ballot dropoff information is at [https://www.acvote.org/GO](https://www.acvote.org/GO)
 
-They also have “Ballot Drop Stops,” which are drive-thru ballot drop-offs. As of 10/8, the AC Vote website lists ONE drive-thru location for all of Oakland:
+Alameda County has set up 24-hour Ballot Drop Box sites. You can find your closest one at [https://www.acvote.org/dropbox](https://www.acvote.org/dropbox)
 
-**Rene C. Davidson Courthouse**\
-1225 Fallon Street\
-Oakland, CA 94612\
-\
-**Monday through Friday**\
-8:30 a.m. – 5:00 p.m.\
-Starting Monday, October 5, 2020 up until Election Day
-
-**Weekend before the Election**\
-9:00 a.m. – 5:00 p.m.\
-Saturday, October 31 and Sunday, November 1, 2020
-
-**Election Day**\
-7:00 a.m. – 8:00 p.m.\
-Tuesday, November 3, 2020
+Ballots can also be dropped at [Accessible Voting Locations](https://acvote.org/go)
 
 - - -
 
 ### At a Polling Place:
 
-We encourage in-person polling where possible (SAFELY, please!), but we'd like to note that the regular neighborhood polling places are not going to be implemented this year, so you may need to travel further than you are used to! There are also fewer polling places than usual--as of 10/8, there are 26 accessible voting locations in Oakland. Be prepared, find a polling place on the [AC Vote website.](https://www.acgov.org/rov_app/pollinglist)
+We encourage in-person polling where possible (SAFELY, please!), but we'd like to note that the regular neighborhood polling places will likely again (like 2020) not be implemented this election, so you may need to travel further than you are used to! There will also again likely be fewer polling places than usual. Be prepared, find a polling place on the [AC Vote website.](https://www.acgov.org/rov_app/pollinglist)
 
 #### Rides to the Polls:
 
 We are looking for free and cheap ways to transport voters to the polls! If you have more suggestions, please let us know!
-
-* Nov 3rd only: Lime is providing free rides to the polls
-* Nov 3rd only: Lyft is offering 50% off rides that are $10 max*
-* Nov 3rd only: Uber is offering 50% off rides to and from the polls*
-
-  \*Please note Uber and Lyft have been adding in-app advertisements about [Prop 22](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020)), trying to get voters to classify drivers as independent contractors and not employees with benefits. We encourage you to read state-level voter guides from trusted sources to vote on this issue.
 
 - - -
 
