@@ -5,6 +5,7 @@ draft: false
 bg_image: "images/OaklandPanorama2.jpg"
 # meta description
 description : "Candidates for the June 2021 special election for AD18"
+type: 2021/candidates
 ---
 
 ## Candidates
