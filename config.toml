@@ -73,13 +73,13 @@ hasChildren = true
 
     [[menu.main]]
     name = "2021 Voter Tidbits"
-    URL = "guide"
+    URL = "2021/guide"
     parent = "Voter Guide"
     weight = 1
 
     [[menu.main]]
     name = "How to Vote"
-    URL = "how-to-vote"
+    URL = "2021/how-to-vote"
     parent = "Voter Guide"
     weight = 3
 

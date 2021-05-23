@@ -5,10 +5,10 @@ bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland's special election on or before June 29, 2021.
 # image: images/oakland-districts.png
 image: images/background-oakland-panorama.jpg 
-type: guide_index
+type: guide
 buttons:
   - title: How do I vote in the June 2021 special election?
-    link: /how-to-vote
+    link: /2021/how-to-vote
   - title: Check if you are in AD18 and part of the special election
     link: http://findyourrep.legislature.ca.gov/
   - title: Who's running?
