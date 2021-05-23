@@ -269,7 +269,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: how_to_vote_index
+      value: 2020-how_to_vote_index
   - name: 2020-methodology
     label: "2020 Methodology"
     folder: "content/english/2020/methodology"
@@ -278,7 +278,7 @@ collections:
       - {label: Title, name: title, widget: string}
       - {label: "Background Image", name: bg_image, widget: hidden, default: "images/OaklandPanorama2.jpg"}
       - {label: Description, name: description, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "methodology_index"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "2020-methodology_index"}
       - label: "SEO Tags"
         name: seoTags
         widget: list
@@ -289,7 +289,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: methodology_index
+      value: 2020-methodology_index
   - name: 2020-candidate
     label: "2020 Candidate"
     folder: "content/english/2020/candidates"
@@ -316,7 +316,7 @@ collections:
           - {label: Name, hint: "Example: 'Official Twitter'", name: name, widget: string}
           - {label: Icon, hint: "List of options: https://themify.me/themify-icons", name: icon, widget: string}
           - {label: Link, hint: "Example: 'https://twitter.com/astropuffin'", name: link, widget: string}
-      - {label: "Content Type", name: "type", widget: "hidden", default: "candidates"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: "2020-candidates"}
       - label: "SEO Tags"
         name: seoTags
         widget: list
@@ -327,7 +327,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: candidates
+      value: 2020-candidates
   - name: 2020-guide_district
     label: "2020 District"
     folder: "content/english/2020/guide"
@@ -364,7 +364,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     filter:
       field: type
-      value: guide
+      value: 2020-guide
   - name: 2020-ballot_measure_index
     label: "2020 Ballot Measures Main Page"
     folder: "content/english/2020/ballot-measures"
