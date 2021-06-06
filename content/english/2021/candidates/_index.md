@@ -25,7 +25,7 @@ There are eight (8!!) candidates running for AD18 Assemblymember. This is a powe
 - Name recognition: married to recently-resigned AD18 Assemblymember and newly-installed CA Attorney General Rob Bonta. What will this mean for legislators she doesn’t like? we only know enough to ask, not enough to speculate!
 - Alameda Unified School District Board president
 - CEO of the controversial Oakland Promise
-- ~[Has a campaign page with no bio, no platform, no endorsements - but many ways to donate](https://miabonta.com/)~ Now has a campaign website! possibly because she graduated from Emerge California? (She last-minute backed out of a candidate forum because it overlapped with her program graduation)
+- [~~Has a campaign page with no bio, no platform, no endorsements - but many ways to donate~~](https://miabonta.com/) [Now has a campaign website!](https://miabonta.com/) possibly updated now that she's graduated from Emerge California? (She last-minute backed out of a June 5 candidate forum because it overlapped with her program graduation)
 - Heavily endorsed at state and national and local levels - most notably, Barbara Lee rarely endorses (and even scolded candidates last election for implying an endorsement).
 - Endorsed by Oakland City Councilmembers for Districts 1, 4, 5, 6, and 7
 
