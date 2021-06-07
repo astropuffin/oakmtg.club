@@ -16,10 +16,16 @@ There are eight (8!!) candidates running for AD18 Assemblymember. This is a powe
 - The only Oakland candidate
 - Also apparently the only candidate to [file her campaign finance information](https://cal-access.sos.ca.gov/Campaign/Candidates/list.aspx?electNav=173)??
 - Endorsed by Oakland politics legend [Gene Hazzard](http://www.cleanoakland.com/genes-blog), someone admired here at the #oakmtg (Appreciation) Club
-- [Some other notable individual endorsements](https://jananiforca.com/endorsements/): Alfred Twu, Randy Shaw, 
+- [Some other notable individual endorsements](https://jananiforca.com/endorsements/): Alfred Twu, Randy Shaw, Desley Brooks
 - [Notable organization endorsements](https://jananiforca.com/endorsements/): ILWU NCDC, Indivisible East Bay, Wellstone Democrats, Oakland East Bay Democratic Club
 - Rents in Oakland
 
+#### [Malia Vella](https://maliavella.com/) (Alameda)
+- Alameda City Council member
+- [Was more endorsed than any other candidate until Mia Bonta's campaign website went live](https://maliavella.com/endorsements/)
+- [Very odd endorsement list mix](https://maliavella.com/endorsements/): Jovanka Beckles _and_ Libby Schaaf and Don Perata? 
+- [Notable organization endorsements](https://maliavella.com/endorsements/): Oakland Rising Action, SEIU, Coalition for Police Accountability
+- At [June 5 East Bay For Everyone candidate forum](https://www.youtube.com/watch?v=DUNW19V35bQ), Vella noted that she advocated for 25% affordable units for developing in Alameda. This type of advocacy work usually causes new housing developments to be cancelled.
 
 #### [Mia Bonta](http://www.miabonta.com/) (Alameda)
 - Name recognition: married to recently-resigned AD18 Assemblymember and newly-installed CA Attorney General Rob Bonta. What will this mean for legislators she doesn’t like? we only know enough to ask, not enough to speculate!
@@ -28,13 +34,6 @@ There are eight (8!!) candidates running for AD18 Assemblymember. This is a powe
 - [~~Has a campaign page with no bio, no platform, no endorsements - but many ways to donate~~](https://miabonta.com/) [Now has a campaign website!](https://miabonta.com/) possibly updated now that she's graduated from Emerge California? (She last-minute backed out of a June 5 candidate forum because it overlapped with her program graduation)
 - Heavily endorsed at state and national and local levels - most notably, Barbara Lee rarely endorses (and even scolded candidates last election for implying an endorsement).
 - Endorsed by Oakland City Councilmembers for Districts 1, 4, 5, 6, and 7
-
-#### [Malia Vella](https://maliavella.com/) (Alameda)
-- Alameda City Council member
-- [Was more endorsed than any other candidate until Mia Bonta's campaign website went live](https://maliavella.com/endorsements/)
-- [Very odd endorsement list mix](https://maliavella.com/endorsements/): Jovanka Beckles _and_ Libby Schaaf and Don Perata? 
-- [Notable organization endorsements](https://maliavella.com/endorsements/)Oakland Rising Action, SEIU, Coalition for Police Accountability
-- At [June 5 East Bay For Everyone candidate forum](https://www.youtube.com/watch?v=DUNW19V35bQ), Vella noted that she advocated for 25% affordable units for developing in Alameda. This type of advocacy work usually causes new housing developments to be cancelled.
 
 #### [Victor Aguilar](https://victorforca.com/) (San Leandro)
 - Current (and first openly gay) [San Leandro City Councilmember](https://www.sanleandro.org/depts/council/dist3.asp)
