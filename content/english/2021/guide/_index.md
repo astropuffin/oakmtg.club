@@ -26,6 +26,9 @@ We will be voting for a California Assemblymember!  (This is the state-level equ
 
 Our assembly district is 18 (commonly referred to as “AD18”), and covers Alameda, San Leandro, and much of Oakland. You can [check if you are in AD18 and should expect to vote in this special election](http://findyourrep.legislature.ca.gov/). The short version: North Oakland is AD15, everyone else is in AD18.
 
+[I got it, take me to the candidates already](/2021/candidates)
+
+
 ## OK this is important but WHY are we voting in another election on June 29 2021??
 
 Ever since President Biden’s election, California has been playing a delightful game of musical chairs.  Besides replacing our junior Senator with a new junior Senator:
@@ -41,6 +44,8 @@ Why Rob Bonta?  State legislators are capped at 12 continuous years in office, a
 ### What this "Tidbits" is
 
 There are currently no accessible voting guides with hyper-local candidate and ballot measure analyses in Oakland, so we wanted to make one for you. Given the short turnaround coinciding with municipal budget shenanigans, we aren’t publishing a full voter guide - but we do have some tidbits for you, the voter who wishes to be informed! We give you facts we think may be relevant to your decision making that you can verify, you make your own choices, and vote on [(or before!)](https://www.oakmtg.club/how-to-vote/) June 29, 2021.
+
+[Here's our voter tidbits for the special June 29 election](/2021/candidates)
 
 ### **Who we are**
 
