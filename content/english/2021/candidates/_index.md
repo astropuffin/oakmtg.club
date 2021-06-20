@@ -58,16 +58,25 @@ There are eight (8!!) candidates running for AD18 Assemblymember. This is a powe
 - No party preference [according to SOS](https://elections.cdn.sos.ca.gov/special-elections/2021-ad18/legislative-501-report.pdf) but lists http://themilitant.com/ as his website on [https://www.acgov.org/rov_app/candidatelist?electionid=243](https://www.acgov.org/rov_app/candidatelist?electionid=243)
 - Out of all candidates, [has not accepted the voluntary expenditure limit](https://elections.cdn.sos.ca.gov/special-elections/2021-ad18/legislative-501-report.pdf)
 
-## Candidate forums
+## Candidate forums and questionnaires
 
 There have been a number of candidate forums, and more are coming up still!
 
 You may be particularly interested in the [(June 5 East Bay For Everyone candidate forum)](https://www.youtube.com/watch?v=DUNW19V35bQ) which asked candidates (39:24) "Do you support the move to de-police traffic enforcement, and what legislative actions would ensure safe streets without armed police?".  (Note: two candidates did not answer this question: Mia Bonta backed out of this forum entirely, and Janani Ramachandran had to leave the forum early.)
 
+(Note: East Bay For Everyone [planned to give no endorsement for this race](https://eastbayforeveryone.org/2021/06/07/ad18-special-election-candidate-forum/))
+
 [Oakland East Bay Democratic Club - AD18 Candidate Forum - May 20](https://www.youtube.com/watch?v=rPzmEwI0X_I) (result: endorsement for Janani Ramachandran)
 
-#### Upcoming candidate forums
+[East Bay Stonewall Democrats - AD18 Candidate Forum - May 26](https://fb.watch/60Rdo9aT9b/) (result: [no endorsement according to BAR](https://www.ebar.com/news/latest_news/305583))
 
-[Saturday June 12 1pm](https://www.eventbrite.com/e/ad18-candidate-social-justice-forum-tickets-157702441247?aff=erelexpmlt)
+[East Bay Stonewall Democrats - questionnaire results](https://eastbaystonewalldemocrats.org/Elections)
 
-[June 15 7pm](https://zoom.us/webinar/register/WN_LSVqjoRGS9eeKUFRUR28Ng)
+[YIMBY Action Questionnaire: Mia Bonta](https://drive.google.com/file/d/1K2e7Zx7878iZdGIMaR4v_6_p8XfrvNaK/view)
+
+[YIMBY Action Questionnaire: Malia Vella](https://drive.google.com/file/d/1B0plD_sBdkQOW8IHLMm415qRIsqLfpGC/)
+
+
+[San Leandro Democratic Club held a forum on Saturday June 12 1pm - please let us know if there's a recording](https://www.eventbrite.com/e/ad18-candidate-social-justice-forum-tickets-157702441247?aff=erelexpmlt)
+
+[League of Women Voters held a forum on June 15 7pm - please let us know if there's a recording](https://zoom.us/webinar/register/WN_LSVqjoRGS9eeKUFRUR28Ng)
