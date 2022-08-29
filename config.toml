@@ -71,7 +71,7 @@ weight = 2
 hasChildren = true
 
 [[menu.main]]
-name = "2022 Voter Guide"
+name = "2022 Ballot Tidbits"
 URL = "2022/guide"
 parent = "Voter Guide"
 weight = 1
@@ -94,16 +94,16 @@ weight = 3
 hasChildren = true
 
 [[menu.main]]
-name = "2021 Voter Guide"
+name = "2021 Ballot Tidbits"
 URL = "2021/guide"
-weight = 9
+weight = 3
 hasChildren = true
 parent = "Previous Guides"
 
 [[menu.main]]
 name = "2020 Voter Guide"
 URL = "2020/guide"
-weight = 9
+weight = 5
 hasChildren = true
 parent = "Previous Guides"
 
