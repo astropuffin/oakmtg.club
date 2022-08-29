@@ -94,13 +94,6 @@ weight = 3
 hasChildren = true
 
 [[menu.main]]
-name = "2021 Voter Guide TMP"
-URL = "guide"
-weight = 9
-hasChildren = true
-parent = "Previous Guides"
-
-[[menu.main]]
 name = "2021 Voter Guide"
 URL = "2021/guide"
 weight = 9
@@ -180,11 +173,11 @@ URL = "about"
 
 [[menu.footer]]
 name = "How to Vote"
-URL = "how-to-vote"
+URL = "2022/how-to-vote"
 
 [[menu.footer]]
 name = "Candidates"
-URL = "candidates"
+URL = "2022/candidates"
 
 #[[menu.footer]]
 #name = "scholarship"
