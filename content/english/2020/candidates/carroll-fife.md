@@ -61,7 +61,7 @@ During the August 18 Alameda County Democratic Party Candidate Forum, Fife respo
 * Cat Brooks (co-founder of APTP, 2018 mayoral candidate)
 * Richard Valle, President Alameda County Board of Supervisors
 * Ash Kalra, State Assembly Member, District 27 (San Jose)
-* [Zoe Lopez-Meraz, D5 candidate](https://www.oakmtg.club/candidates/zoe-lopez-meraz/)
+* [Zoe Lopez-Meraz, D5 candidate](https://www.oakmtg.club/2020/candidates/zoe-lopez-meraz/)
 * The Alameda Labor Council
 * SEIU 1021
 * IAFF Local 55: Oakland Firefighters
