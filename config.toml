@@ -16,7 +16,6 @@ name = "city"
 content = "oakland"
 
 
-
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -54,67 +53,67 @@ name = "About"
 weight = 1
 hasChildren = true
 
-    [[menu.main]]
-    name = "About Us"
-    URL = "about"
-    parent = "About"
-    weight = 1
+[[menu.main]]
+name = "About Us"
+URL = "about"
+parent = "About"
+weight = 1
 
-    [[menu.main]]
-    parent = "About"
-    name = "methodology"
-    URL = "methodology"
-    weight = 2
+[[menu.main]]
+parent = "About"
+name = "methodology"
+URL = "methodology"
+weight = 2
 
 [[menu.main]]
 name = "Voter Guide"
 weight = 2
 hasChildren = true
 
-    [[menu.main]]
-    name = "2021 Voter Tidbits"
-    URL = "guide"
-    parent = "Voter Guide"
-    weight = 1
+[[menu.main]]
+name = "2022 Voter Guide"
+URL = "2022/guide"
+parent = "Voter Guide"
+weight = 1
 
-    [[menu.main]]
-    name = "How to Vote"
-    URL = "2021/how-to-vote"
-    parent = "Voter Guide"
-    weight = 3
+[[menu.main]]
+name = "How to Vote"
+URL = "2022/how-to-vote"
+parent = "Voter Guide"
+weight = 3
 
-    [[menu.main]]
-    name = "Candidates"
-    URL = "2021/candidates"
-    parent = "Voter Guide"
-    weight = 5
+[[menu.main]]
+name = "Candidates"
+URL = "2022/candidates"
+parent = "Voter Guide"
+weight = 5
 
 [[menu.main]]
 name = "Previous Guides"
 weight = 3
 hasChildren = true
 
-    [[menu.main]]
-    name = "2021 Voter Guide TMP"
-    URL = "guide"
-    weight = 9
-    hasChildren = true
-    parent = "Previous Guides"
+[[menu.main]]
+name = "2021 Voter Guide TMP"
+URL = "guide"
+weight = 9
+hasChildren = true
+parent = "Previous Guides"
 
-    [[menu.main]]
-    name = "2021 Voter Guide"
-    URL = "2021/guide"
-    weight = 9
-    hasChildren = true
-    parent = "Previous Guides"
+[[menu.main]]
+name = "2021 Voter Guide"
+URL = "2021/guide"
+weight = 9
+hasChildren = true
+parent = "Previous Guides"
 
-    [[menu.main]]
-    name = "2020 Voter Guide"
-    URL = "2020/guide"
-    weight = 9
-    hasChildren = true
-    parent = "Previous Guides"
-        
+[[menu.main]]
+name = "2020 Voter Guide"
+URL = "2020/guide"
+weight = 9
+hasChildren = true
+parent = "Previous Guides"
+
 
 #[[menu.main]]
 #name = "Call to Action"
@@ -166,7 +165,7 @@ hasChildren = true
 #name = "blog"
 #URL = "blog"
 #weight = 4
-  
+
 #[[menu.main]]
 #name = "Contact"
 #URL = "contact"
@@ -214,52 +213,52 @@ google_analitycs_id = "UA-179247089-1" # your id
 # top header
 top_header = true
 
-# Preloader
-[params.preloader]
-enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
-## Subscription
-#[params.subscription]
-#enable = true
-## mailchimp subsciption
-#mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-#mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+  ## Subscription
+  #[params.subscription]
+  #enable = true
+  ## mailchimp subsciption
+  #mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+  #mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
-# google map
-#[params.map]
-#enable = true
-##TODO: add a more recent key
-#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-#map_latitude = "51.5223477"
-#map_longitude = "-0.1622023"
-#map_marker = "images/marker.png" # marker size 37*55 px
-  
-############################# social site ########################
-#[[params.social]]
-#title = "facebook"
-#icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-#link = "#"
+  # google map
+  #[params.map]
+  #enable = true
+  ##TODO: add a more recent key
+  #gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+  #map_latitude = "51.5223477"
+  #map_longitude = "-0.1622023"
+  #map_marker = "images/marker.png" # marker size 37*55 px
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/search?q=%23oakmtg"
+  ############################# social site ########################
+  #[[params.social]]
+  #title = "facebook"
+  #icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+  #link = "#"
 
-#[[params.social]]
-#title = "instagram"
-#icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-#link = "#"
+  [[params.social]]
+  title = "twitter"
+  icon = "ti-twitter-alt"                         # themify icon : https://themify.me/themify-icons
+  link = "https://twitter.com/search?q=%23oakmtg"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/astropuffin/oakmtg.club"
+  #[[params.social]]
+  #title = "instagram"
+  #icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+  #link = "#"
 
-[[params.social]]
-title = "email"
-icon = "ti-email" # themify icon : https://themify.me/themify-icons
-link = "mailto:oakmtg-club@googlegroups.com"
+  [[params.social]]
+  title = "github"
+  icon = "ti-github"                                  # themify icon : https://themify.me/themify-icons
+  link = "https://github.com/astropuffin/oakmtg.club"
+
+  [[params.social]]
+  title = "email"
+  icon = "ti-email"                            # themify icon : https://themify.me/themify-icons
+  link = "mailto:oakmtg-club@googlegroups.com"
 
 
 ################################### English language #####################################
