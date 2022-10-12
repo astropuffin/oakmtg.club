@@ -1,36 +1,35 @@
 ################################# Slider #####################################
 slider:
-  enable : true
-  bg_image : "images/oakland_skyline.jpg"
+  enable: true
+  bg_image: "images/oakland_skyline.jpg"
   slider_item:
     # slider item loop
-    - title : "#OakMtg (Appreciation) Club"
-      content : "A community of friends and neighbors dedicated to transparency and keeping tabs on local politics"
-      animation_in : "left"
-      animation_out : "right"
+    - title: "#OakMtg (Appreciation) Club"
+      content: "A community of friends and neighbors dedicated to transparency and keeping tabs on local politics"
+      animation_in: "left"
+      animation_out: "right"
       # available animation : left, right, up, down
       button:
-        enable : true
-        label : "Learn more"
-        link : "about"
+        enable: true
+        label: "Learn more"
+        link: "/about"
 
-
-    - title : "The Oakland.Vote Ballot Guide"
-      content : "An accessible voting guide with facts, research, and our takes on the candidates."
-      animation_in : "left"
-      animation_out : "right"
+    - title: "The Oakland.Vote Ballot Guide"
+      content: "An voting guide with facts, research, and our takes on the candidates."
+      animation_in: "left"
+      animation_out: "right"
       # available animation : left, right, up, down
       button:
-        enable : true
-        label : "Learn more"
-        link : "guide"
+        enable: true
+        label: "Learn more"
+        link: "/2022/guide"
 
 ########################## Call to action ############################
 cta:
-  enable : true
-  subtitle : "Reach Out to Get Involved"
-  title : "Make a Difference in Oakland"
+  enable: true
+  subtitle: "Reach Out to Get Involved"
+  title: "Make a Difference in Oakland"
   button:
-    enable : true
-    label : "Contact Us"
-    link : "mailto:oakmtg-club@googlegroups.com"
+    enable: true
+    label: "Contact Us"
+    link: "mailto:oakmtg-club@googlegroups.com"
