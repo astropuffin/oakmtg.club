@@ -1,0 +1,123 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <div class="col-12 mb-4">
+        <img style="max-height: 50vh;object-fit: contain;" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 mb-50">
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <div>
+          {{ with .Site.GetPage "section" "candidates"}}
+            {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "Oakland City Council" }}
+            <div>
+              <h3>{{ .Key }}</h3>
+                <div>
+                  {{ range (.Pages.GroupByParam "district") }}
+                  {{ if (or (eq .Key $.Page.Params.District) (eq .Key "At-Large"))}}
+                    <h4>District: {{ .Key }}</h4>
+                    <div class="row filtr-container">
+                      {{ range (.Pages)}}
+                        <div class="col-lg-4 col-sm-6 filtr-item">
+                          {{ .Render "candidate" }}
+                        </div>
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  {{ end }}
+                </div>
+            </div>
+            {{ end }}
+            {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "AC Transit Board of Directors" }}
+            <div>
+              <h3>{{ .Key }}</h3>
+                <div>
+                  {{ range (.Pages.GroupByParam "district") }}
+                  {{ if in $.Page.Params.ac_transit_wards .Key }}
+                    <h4>AC Transit Ward: {{ .Key }}</h4>
+                    <div class="row filtr-container">
+                      {{ range (.Pages)}}
+                        <div class="col-lg-4 col-sm-6 filtr-item">
+                          {{ .Render "candidate" }}
+                        </div>
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  {{ end }}
+                </div>
+            </div>
+            {{ end }}
+            {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "BART Board of Directors" }}
+            <div>
+              {{ $districts := where (.Pages.GroupByParam "district") ".Key" "in" $.Page.Params.bart_districts }}
+              {{ $count := len $districts }}
+              {{ if gt $count 0 }}
+              <h3>{{ .Key }}</h3>
+                <div>
+                  {{ range (.Pages.GroupByParam "district") }}
+                  {{ if in $.Page.Params.bart_districts .Key }}
+                    <h4>BART District: {{ .Key }}</h4>
+                    <div class="row filtr-container">
+                      {{ range (.Pages)}}
+                        <div class="col-lg-4 col-sm-6 filtr-item">
+                          {{ .Render "candidate" }}
+                        </div>
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+            {{ end }}
+            {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "not in" (slice "Oakland City Council" "AC Transit Board of Directors" "BART Board of Directors") }}
+            <div>
+              {{ $districts := where (.Pages.GroupByParam "district") ".Key" "in" (slice $.Page.Params.District "At-Large") }}
+              {{ $count := len $districts }}
+              {{ if gt $count 0 }}
+              
+              <h3>{{ .Key }}</h3> <!-- e.g., OUSD School Board Director -->
+                <div>
+                  {{ range (.Pages.GroupByParam "district") }}
+                  {{ if (or (eq .Key $.Page.Params.District) (eq .Key "At-Large"))}}
+                    <h4>District: {{ .Key }}</h4> <!-- e.g., District: 4 -->
+                    <div class="row filtr-container">
+                      {{ range (.Pages)}}
+                        <div class="col-lg-4 col-sm-6 filtr-item">
+                          {{ .Render "candidate" }}
+                        </div>
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  {{ end }}
+                </div>
+              
+              {{ end }}
+            </div>
+            {{ end }}
+          {{ end }}
+          <h3>Ballot Measures</h3>
+          {{ with .Site.GetPage "section" "ballot-measures"}}
+            <div class="row filtr-container">
+              {{ range (.Pages)}}
+                <div class="col-lg-4 col-sm-6 filtr-item">
+                  {{ .Render "ballot-measure" }}
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

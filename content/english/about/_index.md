@@ -2,9 +2,8 @@
 title: About Us
 bg_image: images/OaklandPanorama2.jpg
 image: images/oakland_skyline_lake_merritt.jpg
-description: A group of Oakland residents who want to share what they're
-  learning about how our city works
-type: about_index
+description: A group of Oakland residents who want to share what they're learning about how our city works
+type: 2022/about_index
 ---
 ## \#OakMtg (Appreciation) Club
 
@@ -16,22 +15,22 @@ Then we became infuriated and fascinated by the lack of transparency and lies we
 
 ### What we do:
 
-We've created our first [voter guide](/guide) for the November 2020 election to try to increase transparency around the candidates based on what we've learned from these city meetings.
+#### Voter guide
 
-We also [live-tweet Oakland meetings using the "#oakmtg" hashtag](https://twitter.com/search?q=%23oakmtg). Come join us! We started out with and are actively engaged in last mile civic participation: weighing in with local policymakers at the moment when ordinances are debated and passed. We call in to various meetings, including Oakland City Council and Oakland Police Commission meetings, during the public comment sections. This can and does cause Council Members and Commissioners to change what is being voted on.
+We created two voter guides: an exhaustive [November 2020 guide](/2020/guide) and a [June 2021 tidbits](/2021/guide]).
 
-We want to do more.
+And here we are in 2022.  We’re exhausted from both the pandemic and politics, differently exhausted than we were this time two years ago, or even one year ago.  We were even thinking of just redirecting this URL to the [official city voting webpage](https://www.oaklandca.gov/topics/elections).  Instead, we bring you the most minimally viable voter guide: the Oakland mayoral race.
 
-This site was made for us to enable more folks to join us. There's a LOT to take in, so we made this website to make it easier to keep track of what's going on. We will build this site out over time, particularly after the election, as we track promises made by elected officials and appointees.
+#### #oakmtg livetweets
+We still [livetweet Oakland meetings using the "#oakmtg" hashtag](https://twitter.com/search?q=%23oakmtg). Come join us! We started out with and are actively engaged in last mile civic participation: weighing in with local policymakers at the moment when ordinances are debated and passed. 
 
-If you'd like to join us, please shoot us [an email](mailto:oakmtg-club@googlegroups.com).
+#### Civic engagement
+We call in to various meetings, including Oakland City Council and Oakland Police Commission meetings, during the public comment sections. This can and does cause Council Members and Commissioners to change what is being voted on.
 
-### Other voter guides from community organizations:
+We hope you’ll engage with our city’s civic processes, too.
 
-* [LWV Voter Resources](https://my.lwv.org/california/oakland/whats-new-make-plan)
-* [Oakland Rising Action Voter Guide](https://www.oaklandrisingaction.org/2020-voter-guide/)
-* [Pamela Drake's Voter Guide](https://draketalkoakland.com/2020/08/27/1126/)
+### Other voter resources from community organizations:
 
-
-
-Want your guide added to our website? [EMAIL US](<mailto: oakmtg-club@googlegroups.com>) with your organization and the link to the voter guide and we’ll chat with you about it.
+* [League of Women Voters of Oakland](https://www.lwvoakland.org/)
+* [Oakland Rising Action Voter Guide](https://oaklandrisingaction.org/2022-general-election/)
+* [Pamela Drake's Voter Guides](https://draketalkoakland.wordpress.com/)

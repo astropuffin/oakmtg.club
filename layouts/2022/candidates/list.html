@@ -1,0 +1,102 @@
+{{ define "main" }}
+
+<!-- candidates content -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /candidates content -->
+
+<!-- candidates -->
+<section class="section">
+  <div class="container">
+    {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "Mayor of Oakland" }}
+    <div>
+      <h3>{{ .Key }}</h3>
+      <div class="row filtr-container">
+        {{ range (.Pages)}}
+        <div class="col-lg-4 col-sm-6 filtr-item">
+          {{ .Render "candidate" }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "Oakland City Council" }}
+    <div>
+      <h3>{{ .Key }}</h3>
+      <div>
+        {{ range (.Pages.GroupByParam "district") }}
+        <h4>District: {{ .Key }}</h4>
+        <div class="row filtr-container">
+          {{ range (.Pages)}}
+          <div class="col-lg-4 col-sm-6 filtr-item">
+            {{ .Render "candidate" }}
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "AC Transit Board of Directors" }}
+    <div>
+      <h3>{{ .Key }}</h3>
+      <div>
+        {{ range (.Pages.GroupByParam "district") }}
+        <h4>AC Transit Ward: {{ .Key }}</h4>
+        <div class="row filtr-container">
+          {{ range (.Pages)}}
+          <div class="col-lg-4 col-sm-6 filtr-item">
+            {{ .Render "candidate" }}
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "==" "BART Board of Directors" }}
+    <div>
+      <h3>{{ .Key }}</h3>
+      <div>
+        {{ range (.Pages.GroupByParam "district") }}
+        <h4>BART District: {{ .Key }}</h4>
+        <div class="row filtr-container">
+          {{ range (.Pages)}}
+          <div class="col-lg-4 col-sm-6 filtr-item">
+            {{ .Render "candidate" }}
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    {{ range where (.Data.Pages.GroupByParam "Office") ".Key" "not in" (slice "Mayor of Oakland" "Oakland City Council" "AC Transit Board of Directors" "BART Board of Directors") }}
+    <div>
+      <h3>{{ .Key }}</h3>
+      <div>
+        {{ range (.Pages.GroupByParam "district") }}
+        <h4>District: {{ .Key }}</h4>
+        <div class="row filtr-container">
+          {{ range (.Pages)}}
+          <div class="col-lg-4 col-sm-6 filtr-item">
+            {{ .Render "candidate" }}
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+<!-- /candidates -->
+
+{{ end }}

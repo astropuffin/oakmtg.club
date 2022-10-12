@@ -35,8 +35,8 @@ Fierce's policy priorities fall into two main categories: initiatives that assis
 
 ### Notable Supporters
 
-* AFSCME Local 3916 (which endorsed both Fierce and incumbent [Chris Peeples](https://www.oakmtg.club/candidates/h-e-christian-chris-peeples/))
-* AFSME Council 57 (which endorsed both Fierce and incumbent [Chris Peeples](https://www.oakmtg.club/candidates/h-e-christian-chris-peeples/))
+* AFSCME Local 3916 (which endorsed both Fierce and incumbent [Chris Peeples](https://www.oakmtg.club/2020/candidates/h-e-christian-chris-peeples/))
+* AFSME Council 57 (which endorsed both Fierce and incumbent [Chris Peeples](https://www.oakmtg.club/2020/candidates/h-e-christian-chris-peeples/))
 * East Bay Young Democrats
 * East Bay Stonewall Democratic Club
 
@@ -44,7 +44,7 @@ Fierce's policy priorities fall into two main categories: initiatives that assis
 
 **Main vibes: Your friend who claims to hate drama but keeps starting it.** Victoria Fierce is very active on [Twitter](https://twitter.com/akronisticlotor) where she can be kind of mean (she’s on her second [Twitter account](https://twitter.com/sotiredofish/status/1223289558927728640)). Fierce's position on [market-rate](https://www.them.us/story/fighting-back-against-queer-neighborhood-gentrification) housing has at times been synonymous with gentrification and led her into conflict with affordable housing advocates including District 3 City Council candidate [Carroll Fife](https://twitter.com/carroll_fife/status/1304871308803489792).
 
-**Weirdly in bed with Lyft vibes:** Victoria Fierce was recently [embroiled](https://oaklandside.org/2020/09/24/lyft-backing-campaign-to-unseat-oakland-councilmember-rebecca-kaplan/) in [controversy](https://www.patreon.com/posts/shape-shifting-42014068) when both she and Lyft donated money to a PAC to support Oakland City Council At-Large Candidate [Derreck Johnson](https://www.oakmtg.club/candidates/derreck-johnson/) and opposing incumbent [Rebecca Kaplan](https://www.oakmtg.club/candidates/rebecca-kaplan/). Although the PAC was started by two fellow East Bay for Everyone figures, [Fierce claims](https://twitter.com/akronisticlotor/status/1310597171427770369) the PAC was opened up “behind my back.” She also has been unclear about the date she donated to the PAC, at one point claiming the donation happened in [“April maybe”](https://twitter.com/akronisticlotor/status/1310617172306059267) (her donation was processed on August 24, 2020).
+**Weirdly in bed with Lyft vibes:** Victoria Fierce was recently [embroiled](https://oaklandside.org/2020/09/24/lyft-backing-campaign-to-unseat-oakland-councilmember-rebecca-kaplan/) in [controversy](https://www.patreon.com/posts/shape-shifting-42014068) when both she and Lyft donated money to a PAC to support Oakland City Council At-Large Candidate [Derreck Johnson](https://www.oakmtg.club/2020/candidates/derreck-johnson/) and opposing incumbent [Rebecca Kaplan](https://www.oakmtg.club/2020/candidates/rebecca-kaplan/). Although the PAC was started by two fellow East Bay for Everyone figures, [Fierce claims](https://twitter.com/akronisticlotor/status/1310597171427770369) the PAC was opened up “behind my back.” She also has been unclear about the date she donated to the PAC, at one point claiming the donation happened in [“April maybe”](https://twitter.com/akronisticlotor/status/1310617172306059267) (her donation was processed on August 24, 2020).
 
 **Wants to tax Lyft somehow vibes:** As a car-less transit rider, Fierce has vowed to apply a sales tax to rideshare companies like Lyft that will fund transit (we’re not sure that’s within the AC Transit Board’s abilities).
 

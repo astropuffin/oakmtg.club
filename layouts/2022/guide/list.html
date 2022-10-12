@@ -1,0 +1,35 @@
+
+
+{{ define "main" }}
+
+<!-- guide -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="content">
+        <h2>{{ .Params.Byline }}</h2>
+        {{ range .Params.Buttons }}
+          <a href="{{ .link }}" class="btn btn-primary">{{ .title }}</a>
+        {{ end }}
+        {{ .Content }}
+      </div>
+      <!-- guide image -->
+      {{ with .Params.Image }}
+      <div>
+        <a href="http://gisapps1.mapoakland.com/councildistricts"><img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="guide image"></a>
+        {{ end }}
+      </div>
+      <!-- <div><h3>Click on your District below to see your ballot options.</h3></div>
+      <div class="row">
+        {{ range .Data.Pages}}
+          <div class="col-lg-4 col-sm-6 mb-4">
+            {{ .Render "guide" }}
+          </div>
+        {{ end }}
+      </div> -->
+    </div>
+  </div>
+</section>
+<!-- /guide -->
+
+{{ end }}
