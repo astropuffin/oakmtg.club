@@ -60,6 +60,8 @@ https://www.sfchronicle.com/eastbay/article/Oakland-City-Council-could-take-key-
 ### Notable supporters
 Curiously, [Taylor’s campaign endorsements page](https://lorenforoakland.com/endorsements/) doesn’t mention endorsements from any organizations, only individuals. This is perplexing as most candidates want you to know which organizations support them for office. Or maybe it’s because Sheng Thao scooped them all before Taylor had a chance.  
 
+Edit: we see Taylor has been endorsed by YIMBY Action (see [here](https://yimbyaction.org/endorsements/alameda-contra-costa-counties/#oakland) and [some context](https://twitter.com/ZZZZZZZZZZZack/status/1581726497198419968)).
+
 Meanwhile, Taylor has not collected a single endorsement from the 5 Councilmembers who are not running for Mayor.  Even Reid has a single #2 choice endorsement from one Councilmember.
 
 #### Individuals endorsing Taylor

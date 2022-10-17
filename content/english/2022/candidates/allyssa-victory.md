@@ -15,6 +15,9 @@ contact:
   - name: Twitter
     icon: ti-twitter
     link: https://twitter.com/Victory4Oakland
+  - name: Interview with Oaklandside
+    icon: ti-world
+    link: https://oaklandside.org/2022/10/13/oakland-mayor-campaign-2022-interview-candidate-allyssa-victory/
 ---
 
 # TL;DR: Love housing, public banking, social housing, guaranteed basic income, or housing? So does she!

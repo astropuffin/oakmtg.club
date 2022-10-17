@@ -14,7 +14,7 @@ contact:
     link: https://www.delafuenteformayor.com/
 ---
 
-# TL;DR: Loves cops, hates weed
+# TL;DR: Fond of law, order, and coal. 420 not ok.
 
 # Introduction
 Ignacio De La Fuente was relevant in Oakland politics until a decade ago, when he left his D5 seat to challenge Rebecca Kaplan’s at-large seat.  It didn’t work.  But he wants to return to Oakland politics again now!  He plans to increase funding to police; it is unclear if he still would like to attempt to close all the dispensaries again.
