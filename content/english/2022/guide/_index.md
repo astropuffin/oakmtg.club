@@ -4,7 +4,7 @@ byline: Oakland.Vote 2022
 bg_image: images/OaklandPanorama2.jpg
 description: What you need to vote in Oakland's 2022 election.
 image: images/background-oakland-panorama.jpg 
-type: guide
+type: 2022/guide
 buttons:
   - title: How do I vote in the 2022 election?
     link: /2022/how-to-vote

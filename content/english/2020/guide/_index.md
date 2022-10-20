@@ -12,7 +12,7 @@ buttons:
     link: /2020/how-to-vote
   - title: Look up your district
     link: http://gisapps1.mapoakland.com/councildistricts/
-type: guide
+type: 2020/guide
 ---
 
 ### **What this is:**

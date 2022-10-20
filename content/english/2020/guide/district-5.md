@@ -10,7 +10,7 @@ title: District 5
 district: "5"
 description: Fruitvale, Jingletown, Glenview, China Hill and Crocker Highlands
 image: images/district-5.png
-type: guide
+type: 2020/guide
 ---
 This is a guide to Oakland's District 5 ballot. This year, voters living in this part of Oakland will vote on four ballot measures as well as for the following positions:
 

@@ -4,7 +4,7 @@ district: "7"
 bg_image: images/OaklandPanorama2.jpg
 description: Coliseum, Hegenberger and from Oakland Airport to Zoo
 image: images/district-7.png
-type: guide
+type: 2020/guide
 ac_transit_wards:
   - At-Large
   - "3"

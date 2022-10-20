@@ -5,7 +5,7 @@ title: District 6
 district: "6"
 description: "Maxwell Park, Millsmont, Havenscourt & Eastmont "
 image: images/district-6.png
-type: guide
+type: 2020/guide
 ac_transit_wards:
   - At-Large
   - "2"

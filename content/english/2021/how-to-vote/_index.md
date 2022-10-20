@@ -2,7 +2,7 @@
 title: How to Vote
 bg_image: images/OaklandPanorama2.jpg
 description: How you can vote in Oakland on or before June 29 2021
-type: how-to-vote
+type: 2021/how-to-vote
 ---
 ### How do I vote?
 

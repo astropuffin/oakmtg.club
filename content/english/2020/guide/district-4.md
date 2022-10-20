@@ -5,7 +5,7 @@ title: District 4
 district: "4"
 description: "Allendale, Barlett, Montclair, Redwood Heights, Dimond & Laurel District "
 image: images/district-4.png
-type: guide
+type: 2020/guide
 ac_transit_wards:
   - At-Large
   - "2"
