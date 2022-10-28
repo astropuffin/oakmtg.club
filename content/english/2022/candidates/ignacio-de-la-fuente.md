@@ -17,7 +17,7 @@ contact:
 # TL;DR: Fond of law, order, and coal. 420 not ok.
 
 # Introduction
-Ignacio De La Fuente was relevant in Oakland politics until a decade ago, when he left his D5 seat to challenge Rebecca Kaplan’s at-large seat.  It didn’t work.  But he wants to return to Oakland politics again now!  He plans to increase funding to police; it is unclear if he still would like to attempt to close all the dispensaries again.
+Ignacio De La Fuente was relevant in Oakland politics until a decade ago, when he left his D5 seat to challenge Rebecca Kaplan’s at-large seat.  It didn’t work.  But [with the help of Big Coal](https://oaklandside.org/2022/10/03/oakland-mayor-campaign-2022-unions-coal-terminal-independent-expenditure-committee/) he wants to return to Oakland politics again now!  He plans to increase funding to police; it is unclear if he still would like to attempt to close all the dispensaries again.
 
 ### Issues
 De La Fuente will do “whatever it takes to increase the number of police officers”, and to sweep away homeless encampments.  He also brags about some of his past accomplishments:
@@ -57,6 +57,6 @@ Donors include a big coal developer, real estate companies, and landlords who ar
 * Michael Lowe, executive, [AB&I Foundry](https://oaklandside.org/2022/03/11/abi-foundry-in-east-oakland-announces-permanent-closure/) (There’s a separate donation from AB&I as well. De La Fuente has accepted a lot of bundled donations: [bundling](https://www.thoughtco.com/bundling-political-contributions-legal-and-illegal-3367621) is a legal way around legal limits to individual campaign contributions.)
 * Mark McClure, business partner in [CCIG](https://eastbayexpress.com/oakland-coal-company-dissolves-reconstitutes-2-1/) of [Phil Tagami](https://twitter.com/hyphy_republic/status/1567933436815634433)
 * [Robert “Bishop Bob” Jackson, pastor, Acts Full Gospel](https://www.oakmtg.club/2020/candidates/robert-jackson/)
-Richard Lucia, Undersheriff, Alameda County Sheriff’s Office
+* [Richard Lucia, Undersheriff, Alameda County Sheriff’s Office](https://eastbayexpress.com/undersheriff-said-oaklandnbsppolice-stood-up-deputies-at-moms-4-housingnbspeviction-1/)
 * [Robert Valladon](https://chaunceybaileyproject.org/2009/01/23/fbi-investigating-oakland-police-department/), former president of Oakland Police Officers Association
 * [Rudy Villegas](https://www.sfgate.com/bayarea/article/Oakland-police-union-denies-overtime-abuse-2660459.php), former secretary of Oakland Police Officers Association
