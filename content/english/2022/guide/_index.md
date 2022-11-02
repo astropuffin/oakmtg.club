@@ -35,7 +35,7 @@ Here’s what you need to know:
   * Reid (D7) and Kaplan (At-large) will continue to hold their Councilmember seats, unless either is elected (at which point a special election will be held).
 * Kaplan (At-large) is running for County Supervisor, and has been endorsed by 5 of the 7 other Councilmembers
 * Thao (D4) is running for Mayor and has been endorsed by 3 of the 7 other Councilmembers
-* Reid (D7) is running for Mayor and has been endorsed as “#2 choice” by 1 of the 7 other Councilmembers
+* Reid (D7) is running for Mayor and has been endorsed as “#2 choice” by 2 of the 7 other Councilmembers
 * Taylor (D6) is running for Mayor and had not received any endorsements from any of the other 7 Councilmembers until Oct 26, when [Reid and Taylor announced each other as their #2 choice](https://www.sfchronicle.com/politics/article/Two-Oakland-mayor-candidates-form-a-strategic-17537089.php).
 
 Want to read more? Neat! We don’t know who made this Oakland politics cliffnotes, and can’t speak to the accuracy of their notes, but [this](https://docs.google.com/document/d/1ZeeINU0a3sn4MdejfhhcYKjlNPPc9ZNe2BW2sFUSJWU/edit#heading=h.dfm3zx7isenz) might be a good reference to dive deeper into the horrible interconnected web of [#oaktmg](https://twitter.com/search?q=%23oakmtg) hatefest.
