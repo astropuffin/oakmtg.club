@@ -47,8 +47,8 @@ Want to read more? Neat! We don’t know who made this Oakland politics cliffnot
 
 |                     	| Treva Reid | Sheng Thao | Loren Taylor | Rebecca Kaplan (County race) |
 |-------------------------|------------|------------|--------------|------------------------------|
-| Rebecca Kaplan At-large | 2      	| 1      	| 2        	| -                        	|
-| Dan Kalb D1         	| 2      	| 1      	| -        	| 1                        	|
+| Rebecca Kaplan At-large | -      	| 1      	| -        	| -                        	|
+| Dan Kalb D1            	| 2      	| 1      	| 2   	    | 1                        	|
 | Nikki Fortunato Bas D2  | -      	| 1      	| -        	| 1                        	|
 | Carroll Fife D3     	| -      	| -      	| -        	| 1                        	|
 | Sheng Thao D4       	| -      	| -      	| -        	| 1                        	|
