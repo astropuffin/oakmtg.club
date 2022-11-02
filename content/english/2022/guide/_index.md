@@ -16,11 +16,11 @@ buttons:
 
 Oakland has a “strong mayor” system, which means the Mayor [creates the budget](https://cao-94612.s3.amazonaws.com/documents/Budget-Basics-FY21-23-17.pdf) and picks _who_ enforces policy.  This is how the Mayor influences what happens in Oakland, and what _doesn’t_ happen in Oakland.  The most critical mayoral appointment is the [City Administrator](https://transparentcalifornia.com/salaries/search/?q=City%20Administrator&y=2021), who enforces (or not) city policies, including decisions by City Council.  The Mayor also appoints people to boards (ex: Rent Board) and commissions (ex: Police Commission), where many decisions are made about how Oakland runs.  Oakland’s Mayor serves a four-year term, and their power is checked by a term limit of 2 terms, or eight years.
 
-There are ten candidates on the ballot, and the incumbent is termed out.  As usual in Oakland, you can use [ranked choice voting](https://www.instagram.com/tv/CExJpiRBxaP/) to pick your top 3 candidates.  If one of your top 3 candidates is elected, your vote will have gone to them!
+There are ten candidates on the ballot, and the incumbent is termed out.  As usual in Oakland, you can use [ranked choice voting](https://twitter.com/amarshallbuselt/status/1584669588544856065) to pick your top 3 candidates.  If one of your top 3 candidates is elected, your vote will have gone to them!
 
 ### Candidates Stance Spectrum
 #### Cops vs Community Investment/Divestment Candidate Spectrum
-![Scale of Community to Cops: Victory | Thao, Jordan, Hodge | Taylor, Reid, Scott, De La Fuente](/images/2022/overview-scale-cop-to-community.jpg)
+![Scale of Community to Cops: Victory | Thao, Jordan, Hodge | Taylor, Reid, Scott, De La Fuente](/images/2022/overview-scale-cop-to-community-updated.jpg)
 
 #### Sweet On Homeless Encampment Sweeps
 Four candidates have advocated for sweeping homeless encampments:
@@ -36,11 +36,11 @@ Here’s what you need to know:
 * Kaplan (At-large) is running for County Supervisor, and has been endorsed by 5 of the 7 other Councilmembers
 * Thao (D4) is running for Mayor and has been endorsed by 3 of the 7 other Councilmembers
 * Reid (D7) is running for Mayor and has been endorsed as “#2 choice” by 1 of the 7 other Councilmembers
-* Taylor (D6) is running for Mayor and has not received any endorsements from any of the other 7 Councilmembers
+* Taylor (D6) is running for Mayor and had not received any endorsements from any of the other 7 Councilmembers until Oct 26, when [Reid and Taylor announced each other as their #2 choice](https://www.sfchronicle.com/politics/article/Two-Oakland-mayor-candidates-form-a-strategic-17537089.php).
 
 Want to read more? Neat! We don’t know who made this Oakland politics cliffnotes, and can’t speak to the accuracy of their notes, but [this](https://docs.google.com/document/d/1ZeeINU0a3sn4MdejfhhcYKjlNPPc9ZNe2BW2sFUSJWU/edit#heading=h.dfm3zx7isenz) might be a good reference to dive deeper into the horrible interconnected web of [#oaktmg](https://twitter.com/search?q=%23oakmtg) hatefest.
 
-![A diagram pointing out who endorsed whom. It looks like a giant snarl of arrows. The relationships are described verbally in the table below or the text above.](/images/2022/overview-hatefest.jpg)
+![A diagram pointing out who endorsed whom. It looks like a giant snarl of arrows. The relationships are described verbally in the table below or the text above.](/images/2022/overview-hatefest-updated..jpg)
 
 
 
@@ -71,3 +71,5 @@ https://us02web.zoom.us/rec/play/LetXQkyE2zl-pBJ0rXC1k54GfPf9SqrMG9tkNmooebspR_5
 [Oakland Rising 2022 ballot guide](https://www.oaklandrising.org/2022voterguide/)
 
 Politico's [California Ballot Tracker: Interest groups prepare for expensive 2022 fights](https://www.politico.com/interactives/2022/california-ballot-measures-propositions-guide-2022/)
+
+

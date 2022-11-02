@@ -37,6 +37,8 @@ This shift towards investing in police over community is seen in her answers at 
 
 While Councilmember Thao has sometimes been considered part of a bloc critical of police, her voting record shows a shift towards increasing funding for police. While this may not have won her an endorsement from the Oakland Police Officers’ Association, this shift towards increasing an already-increasing police budget has been noticed by others. Carl Chan, head of the Chinatown Chamber of Commerce and law-and-order advocate, [donated the maximum legally permissible amount to Thao](https://twitter.com/hyphy_republic/status/1575927348238565376).
 
+At the end of October, Thao’s mailed flyers have taken on a distinctly pro-cop flavor.  One such flyer from her campaign promotes her advocacy for another police academy, and while another flyer from a PAC describes her endorsement by Attorney General Rob Bonta as “California’s Top Law Enforcement Officer”.
+
 ### Stance on the Howard Terminal A’s Stadium
 At a Chinatown-based mayoral forum in July, Councilmember Thao called herself “[not a cheerleader](https://twitter.com/hyphy_republic/status/1572769589762871299) for Howard Terminal.” 
 
