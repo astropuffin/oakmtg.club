@@ -20,7 +20,7 @@ There are ten candidates on the ballot, and the incumbent is termed out.  As usu
 
 ### Candidates Stance Spectrum
 #### Cops vs Community Investment/Divestment Candidate Spectrum
-![Scale of Community to Cops: Victory | Thao, Jordan, Hodge | Taylor, Reid, Scott, De La Fuente](/images/2022/overview-scale-cop-to-community-updated.jpg)
+![Scale of Community to Cops: Victory | Thao, Jordan, Hodge | Taylor, Reid, Scott, De La Fuente](/images/2022/overview-scale-cop-to-community-updated.jpg) 
 
 #### Sweet On Homeless Encampment Sweeps
 Four candidates have advocated for sweeping homeless encampments:
@@ -40,7 +40,7 @@ Here’s what you need to know:
 
 Want to read more? Neat! We don’t know who made this Oakland politics cliffnotes, and can’t speak to the accuracy of their notes, but [this](https://docs.google.com/document/d/1ZeeINU0a3sn4MdejfhhcYKjlNPPc9ZNe2BW2sFUSJWU/edit#heading=h.dfm3zx7isenz) might be a good reference to dive deeper into the horrible interconnected web of [#oaktmg](https://twitter.com/search?q=%23oakmtg) hatefest.
 
-![A diagram pointing out who endorsed whom. It looks like a giant snarl of arrows. The relationships are described verbally in the table below or the text above.](/images/2022/overview-hatefest-updated..jpg)
+![A diagram pointing out who endorsed whom. It looks like a giant snarl of arrows. The relationships are described verbally in the table below or the text above.](/images/2022/overview-hatefest-updated.jpg)
 
 
 
@@ -53,8 +53,8 @@ Want to read more? Neat! We don’t know who made this Oakland politics cliffnot
 | Carroll Fife D3     	| -      	| -      	| -        	| 1                        	|
 | Sheng Thao D4       	| -      	| -      	| -        	| 1                        	|
 | Noel Gallo D5       	| -      	| -      	| -        	| 1                        	|
-| Loren Taylor D6     	| -      	| -      	| -        	| -                        	|
-| Treva Reid D7       	| -      	| -      	| -        	| -                        	|
+| Loren Taylor D6     	| 2      	| -      	| -        	| -                        	|
+| Treva Reid D7       	| -      	| -      	| 2        	| -                        	|
 
 
 
